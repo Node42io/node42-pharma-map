@@ -1,0 +1,32 @@
+{
+  "bayer ag (pharmaceuticals division)": {
+    "employees": 99723,
+    "rev_higher_usd": 1000000000,
+    "rev_lower_usd": 1000000000,
+    "source": "Bayer 2024 Annual Report: 99,723 FTE, \u20ac46.6B revenue (~$50.5B)"
+  },
+  "boehringer ingelheim": {
+    "employees": 54500,
+    "rev_higher_usd": 1000000000,
+    "rev_lower_usd": 1000000000,
+    "source": "Boehringer Ingelheim 2024 Annual Press Conference: 54,500 FTE, \u20ac25.6B revenue (~$27.7B)"
+  },
+  "merck group": {
+    "employees": 62649,
+    "rev_higher_usd": 1000000000,
+    "rev_lower_usd": 1000000000,
+    "source": "Merck KGaA 2024 Annual Report: 62,649 FTE, \u20ac21.2B revenue (~$22.9B)"
+  },
+  "novartis": {
+    "employees": 76057,
+    "rev_higher_usd": 1000000000,
+    "rev_lower_usd": 1000000000,
+    "source": "Novartis 2024 Annual Report: 76,057 FTE, $50.3B revenue"
+  },
+  "roche": {
+    "employees": 103249,
+    "rev_higher_usd": 1000000000,
+    "rev_lower_usd": 1000000000,
+    "source": "Roche 2024 Annual Report: 103,249 FTE, CHF 60.3B revenue (~$67B)"
+  }
+}

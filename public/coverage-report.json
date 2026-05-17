@@ -1,0 +1,29 @@
+{
+  "generatedAt": "2026-05-13T13:54:34.766Z",
+  "tiers": {
+    "Tier 1": {
+      "total": 110,
+      "withContacts": 91,
+      "withFullDescription": 87,
+      "withGrowthData": 92
+    },
+    "Tier 2": {
+      "total": 262,
+      "withContacts": 25,
+      "withFullDescription": 189,
+      "withGrowthData": 233
+    },
+    "Tier 3": {
+      "total": 241,
+      "withContacts": 5,
+      "withFullDescription": 134,
+      "withGrowthData": 196
+    },
+    "Tier 4": {
+      "total": 52,
+      "withContacts": 2,
+      "withFullDescription": 6,
+      "withGrowthData": 32
+    }
+  }
+}

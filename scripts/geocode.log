@@ -1,0 +1,70 @@
+
+> node42-pharma-map@0.1.0 geocode
+> tsx scripts/geocode.ts
+
+unique cities: 646 | already cached: 0 | to fetch: 646
+  10/646  Basel, Kaiseraugst, CHE → MISS
+  20/646  Bergisch Gladbach (HQ) + Teterow, DEU → MISS
+  30/646  Leipzig, DEU → 51.34,12.37
+  40/646  Düsseldorf / Hürth, DEU → MISS
+  50/646  Bonaduz / Domat-Ems, CHE → MISS
+  60/646  Zofingen, CHE → 47.29,7.95
+  70/646  St Gallen, CHE → 47.43,9.38
+  80/646  Ebingen, DEU → 48.21,9.03
+  90/646  Leipzig (HQ), DEU → 51.34,12.37
+  100/646  Crailsheim + Schnelldorf, DEU → 49.20,10.22
+  110/646  Alzey (Rhineland), DEU → 49.75,8.11
+  120/646  Unterach, AUT → 47.80,13.49
+  130/646  Neumarkt in der Oberpfalz, DEU → 49.28,11.46
+  140/646  Lannach, AUT → 46.94,15.33
+  150/646  Weiler im Allgäu, DEU → 47.58,9.91
+  160/646  Traunreut, DEU → 47.96,12.59
+  170/646  Appenweier, DEU → 48.54,7.98
+  180/646  Unterach am Attersee, AUT → 47.80,13.49
+  190/646  Norderstedt, DEU → 53.71,9.99
+  200/646  Lausanne, CHE → 46.52,6.63
+  210/646  Bernburg, DEU → 51.79,11.74
+  220/646  Hanau am Main, DEU → 50.12,8.91
+  230/646  Wessling, DEU → 48.07,11.25
+  240/646  Mendrisio + Couvet, CHE → MISS
+  250/646  Kehl, DEU → 48.57,7.81
+  260/646  Hamburg, Bovenau, DEU → MISS
+  270/646  Cologne, DEU → 50.94,6.96
+  280/646  Hodenhagen, DEU → 52.76,9.59
+  290/646  Eislingen, DEU → 48.70,9.70
+  300/646  Ludwigshafen, DEU → 49.47,8.44
+  310/646  Friesach, AUT → 46.95,14.41
+  320/646  Jena (R&D) / Vienna, DEU → MISS
+  330/646  Zeiningen (AG), CHE → 47.54,7.87
+  340/646  Écublens, CHE → 46.61,6.81
+  350/646  Hagen, DEU → 51.36,7.47
+  360/646  Herzogenburg, AUT → 48.28,15.69
+  370/646  Puchheim (Munich), DEU → MISS
+  380/646  Oelde, DEU → 51.83,8.15
+  390/646  Berlin + Geretsried, DEU → MISS
+  400/646  Bad Salzuflen, DEU → 52.08,8.76
+  410/646  Oberkirch, DEU → 48.53,8.08
+  420/646  München, DEU → 48.14,11.58
+  430/646  Pfäffikon, CHE → 47.37,8.78
+  440/646  Bad Waldsee, DEU → 47.92,9.75
+  450/646  Eckernförde, DEU → 54.47,9.84
+  460/646  Martinsried, DEU → 48.11,11.45
+  470/646  Kornwestheim, DEU → 48.86,9.19
+  480/646  Löchgau, DEU → 49.00,9.11
+  490/646  Hochheim am Main, DEU → 50.03,8.36
+  500/646  Täuffelen, CHE → 47.07,7.20
+  510/646  Domat, CHE → 46.84,9.45
+  520/646  Morfelden, DEU → 49.97,8.57
+  530/646  Muttenz, CHE → 47.53,7.65
+  540/646  Neuses, DEU → 50.21,11.31
+  550/646  Kapfenberg, AUT → 47.44,15.29
+  560/646  Linden, DEU → 50.60,7.85
+  570/646  Holzmaden, DEU → 48.63,9.52
+  580/646  Chiasso, CHE → 45.84,9.03
+  590/646  Courroux, CHE → 47.36,7.38
+  600/646  Lichtenberg, AUT → 48.36,14.26
+  610/646  NRW region, DEU → 50.88,6.21
+  620/646  Grünwald, DEU → 48.05,11.53
+  630/646  multiple, DEU → 50.60,12.67
+  640/646  Basel/Reinach, CHE → 47.51,7.60
+done. cache size: 646

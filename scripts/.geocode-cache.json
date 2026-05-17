@@ -1,0 +1,2502 @@
+{
+  "gerlingen|DEU": {
+    "lat": 48.7983947,
+    "lon": 9.0624386
+  },
+  "basel|CHE": {
+    "lat": 47.5581077,
+    "lon": 7.5878261
+  },
+  "münchenstein|CHE": {
+    "lat": 47.5187909,
+    "lon": 7.6174515
+  },
+  "ingelheim am rhein|DEU": {
+    "lat": 49.9752749,
+    "lon": 8.0547274
+  },
+  "darmstadt|DEU": {
+    "lat": 49.872775,
+    "lon": 8.651177
+  },
+  "bad homburg|DEU": {
+    "lat": 50.2283803,
+    "lon": 8.6130128
+  },
+  "göttingen|DEU": {
+    "lat": 51.5328328,
+    "lon": 9.9351811
+  },
+  "zug|CHE": {
+    "lat": 47.1486137,
+    "lon": 8.5539378
+  },
+  "geneva|CHE": {
+    "lat": 46.2017559,
+    "lon": 6.1466014
+  },
+  "frankfurt am main (höchst industriepark)|DEU": {
+    "lat": 50.0871844,
+    "lon": 8.533256
+  },
+  "bad vilbel|DEU": {
+    "lat": 50.19339,
+    "lon": 8.74918
+  },
+  "saint-prex|CHE": {
+    "lat": 46.4809059,
+    "lon": 6.4586004
+  },
+  "mainz|DEU": {
+    "lat": 49.9995205,
+    "lon": 8.2736253
+  },
+  "hamburg|DEU": {
+    "lat": 53.5501721,
+    "lon": 10.0013165
+  },
+  "aachen|DEU": {
+    "lat": 50.776351,
+    "lon": 6.083862
+  },
+  "munich|DEU": {
+    "lat": 48.1371079,
+    "lon": 11.5753822
+  },
+  "stuttgart|DEU": {
+    "lat": 48.7784485,
+    "lon": 9.1800132
+  },
+  "st-prex|CHE": {
+    "lat": 46.482298,
+    "lon": 6.4559654
+  },
+  "düsseldorf|DEU": {
+    "lat": 51.2254018,
+    "lon": 6.7763137
+  },
+  "leipzig|DEU": {
+    "lat": 51.3406321,
+    "lon": 12.3747329
+  },
+  "aßlar|DEU": {
+    "lat": 50.609245,
+    "lon": 8.447572
+  },
+  "sulzbach|DEU": {
+    "lat": 50.302682,
+    "lon": 7.7518932
+  },
+  "bern|CHE": {
+    "lat": 46.9484742,
+    "lon": 7.4521749
+  },
+  "mannheim + frankfurt|DEU": {
+    "lat": 49.7924718,
+    "lon": 8.5659093
+  },
+  "altdorf|CHE": {
+    "lat": 46.8820732,
+    "lon": 8.6413922
+  },
+  "heidelberg|DEU": {
+    "lat": 49.4093582,
+    "lon": 8.694724
+  },
+  "vienna|AUT": {
+    "lat": 48.2083537,
+    "lon": 16.3725042
+  },
+  "lachen|CHE": {
+    "lat": 47.1923827,
+    "lon": 8.8523833
+  },
+  "ludwigshafen am rhein|DEU": {
+    "lat": 49.4704113,
+    "lon": 8.4381568
+  },
+  "schwäbisch hall|DEU": {
+    "lat": 49.1124305,
+    "lon": 9.7371246
+  },
+  "winterthur|CHE": {
+    "lat": 47.4991723,
+    "lon": 8.7291498
+  },
+  "plankstadt|DEU": {
+    "lat": 49.3927294,
+    "lon": 8.5930329
+  },
+  "bad boll|DEU": {
+    "lat": 48.638716,
+    "lon": 9.6167744
+  },
+  "dreieich|DEU": {
+    "lat": 50.011974,
+    "lon": 8.7123912
+  },
+  "ravensburg|DEU": {
+    "lat": 47.7811014,
+    "lon": 9.612468
+  },
+  "zurich|CHE": {
+    "lat": 47.3744489,
+    "lon": 8.5410422
+  },
+  "vienna (favoriten)|AUT": {
+    "lat": 48.1505335,
+    "lon": 16.3661408
+  },
+  "berlin|DEU": {
+    "lat": 52.5173885,
+    "lon": 13.3951309
+  },
+  "zofingen|CHE": {
+    "lat": 47.288491,
+    "lon": 7.9458259
+  },
+  "bubendorf|CHE": {
+    "lat": 47.4979359,
+    "lon": 7.0127433
+  },
+  "berlin (adlershof)|DEU": {
+    "lat": 52.434735,
+    "lon": 13.5415575
+  },
+  "hagen / breitscheid|DEU": {
+    "lat": 52.2518524,
+    "lon": 13.9296054
+  },
+  "stockholm hq; vienna at, basel ch affiliates|SE": null,
+  "st gallen|CHE": {
+    "lat": 47.425618,
+    "lon": 9.3762397
+  },
+  "kaiseraugst|CHE": {
+    "lat": 47.5399823,
+    "lon": 7.7230178
+  },
+  "frankfurt / mannheim|DEU": {
+    "lat": 49.7924718,
+    "lon": 8.5659093
+  },
+  "berlin, köln|DEU": {
+    "lat": 50.9172782,
+    "lon": 6.9392625
+  },
+  "wien|AUT": {
+    "lat": 48.2083537,
+    "lon": 16.3725042
+  },
+  "springe (hannover)|DEU": {
+    "lat": 52.2099318,
+    "lon": 9.5581577
+  },
+  "eschweiler|DEU": {
+    "lat": 50.8175029,
+    "lon": 6.2630894
+  },
+  "baar|CHE": {
+    "lat": 47.1951976,
+    "lon": 8.5253985
+  },
+  "ebingen|DEU": {
+    "lat": 48.2123702,
+    "lon": 9.0271181
+  },
+  "lieboch (graz)|AUT": {
+    "lat": 46.9545042,
+    "lon": 15.365519
+  },
+  "allschwil|CHE": {
+    "lat": 47.5510799,
+    "lon": 7.5365611
+  },
+  "lieboch|AUT": {
+    "lat": 46.9749381,
+    "lon": 15.33376
+  },
+  "starnberg|DEU": {
+    "lat": 47.9986851,
+    "lon": 11.3410791
+  },
+  "baden-baden|DEU": {
+    "lat": 48.7610716,
+    "lon": 8.239959
+  },
+  "leipzig (hq)|DEU": {
+    "lat": 51.3406321,
+    "lon": 12.3747329
+  },
+  "frankfurt|DEU": {
+    "lat": 50.1106444,
+    "lon": 8.6820917
+  },
+  "lippstadt|DEU": {
+    "lat": 51.6747074,
+    "lon": 8.347194
+  },
+  "barleben (magdeburg)|DEU": {
+    "lat": 52.1926989,
+    "lon": 11.6172231
+  },
+  "erlangen|DEU": {
+    "lat": 49.5891571,
+    "lon": 10.9812072
+  },
+  "bonn|DEU": {
+    "lat": 50.7352621,
+    "lon": 7.1024635
+  },
+  "crailsheim + schnelldorf|DEU": {
+    "lat": 49.2036362,
+    "lon": 10.2239055
+  },
+  "limburg an der lahn|DEU": {
+    "lat": 50.3880447,
+    "lon": 8.063531
+  },
+  "bern (hq)|CHE": {
+    "lat": 46.9484742,
+    "lon": 7.4521749
+  },
+  "salach|DEU": {
+    "lat": 48.6904085,
+    "lon": 9.7395144
+  },
+  "lugano|CHE": {
+    "lat": 46.0038007,
+    "lon": 8.9512275
+  },
+  "hamburg-allermöhe|DEU": {
+    "lat": 53.4903136,
+    "lon": 10.159302
+  },
+  "springe (hq)|DEU": {
+    "lat": 52.2099318,
+    "lon": 9.5581577
+  },
+  "alzey (rhineland)|DEU": {
+    "lat": 49.7454561,
+    "lon": 8.1130036
+  },
+  "langenfeld (düsseldorf)|DEU": {
+    "lat": 51.2540779,
+    "lon": 6.8942071
+  },
+  "linz|AUT": {
+    "lat": 48.3059078,
+    "lon": 14.286198
+  },
+  "saarbrücken|DEU": {
+    "lat": 49.234362,
+    "lon": 6.996379
+  },
+  "schwäbisch gmünd|DEU": {
+    "lat": 48.7999036,
+    "lon": 9.7977584
+  },
+  "garching|DEU": {
+    "lat": 48.2513878,
+    "lon": 11.6509662
+  },
+  "münster|DEU": {
+    "lat": 51.9625101,
+    "lon": 7.6251879
+  },
+  "zug / sulgen|CHE": {
+    "lat": 47.539885,
+    "lon": 9.1743254
+  },
+  "unterach|AUT": {
+    "lat": 47.8043142,
+    "lon": 13.48897
+  },
+  "dessau-rosslau|DEU": {
+    "lat": 51.8465924,
+    "lon": 12.2312238
+  },
+  "laupheim|DEU": {
+    "lat": 48.2300738,
+    "lon": 9.8837005
+  },
+  "coburg|DEU": {
+    "lat": 50.2582226,
+    "lon": 10.964561
+  },
+  "aalen|DEU": {
+    "lat": 48.8375607,
+    "lon": 10.0929593
+  },
+  "aschheim|DEU": {
+    "lat": 48.1713481,
+    "lon": 11.7160347
+  },
+  "hameln|DEU": {
+    "lat": 52.1039941,
+    "lon": 9.3561569
+  },
+  "switzerland|CHE": {
+    "lat": 46.7985624,
+    "lon": 8.2319736
+  },
+  "lübeck|DEU": {
+    "lat": 53.866444,
+    "lon": 10.684738
+  },
+  "wiesbaden|DEU": {
+    "lat": 50.0820384,
+    "lon": 8.2416556
+  },
+  "neumarkt in der oberpfalz|DEU": {
+    "lat": 49.2800542,
+    "lon": 11.4585353
+  },
+  "wedel|DEU": {
+    "lat": 53.5810226,
+    "lon": 9.7038772
+  },
+  "opfikon|CHE": {
+    "lat": 47.4322671,
+    "lon": 8.5779983
+  },
+  "raubling|DEU": {
+    "lat": 47.7892574,
+    "lon": 12.1100042
+  },
+  "aesch, frauenfeld|CHE": {
+    "lat": 47.5398575,
+    "lon": 8.953417
+  },
+  "illertissen|DEU": {
+    "lat": 48.222924,
+    "lon": 10.1053373
+  },
+  "bad boll (eckwälden)|DEU": {
+    "lat": 48.6367872,
+    "lon": 9.6166997
+  },
+  "böblingen|DEU": {
+    "lat": 48.684969,
+    "lon": 9.0113444
+  },
+  "bielefeld|DEU": {
+    "lat": 52.0191005,
+    "lon": 8.531007
+  },
+  "lannach|AUT": {
+    "lat": 46.9427967,
+    "lon": 15.3336113
+  },
+  "marktredwitz|DEU": {
+    "lat": 50.0009915,
+    "lon": 12.0856433
+  },
+  "flawil|CHE": {
+    "lat": 47.414613,
+    "lon": 9.1861489
+  },
+  "niederdorfelden|DEU": {
+    "lat": 50.1941493,
+    "lon": 8.8030419
+  },
+  "augsburg|DEU": {
+    "lat": 48.3690341,
+    "lon": 10.8979522
+  },
+  "sandersdorf-brehna|DEU": {
+    "lat": 51.5911163,
+    "lon": 12.2359037
+  },
+  "oldenburg|DEU": {
+    "lat": 53.1389753,
+    "lon": 8.2146017
+  },
+  "leverkusen|DEU": {
+    "lat": 51.0324743,
+    "lon": 6.9881194
+  },
+  "wasserburg am inn|DEU": {
+    "lat": 48.0615171,
+    "lon": 12.220026
+  },
+  "karlsruhe|DEU": {
+    "lat": 49.0068705,
+    "lon": 8.4034195
+  },
+  "weiler im allgäu|DEU": {
+    "lat": 47.5831505,
+    "lon": 9.9140112
+  },
+  "mannheim|DEU": {
+    "lat": 49.4892913,
+    "lon": 8.4673098
+  },
+  "grünberg|DEU": {
+    "lat": 50.6137167,
+    "lon": 8.945947
+  },
+  "buchen|DEU": {
+    "lat": 49.5219386,
+    "lon": 9.3251309
+  },
+  "tübingen|DEU": {
+    "lat": 48.5203263,
+    "lon": 9.053596
+  },
+  "carouge|CHE": {
+    "lat": 46.1846691,
+    "lon": 6.1396839
+  },
+  "neu ulm|DEU": {
+    "lat": 48.3953489,
+    "lon": 10.0005211
+  },
+  "berg|DEU": {
+    "lat": 50.2538917,
+    "lon": 7.8130745
+  },
+  "traunreut|DEU": {
+    "lat": 47.9623271,
+    "lon": 12.5924162
+  },
+  "birmensdorf (zh)|CHE": {
+    "lat": 47.3538481,
+    "lon": 8.4382157
+  },
+  "bad oldesloe|DEU": {
+    "lat": 53.8096562,
+    "lon": 10.3733692
+  },
+  "feldkirchen (munich)|DEU": {
+    "lat": 48.1506376,
+    "lon": 11.722107
+  },
+  "bern (liebefeld)|CHE": {
+    "lat": 46.9370572,
+    "lon": 7.4164624
+  },
+  "rastatt|DEU": {
+    "lat": 48.8584568,
+    "lon": 8.2040452
+  },
+  "hochstadt (bavaria)|DEU": {
+    "lat": 49.7055546,
+    "lon": 10.8364087
+  },
+  "appenweier|DEU": {
+    "lat": 48.5387171,
+    "lon": 7.9802666
+  },
+  "ingelheim|DEU": {
+    "lat": 49.9752749,
+    "lon": 8.0547274
+  },
+  "stein (ag)|CHE": {
+    "lat": 47.5451212,
+    "lon": 7.9540042
+  },
+  "langenfeld|DEU": {
+    "lat": 51.1008952,
+    "lon": 6.9459377
+  },
+  "hohenlockstedt|DEU": {
+    "lat": 53.9667,
+    "lon": 9.61667
+  },
+  "reiskirchen|DEU": {
+    "lat": 50.59569,
+    "lon": 8.84648
+  },
+  "meyrin|CHE": {
+    "lat": 46.2283226,
+    "lon": 6.0712016
+  },
+  "goch|DEU": {
+    "lat": 51.6755765,
+    "lon": 6.1593045
+  },
+  "ulm|DEU": {
+    "lat": 48.3984968,
+    "lon": 9.9912458
+  },
+  "unterach am attersee|AUT": {
+    "lat": 47.8043142,
+    "lon": 13.48897
+  },
+  "le grand-saconnex|CHE": {
+    "lat": 46.2363321,
+    "lon": 6.126532
+  },
+  "rorschacherberg|CHE": {
+    "lat": 47.4687555,
+    "lon": 9.4945663
+  },
+  "puch bei hallein|AUT": {
+    "lat": 47.716852,
+    "lon": 13.0904526
+  },
+  "fieberbrunn|AUT": {
+    "lat": 47.4762087,
+    "lon": 12.5454618
+  },
+  "uetersen|DEU": {
+    "lat": 53.6851608,
+    "lon": 9.669827
+  },
+  "freiburg|DEU": {
+    "lat": 47.9960901,
+    "lon": 7.8494005
+  },
+  "monheim|DEU": {
+    "lat": 48.8523233,
+    "lon": 10.8639169
+  },
+  "tartegnin|CHE": {
+    "lat": 46.4666552,
+    "lon": 6.3156804
+  },
+  "wels|AUT": {
+    "lat": 48.1565472,
+    "lon": 14.0243752
+  },
+  "norderstedt|DEU": {
+    "lat": 53.7089898,
+    "lon": 9.9891914
+  },
+  "bocholt|DEU": {
+    "lat": 51.8382715,
+    "lon": 6.6148669
+  },
+  "solingen|DEU": {
+    "lat": 51.1721629,
+    "lon": 7.0845893
+  },
+  "greifswald|DEU": {
+    "lat": 54.095791,
+    "lon": 13.3815238
+  },
+  "schaffhausen|CHE": {
+    "lat": 47.6960491,
+    "lon": 8.634513
+  },
+  "ursensollen|DEU": {
+    "lat": 49.4008869,
+    "lon": 11.759185
+  },
+  "friedberg (hessen)|DEU": {
+    "lat": 50.328272,
+    "lon": 8.747636
+  },
+  "barleben|DEU": {
+    "lat": 52.2007378,
+    "lon": 11.6203578
+  },
+  "dessau|DEU": {
+    "lat": 51.8309956,
+    "lon": 12.2430723
+  },
+  "lausanne|CHE": {
+    "lat": 46.5218269,
+    "lon": 6.6327025
+  },
+  "rheinau|DEU": {
+    "lat": 48.6610699,
+    "lon": 7.9383334
+  },
+  "leobendorf|AUT": {
+    "lat": 48.3774194,
+    "lon": 16.3198352
+  },
+  "rostock|DEU": {
+    "lat": 54.0886707,
+    "lon": 12.1400211
+  },
+  "schwaig|DEU": {
+    "lat": 47.7916138,
+    "lon": 11.3924139
+  },
+  "iserlohn|DEU": {
+    "lat": 51.3746778,
+    "lon": 7.6999713
+  },
+  "garbsen|DEU": {
+    "lat": 52.4276606,
+    "lon": 9.6005102
+  },
+  "crissier|CHE": {
+    "lat": 46.5538658,
+    "lon": 6.5772501
+  },
+  "thal|CHE": {
+    "lat": 47.4694211,
+    "lon": 9.5630244
+  },
+  "bernburg|DEU": {
+    "lat": 51.7939656,
+    "lon": 11.7373854
+  },
+  "lugano (hq)|CHE": {
+    "lat": 46.0038007,
+    "lon": 8.9512275
+  },
+  "wolfratshausen|DEU": {
+    "lat": 47.9104632,
+    "lon": 11.4266377
+  },
+  "lachen sz|CHE": {
+    "lat": 47.1923827,
+    "lon": 8.8523833
+  },
+  "orth an der donau|AUT": {
+    "lat": 48.1486658,
+    "lon": 16.7017163
+  },
+  "bamberg|DEU": {
+    "lat": 49.8916044,
+    "lon": 10.8868478
+  },
+  "lahr|DEU": {
+    "lat": 49.9440252,
+    "lon": 6.2909576
+  },
+  "visbek|DEU": {
+    "lat": 52.8337724,
+    "lon": 8.3148496
+  },
+  "hanau am main|DEU": {
+    "lat": 50.1217213,
+    "lon": 8.9085545
+  },
+  "ennigerloh|DEU": {
+    "lat": 51.8359553,
+    "lon": 8.0255988
+  },
+  "aesch|CHE": {
+    "lat": 47.4682447,
+    "lon": 7.5980395
+  },
+  "hannover|DEU": {
+    "lat": 52.3744779,
+    "lon": 9.7385532
+  },
+  "sankt augustin|DEU": {
+    "lat": 50.7752776,
+    "lon": 7.1895507
+  },
+  "interlaken|CHE": {
+    "lat": 46.6855231,
+    "lon": 7.8585139
+  },
+  "idar-oberstein|DEU": {
+    "lat": 49.7107134,
+    "lon": 7.3136563
+  },
+  "wolfertschwenden|DEU": {
+    "lat": 47.8933244,
+    "lon": 10.2671595
+  },
+  "köln (de office)|ES HQ; DE": null,
+  "krailling|DEU": {
+    "lat": 48.0992621,
+    "lon": 11.4050891
+  },
+  "wessling|DEU": {
+    "lat": 48.0739105,
+    "lon": 11.2523969
+  },
+  "hochdorf|CHE": {
+    "lat": 47.1665361,
+    "lon": 8.2899709
+  },
+  "bioggio|CHE": {
+    "lat": 46.0141052,
+    "lon": 8.9076167
+  },
+  "andernach|DEU": {
+    "lat": 50.4391924,
+    "lon": 7.4023145
+  },
+  "weggis|CHE": {
+    "lat": 47.0322545,
+    "lon": 8.4346408
+  },
+  "hörstel|DEU": {
+    "lat": 52.2973664,
+    "lon": 7.5862462
+  },
+  "reinbek|DEU": {
+    "lat": 53.5098898,
+    "lon": 10.2511001
+  },
+  "grancia|CHE": {
+    "lat": 45.9674543,
+    "lon": 8.9274853
+  },
+  "frankfurt am main|DEU": {
+    "lat": 50.1106444,
+    "lon": 8.6820917
+  },
+  "zuchwil|CHE": {
+    "lat": 47.2037591,
+    "lon": 7.5594101
+  },
+  "rheinfelden|CHE": {
+    "lat": 47.5543859,
+    "lon": 7.7922905
+  },
+  "ebbs|AUT": {
+    "lat": 47.630874,
+    "lon": 12.2154318
+  },
+  "kempten|DEU": {
+    "lat": 47.7267063,
+    "lon": 10.3168835
+  },
+  "krieglach|AUT": {
+    "lat": 47.5523264,
+    "lon": 15.5484247
+  },
+  "vechta|DEU": {
+    "lat": 52.7310691,
+    "lon": 8.2873162
+  },
+  "lohne|DEU": {
+    "lat": 52.665257,
+    "lon": 8.2363523
+  },
+  "niefern|DEU": {
+    "lat": 48.9160935,
+    "lon": 8.7846033
+  },
+  "kehl|DEU": {
+    "lat": 48.5733977,
+    "lon": 7.8114002
+  },
+  "trostberg an der alz|DEU": {
+    "lat": 48.0176136,
+    "lon": 12.5254556
+  },
+  "schwerte|DEU": {
+    "lat": 51.445525,
+    "lon": 7.5674652
+  },
+  "neuenburg|DEU": {
+    "lat": 47.8155916,
+    "lon": 7.5627871
+  },
+  "königsbach|DEU": {
+    "lat": 48.9665979,
+    "lon": 8.6080582
+  },
+  "zürich (schlieren)|CHE": {
+    "lat": 47.4036302,
+    "lon": 8.4378942
+  },
+  "dessau-roßlau|DEU": {
+    "lat": 51.8465924,
+    "lon": 12.2312238
+  },
+  "munich / ottobrunn|DEU": {
+    "lat": 48.074987,
+    "lon": 11.652172
+  },
+  "schwarzenborn|DEU": {
+    "lat": 50.0390136,
+    "lon": 6.7113515
+  },
+  "jena|DEU": {
+    "lat": 50.9281717,
+    "lon": 11.5879359
+  },
+  "aulendorf|DEU": {
+    "lat": 47.9528162,
+    "lon": 9.6409331
+  },
+  "korbach|DEU": {
+    "lat": 51.2559045,
+    "lon": 8.8426963
+  },
+  "bad marienberg|DEU": {
+    "lat": 50.6500761,
+    "lon": 7.948217
+  },
+  "nuremberg|DEU": {
+    "lat": 49.453872,
+    "lon": 11.077298
+  },
+  "cologne|DEU": {
+    "lat": 50.938361,
+    "lon": 6.959974
+  },
+  "uster|CHE": {
+    "lat": 47.3512065,
+    "lon": 8.7179221
+  },
+  "burgdorf|DEU": {
+    "lat": 52.4438008,
+    "lon": 10.0078364
+  },
+  "salzgitter-ringelheim|DEU": {
+    "lat": 52.0380738,
+    "lon": 10.314507
+  },
+  "grünkraut|DEU": {
+    "lat": 47.7418011,
+    "lon": 9.6523337
+  },
+  "bubenreuth|DEU": {
+    "lat": 49.6277003,
+    "lon": 11.0143385
+  },
+  "leutkirch|DEU": {
+    "lat": 47.8263961,
+    "lon": 10.0162238
+  },
+  "ratingen|DEU": {
+    "lat": 51.2973261,
+    "lon": 6.8493503
+  },
+  "senden (munster)|DEU": {
+    "lat": 51.9267478,
+    "lon": 7.6031511
+  },
+  "bremen|DEU": {
+    "lat": 53.0758196,
+    "lon": 8.8071646
+  },
+  "hodenhagen|DEU": {
+    "lat": 52.7632236,
+    "lon": 9.5886165
+  },
+  "tramelan|CHE": {
+    "lat": 47.223677,
+    "lon": 7.1030216
+  },
+  "martinsried (r&d)|DK": null,
+  "wahlstedt|DEU": {
+    "lat": 53.9528957,
+    "lon": 10.2121481
+  },
+  "gießen|DEU": {
+    "lat": 50.5808795,
+    "lon": 8.6938161
+  },
+  "uznach|CHE": {
+    "lat": 47.2250882,
+    "lon": 8.98556
+  },
+  "arnstorf|DEU": {
+    "lat": 48.5635093,
+    "lon": 12.8173993
+  },
+  "kulmbach|DEU": {
+    "lat": 50.1071246,
+    "lon": 11.4581813
+  },
+  "bühl|DEU": {
+    "lat": 48.6945066,
+    "lon": 8.134423
+  },
+  "eislingen|DEU": {
+    "lat": 48.6967865,
+    "lon": 9.7037748
+  },
+  "köniz|CHE": {
+    "lat": 46.9222385,
+    "lon": 7.4130582
+  },
+  "gottenheim|DEU": {
+    "lat": 48.0502889,
+    "lon": 7.7261673
+  },
+  "lünen|DEU": {
+    "lat": 51.6142482,
+    "lon": 7.5228088
+  },
+  "potsdam|DEU": {
+    "lat": 52.4009309,
+    "lon": 13.0591397
+  },
+  "meerbusch|DEU": {
+    "lat": 51.2652237,
+    "lon": 6.6760958
+  },
+  "hunzenschwil|CHE": {
+    "lat": 47.3854685,
+    "lon": 8.1242795
+  },
+  "graz|AUT": {
+    "lat": 47.0708678,
+    "lon": 15.4382786
+  },
+  "basel ch ops, de comm|US HQ; DE": null,
+  "ludwigshafen|DEU": {
+    "lat": 49.4704113,
+    "lon": 8.4381568
+  },
+  "bottmingen|CHE": {
+    "lat": 47.5234501,
+    "lon": 7.5748727
+  },
+  "zwingenberg|DEU": {
+    "lat": 49.7242,
+    "lon": 8.5915
+  },
+  "lamprechtshausen|AUT": {
+    "lat": 47.9926148,
+    "lon": 12.9554913
+  },
+  "bergisch gladbach|DEU": {
+    "lat": 50.9929303,
+    "lon": 7.1277379
+  },
+  "freienbach|CHE": {
+    "lat": 47.204411,
+    "lon": 8.7598816
+  },
+  "tägerwilen|CHE": {
+    "lat": 47.6563994,
+    "lon": 9.1310646
+  },
+  "gilching|DEU": {
+    "lat": 48.1140289,
+    "lon": 11.2921549
+  },
+  "kufstein|AUT": {
+    "lat": 47.582996,
+    "lon": 12.1692134
+  },
+  "schlieren|CHE": {
+    "lat": 47.3965147,
+    "lon": 8.4444861
+  },
+  "friesach|AUT": {
+    "lat": 46.9520636,
+    "lon": 14.4052266
+  },
+  "aesch bl + basel|CHE": {
+    "lat": 47.4682447,
+    "lon": 7.5980395
+  },
+  "herisau|CHE": {
+    "lat": 47.38555,
+    "lon": 9.2787571
+  },
+  "kiel|DEU": {
+    "lat": 54.3227085,
+    "lon": 10.135555
+  },
+  "bramsche|DEU": {
+    "lat": 52.4200623,
+    "lon": 8.0118561
+  },
+  "ibbenbüren|DEU": {
+    "lat": 52.2774772,
+    "lon": 7.7151417
+  },
+  "regensburg|DEU": {
+    "lat": 49.0195333,
+    "lon": 12.0974869
+  },
+  "magdeburg|DEU": {
+    "lat": 52.1314783,
+    "lon": 11.6400789
+  },
+  "veendam (nl) + køge (dk) for dach|NL→DE SUPPLY": null,
+  "kronberg im taunus|US HQ; DE": null,
+  "freital (sachsen)|DEU": {
+    "lat": 51.016265,
+    "lon": 13.6530329
+  },
+  "bern / zuchwil|CHE": {
+    "lat": 47.2106994,
+    "lon": 7.5545541
+  },
+  "eppelheim|DEU": {
+    "lat": 49.4025,
+    "lon": 8.63306
+  },
+  "mühlacker|DEU": {
+    "lat": 48.9487402,
+    "lon": 8.8592103
+  },
+  "blieskastel-niederwürzbach|DEU": {
+    "lat": 49.2363271,
+    "lon": 7.2027933
+  },
+  "freiburg im breisgau|DEU": {
+    "lat": 47.9960901,
+    "lon": 7.8494005
+  },
+  "zeiningen (ag)|CHE": {
+    "lat": 47.5414438,
+    "lon": 7.8716277
+  },
+  "egerkingen|CHE": {
+    "lat": 47.3225009,
+    "lon": 7.7947889
+  },
+  "ennepetal|DEU": {
+    "lat": 51.3048123,
+    "lon": 7.343547
+  },
+  "villars-sur-glâne|CHE": {
+    "lat": 46.791321,
+    "lon": 7.1161892
+  },
+  "gronau|DEU": {
+    "lat": 52.0841729,
+    "lon": 9.7751956
+  },
+  "hardheim|DEU": {
+    "lat": 49.6101843,
+    "lon": 9.4732442
+  },
+  "tolochenaz|CHE": {
+    "lat": 46.5047001,
+    "lon": 6.4734539
+  },
+  "karlsfeld|DEU": {
+    "lat": 48.2266316,
+    "lon": 11.4676387
+  },
+  "écublens|CHE": {
+    "lat": 46.6107303,
+    "lon": 6.8089033
+  },
+  "hückeswagen|DEU": {
+    "lat": 51.1504872,
+    "lon": 7.3413999
+  },
+  "heinsberg|DEU": {
+    "lat": 51.0654268,
+    "lon": 6.0984461
+  },
+  "dresden|DEU": {
+    "lat": 51.0493286,
+    "lon": 13.7381437
+  },
+  "klosterneuburg|AUT": {
+    "lat": 48.30499,
+    "lon": 16.323756
+  },
+  "lyssach|CHE": {
+    "lat": 47.0650881,
+    "lon": 7.5819291
+  },
+  "cuxhaven|DEU": {
+    "lat": 53.86878,
+    "lon": 8.698286
+  },
+  "rülzheim|DEU": {
+    "lat": 49.1539607,
+    "lon": 8.2911891
+  },
+  "orvin|CHE": {
+    "lat": 47.1606885,
+    "lon": 7.212695
+  },
+  "hagen|DEU": {
+    "lat": 51.3582945,
+    "lon": 7.473296
+  },
+  "erkelenz|DEU": {
+    "lat": 51.080992,
+    "lon": 6.3160684
+  },
+  "mittelhäusern/bern|CHE": {
+    "lat": 46.8761849,
+    "lon": 7.36711
+  },
+  "lüdinghausen|DEU": {
+    "lat": 51.7717757,
+    "lon": 7.444639
+  },
+  "bernried|DEU": {
+    "lat": 48.9187723,
+    "lon": 12.8840541
+  },
+  "coesfeld|DEU": {
+    "lat": 51.9458943,
+    "lon": 7.1691108
+  },
+  "dietzenbach|DEU": {
+    "lat": 50.0171926,
+    "lon": 8.784277
+  },
+  "singen|DEU": {
+    "lat": 47.7617515,
+    "lon": 8.8348709
+  },
+  "rapperswil|CHE": {
+    "lat": 47.2266532,
+    "lon": 8.8164042
+  },
+  "heilbronn|DEU": {
+    "lat": 49.142291,
+    "lon": 9.218655
+  },
+  "herzogenburg|AUT": {
+    "lat": 48.2843295,
+    "lon": 15.6946065
+  },
+  "rosenheim|DEU": {
+    "lat": 47.8557873,
+    "lon": 12.1272983
+  },
+  "kirchheim unter teck|DEU": {
+    "lat": 48.6480545,
+    "lon": 9.4510227
+  },
+  "halle|DEU": {
+    "lat": 51.4824354,
+    "lon": 11.9712985
+  },
+  "unterschleißheim|DEU": {
+    "lat": 48.2730686,
+    "lon": 11.5702716
+  },
+  "warburg|DEU": {
+    "lat": 51.4886533,
+    "lon": 9.1488385
+  },
+  "wörth|DEU": {
+    "lat": 49.0543232,
+    "lon": 8.2667399
+  },
+  "bellinzona|CHE": {
+    "lat": 46.1920538,
+    "lon": 9.0205888
+  },
+  "alsbach-hähnlein|DEU": {
+    "lat": 49.7383506,
+    "lon": 8.5950049
+  },
+  "ilsenburg|DEU": {
+    "lat": 51.8667349,
+    "lon": 10.6831785
+  },
+  "zürich ch affiliate|US HQ; CH": null,
+  "wutöschingen|DEU": {
+    "lat": 47.6596219,
+    "lon": 8.3651806
+  },
+  "liestal|CHE": {
+    "lat": 47.4839723,
+    "lon": 7.7347783
+  },
+  "arnsberg|DEU": {
+    "lat": 51.4002384,
+    "lon": 8.0605908
+  },
+  "salzgitter|DEU": {
+    "lat": 52.1503721,
+    "lon": 10.3593147
+  },
+  "rödermark|DEU": {
+    "lat": 49.9798913,
+    "lon": 8.8088274
+  },
+  "plan-les-ouates|CHE": {
+    "lat": 46.1683113,
+    "lon": 6.117887
+  },
+  "raaba|AUT": {
+    "lat": 47.027848,
+    "lon": 15.4965881
+  },
+  "oelde|DEU": {
+    "lat": 51.8260678,
+    "lon": 8.1454954
+  },
+  "tiefenbach|DEU": {
+    "lat": 49.93772,
+    "lon": 7.5439937
+  },
+  "remscheid|DEU": {
+    "lat": 51.1798706,
+    "lon": 7.1943544
+  },
+  "hettlingen|CHE": {
+    "lat": 47.5467745,
+    "lon": 8.7095144
+  },
+  "gerstungen|DEU": {
+    "lat": 50.9364322,
+    "lon": 10.2024159
+  },
+  "freudenstadt|DEU": {
+    "lat": 48.4637727,
+    "lon": 8.4111727
+  },
+  "pratteln|CHE": {
+    "lat": 47.5192013,
+    "lon": 7.6944741
+  },
+  "feldkirchen|DEU": {
+    "lat": 48.1475774,
+    "lon": 11.7299205
+  },
+  "ladenburg|DEU": {
+    "lat": 49.4724349,
+    "lon": 8.6106455
+  },
+  "balerna|CHE": {
+    "lat": 45.8491908,
+    "lon": 9.0070811
+  },
+  "weyarn (bavaria)|DEU": {
+    "lat": 47.8592018,
+    "lon": 11.7999821
+  },
+  "puchheim|DEU": {
+    "lat": 48.1704908,
+    "lon": 11.3526351
+  },
+  "löhne|DEU": {
+    "lat": 52.1965102,
+    "lon": 8.7139521
+  },
+  "giengen an der brenz|DEU": {
+    "lat": 48.6208515,
+    "lon": 10.2442196
+  },
+  "utzenstorf|CHE": {
+    "lat": 47.1293896,
+    "lon": 7.5577607
+  },
+  "neuried|DEU": {
+    "lat": 48.444461,
+    "lon": 7.8221045
+  },
+  "bochum|DEU": {
+    "lat": 51.4818111,
+    "lon": 7.2196635
+  },
+  "biasca|CHE": {
+    "lat": 46.3606274,
+    "lon": 8.9714023
+  },
+  "bad salzuflen|DEU": {
+    "lat": 52.0771518,
+    "lon": 8.7554739
+  },
+  "borken|DEU": {
+    "lat": 51.8444777,
+    "lon": 6.8583277
+  },
+  "saalfeld|DEU": {
+    "lat": 50.6479143,
+    "lon": 11.3610041
+  },
+  "dummerstorf|DEU": {
+    "lat": 54.0131361,
+    "lon": 12.2281926
+  },
+  "berlin-buch|DEU": {
+    "lat": 52.6358345,
+    "lon": 13.4916378
+  },
+  "beringen|CHE": {
+    "lat": 47.6975693,
+    "lon": 8.5733833
+  },
+  "gräfelfing (hq)|DEU": {
+    "lat": 48.1212042,
+    "lon": 11.4299784
+  },
+  "hadamar|DEU": {
+    "lat": 50.4587,
+    "lon": 8.05793
+  },
+  "oberkirch|DEU": {
+    "lat": 48.5308586,
+    "lon": 8.078657
+  },
+  "hoya (niedersachsen)|DEU": {
+    "lat": 52.8065,
+    "lon": 9.13957
+  },
+  "bensheim|DEU": {
+    "lat": 49.6977,
+    "lon": 8.6288
+  },
+  "kloten|CHE": {
+    "lat": 47.4525133,
+    "lon": 8.5861477
+  },
+  "mellrichstadt|DEU": {
+    "lat": 50.4460338,
+    "lon": 10.3292315
+  },
+  "römerstein|DEU": {
+    "lat": 48.5005944,
+    "lon": 9.534979
+  },
+  "eschenlohe|DEU": {
+    "lat": 47.5984207,
+    "lon": 11.185454
+  },
+  "weingarten|DEU": {
+    "lat": 47.8075299,
+    "lon": 9.6431145
+  },
+  "warngau|DEU": {
+    "lat": 47.8190462,
+    "lon": 11.730831
+  },
+  "davos|CHE": {
+    "lat": 46.796198,
+    "lon": 9.8236892
+  },
+  "münchen|DEU": {
+    "lat": 48.1371079,
+    "lon": 11.5753822
+  },
+  "königsbrunn|DEU": {
+    "lat": 48.2679546,
+    "lon": 10.8883816
+  },
+  "lörrach|DEU": {
+    "lat": 47.6120896,
+    "lon": 7.6607218
+  },
+  "roßdorf|DEU": {
+    "lat": 50.7026664,
+    "lon": 10.2163793
+  },
+  "appenzell|CHE": {
+    "lat": 47.3299506,
+    "lon": 9.4099311
+  },
+  "leuna|DEU": {
+    "lat": 51.3233566,
+    "lon": 12.0242496
+  },
+  "mendrisio|CHE": {
+    "lat": 45.8709661,
+    "lon": 8.9875293
+  },
+  "schmölln|DEU": {
+    "lat": 50.8971549,
+    "lon": 12.3520022
+  },
+  "kirrweiler|DEU": {
+    "lat": 49.6347285,
+    "lon": 7.5007569
+  },
+  "hünstetten|DEU": {
+    "lat": 50.24816,
+    "lon": 8.18621
+  },
+  "pfäffikon|CHE": {
+    "lat": 47.365582,
+    "lon": 8.7819841
+  },
+  "schierling|DEU": {
+    "lat": 48.8374635,
+    "lon": 12.1379497
+  },
+  "lunenburg|DEU": {
+    "lat": 53.248706,
+    "lon": 10.407855
+  },
+  "rothenburg|CHE": {
+    "lat": 47.0940041,
+    "lon": 8.2724174
+  },
+  "küssnacht am rigi|CHE": {
+    "lat": 47.08385,
+    "lon": 8.4386308
+  },
+  "siegen|DEU": {
+    "lat": 50.8751175,
+    "lon": 8.0256131
+  },
+  "haan|DEU": {
+    "lat": 51.1954956,
+    "lon": 7.0085328
+  },
+  "priestewitz|DEU": {
+    "lat": 51.2535414,
+    "lon": 13.509385
+  },
+  "leuna (saxony-anhalt)|DEU": {
+    "lat": 51.3032934,
+    "lon": 12.0181667
+  },
+  "wiener neudorf|AUT": {
+    "lat": 48.083362,
+    "lon": 16.3143717
+  },
+  "bad waldsee|DEU": {
+    "lat": 47.9209556,
+    "lon": 9.7542772
+  },
+  "fellbach|DEU": {
+    "lat": 48.814499,
+    "lon": 9.2745228
+  },
+  "paderborn|DEU": {
+    "lat": 51.7177044,
+    "lon": 8.752653
+  },
+  "saulgrub|DEU": {
+    "lat": 47.6696321,
+    "lon": 11.0261262
+  },
+  "la neuveville|CHE": {
+    "lat": 47.0637688,
+    "lon": 7.0927997
+  },
+  "selzach|CHE": {
+    "lat": 47.2055081,
+    "lon": 7.4549158
+  },
+  "hilden|DEU": {
+    "lat": 51.1674417,
+    "lon": 6.9307271
+  },
+  "fehraltorf|CHE": {
+    "lat": 47.3873705,
+    "lon": 8.7520123
+  },
+  "horgen|CHE": {
+    "lat": 47.260692,
+    "lon": 8.5976831
+  },
+  "eckernförde|DEU": {
+    "lat": 54.4716456,
+    "lon": 9.8374947
+  },
+  "bedburg|DEU": {
+    "lat": 50.9972161,
+    "lon": 6.5767648
+  },
+  "traunkirchen|AUT": {
+    "lat": 47.8448255,
+    "lon": 13.7902844
+  },
+  "lüchow|DEU": {
+    "lat": 53.6893717,
+    "lon": 10.5322354
+  },
+  "villach|AUT": {
+    "lat": 46.6167284,
+    "lon": 13.8500268
+  },
+  "karben|DEU": {
+    "lat": 50.2313417,
+    "lon": 8.7717673
+  },
+  "lavertezzo|CHE": {
+    "lat": 46.1785737,
+    "lon": 8.8893163
+  },
+  "balgach|CHE": {
+    "lat": 47.4068832,
+    "lon": 9.6062727
+  },
+  "gescher|DEU": {
+    "lat": 51.956874,
+    "lon": 7.0038803
+  },
+  "basel + arlesheim|CHE": {
+    "lat": 47.5611262,
+    "lon": 7.5509188
+  },
+  "martinsried|DEU": {
+    "lat": 48.10882,
+    "lon": 11.4508007
+  },
+  "sonnenbühl|DEU": {
+    "lat": 48.3831336,
+    "lon": 9.1801071
+  },
+  "overath|DEU": {
+    "lat": 50.9320015,
+    "lon": 7.2839042
+  },
+  "leopoldshöhe|DEU": {
+    "lat": 52.0064215,
+    "lon": 8.6888207
+  },
+  "badenweiler|DEU": {
+    "lat": 47.8025477,
+    "lon": 7.6739717
+  },
+  "tuttlingen|DEU": {
+    "lat": 47.9844315,
+    "lon": 8.8186606
+  },
+  "gräfelfing|DEU": {
+    "lat": 48.1212042,
+    "lon": 11.4299784
+  },
+  "beckum|DEU": {
+    "lat": 51.7555148,
+    "lon": 8.041135
+  },
+  "aichhalden|DEU": {
+    "lat": 48.2679292,
+    "lon": 8.399562
+  },
+  "illnau|CHE": {
+    "lat": 47.4088363,
+    "lon": 8.7255432
+  },
+  "kornwestheim|DEU": {
+    "lat": 48.8611498,
+    "lon": 9.1873875
+  },
+  "dülmen|DEU": {
+    "lat": 51.8283677,
+    "lon": 7.2791406
+  },
+  "flörsheim|DEU": {
+    "lat": 50.0296,
+    "lon": 8.4265
+  },
+  "eiterfeld|DEU": {
+    "lat": 50.7703444,
+    "lon": 9.8385732
+  },
+  "kaiserslautern|DEU": {
+    "lat": 49.4432174,
+    "lon": 7.7689951
+  },
+  "zörbig|DEU": {
+    "lat": 51.6291126,
+    "lon": 12.1175042
+  },
+  "martinsried/munich|DEU": {
+    "lat": 48.10882,
+    "lon": 11.4508007
+  },
+  "eschborn|DEU": {
+    "lat": 50.1504737,
+    "lon": 8.5607767
+  },
+  "engelskirchen|DEU": {
+    "lat": 50.9872964,
+    "lon": 7.4084206
+  },
+  "löchgau|DEU": {
+    "lat": 49.0024253,
+    "lon": 9.1053914
+  },
+  "pritzwalk|DEU": {
+    "lat": 53.1492896,
+    "lon": 12.1761903
+  },
+  "bobingen|DEU": {
+    "lat": 48.2687941,
+    "lon": 10.8337852
+  },
+  "commugny|CHE": {
+    "lat": 46.3182308,
+    "lon": 6.1757684
+  },
+  "stulln|DEU": {
+    "lat": 49.419671,
+    "lon": 12.1407422
+  },
+  "dielsdorf|CHE": {
+    "lat": 47.4810371,
+    "lon": 8.4543245
+  },
+  "pfungstadt|DEU": {
+    "lat": 49.7943,
+    "lon": 8.5877
+  },
+  "gengenbach|DEU": {
+    "lat": 48.4035425,
+    "lon": 8.0153059
+  },
+  "chemnitz|DEU": {
+    "lat": 50.8323531,
+    "lon": 12.918914
+  },
+  "monthey|CHE": {
+    "lat": 46.252844,
+    "lon": 6.9478263
+  },
+  "hochheim am main|DEU": {
+    "lat": 50.0277,
+    "lon": 8.3587
+  },
+  "therwil|CHE": {
+    "lat": 47.4992969,
+    "lon": 7.5574673
+  },
+  "offenburg|DEU": {
+    "lat": 48.4695984,
+    "lon": 7.9429235
+  },
+  "hamburg + seevetal|DEU": {
+    "lat": 53.4196854,
+    "lon": 9.9259985
+  },
+  "isernhagen farster bauerschaft|DEU": {
+    "lat": 52.4600133,
+    "lon": 9.8210534
+  },
+  "austria|AUT": {
+    "lat": 47.59397,
+    "lon": 14.12456
+  },
+  "dortmund|DEU": {
+    "lat": 51.5142273,
+    "lon": 7.4652789
+  },
+  "eltville|DEU": {
+    "lat": 50.0220051,
+    "lon": 8.1044149
+  },
+  "reutlingen|DEU": {
+    "lat": 48.4919508,
+    "lon": 9.2114144
+  },
+  "täuffelen|CHE": {
+    "lat": 47.0683128,
+    "lon": 7.1993363
+  },
+  "dormagen|DEU": {
+    "lat": 51.0934389,
+    "lon": 6.8416158
+  },
+  "constance|DEU": {
+    "lat": 47.659216,
+    "lon": 9.1750718
+  },
+  "belp|CHE": {
+    "lat": 46.88978,
+    "lon": 7.498388
+  },
+  "neuenegg|CHE": {
+    "lat": 46.895472,
+    "lon": 7.3034416
+  },
+  "eitorf|DEU": {
+    "lat": 50.7710301,
+    "lon": 7.450353
+  },
+  "ahlen|DEU": {
+    "lat": 51.7627633,
+    "lon": 7.8909086
+  },
+  "lucerne|CHE": {
+    "lat": 47.052144,
+    "lon": 8.3058123
+  },
+  "pfaffenhofen|DEU": {
+    "lat": 49.0641578,
+    "lon": 8.9753958
+  },
+  "bocholt (de office)|NL": null,
+  "domat|CHE": {
+    "lat": 46.8351271,
+    "lon": 9.4506859
+  },
+  "étoy|CHE": {
+    "lat": 46.4860906,
+    "lon": 6.4193113
+  },
+  "korntal|DEU": {
+    "lat": 48.8265137,
+    "lon": 9.1214162
+  },
+  "nurtingen|DEU": {
+    "lat": 48.6265854,
+    "lon": 9.3365463
+  },
+  "neunkirchen|DEU": {
+    "lat": 50.5456179,
+    "lon": 8.1025344
+  },
+  "frankendorf|DEU": {
+    "lat": 50.9680152,
+    "lon": 11.4502537
+  },
+  "erkrath|DEU": {
+    "lat": 51.2209866,
+    "lon": 6.9056079
+  },
+  "bruckmühl|DEU": {
+    "lat": 47.8828325,
+    "lon": 11.914614
+  },
+  "oftringen|CHE": {
+    "lat": 47.3126595,
+    "lon": 7.92099
+  },
+  "tittmoning|DEU": {
+    "lat": 48.0621714,
+    "lon": 12.7676484
+  },
+  "morfelden|DEU": {
+    "lat": 49.9704847,
+    "lon": 8.5700579
+  },
+  "otelfingen|CHE": {
+    "lat": 47.460873,
+    "lon": 8.3892173
+  },
+  "pöttelsdorf|AUT": {
+    "lat": 47.7527394,
+    "lon": 16.4365938
+  },
+  "wiehl|DEU": {
+    "lat": 50.9478489,
+    "lon": 7.5530059
+  },
+  "weisswasser|DEU": {
+    "lat": 51.5054285,
+    "lon": 14.6381818
+  },
+  "brenk|DEU": {
+    "lat": 50.4316488,
+    "lon": 7.1722272
+  },
+  "brunswick|DEU": {
+    "lat": 52.2646577,
+    "lon": 10.5236066
+  },
+  "grande|DEU": {
+    "lat": 53.5823287,
+    "lon": 10.3863496
+  },
+  "kelkheim|DEU": {
+    "lat": 50.1344038,
+    "lon": 8.4531845
+  },
+  "rümlang|CHE": {
+    "lat": 47.4507163,
+    "lon": 8.5299122
+  },
+  "muttenz|CHE": {
+    "lat": 47.525113,
+    "lon": 7.6477401
+  },
+  "hagenberg im mühlkreis|AUT": {
+    "lat": 48.3674201,
+    "lon": 14.516935
+  },
+  "schwaigern|DEU": {
+    "lat": 49.1414205,
+    "lon": 9.0571085
+  },
+  "lehrte|DEU": {
+    "lat": 52.3749334,
+    "lon": 9.9748557
+  },
+  "bensheim (hesse)|DEU": {
+    "lat": 49.68616,
+    "lon": 8.590097
+  },
+  "singen / konstanz|DEU": {
+    "lat": 47.7617515,
+    "lon": 8.8348709
+  },
+  "köln|DEU": {
+    "lat": 50.938361,
+    "lon": 6.959974
+  },
+  "frankfurt + neumarkt|DEU": {
+    "lat": 50.1083925,
+    "lon": 8.5837144
+  },
+  "neuses|DEU": {
+    "lat": 50.2131652,
+    "lon": 11.3094551
+  },
+  "berlin (logistics)|DEU": {
+    "lat": 52.5839954,
+    "lon": 13.2796698
+  },
+  "villingen|DEU": {
+    "lat": 48.0596619,
+    "lon": 8.4598995
+  },
+  "paris hq; ch mkt|FR HQ; CH": null,
+  "wächtersbach|DEU": {
+    "lat": 50.2724,
+    "lon": 9.2857
+  },
+  "kamp-lintfort|DEU": {
+    "lat": 51.5017981,
+    "lon": 6.547923
+  },
+  "herrsching am ammersee|DEU": {
+    "lat": 47.9992929,
+    "lon": 11.1748083
+  },
+  "buchs (sg)|CHE": {
+    "lat": 47.1627634,
+    "lon": 9.4764086
+  },
+  "eppingen|DEU": {
+    "lat": 49.1369473,
+    "lon": 8.90956
+  },
+  "kapfenberg|AUT": {
+    "lat": 47.4405481,
+    "lon": 15.2901669
+  },
+  "metzingen|DEU": {
+    "lat": 48.5397247,
+    "lon": 9.2831201
+  },
+  "ruit|DEU": {
+    "lat": 48.729961,
+    "lon": 9.2523336
+  },
+  "minden|DEU": {
+    "lat": 52.2881045,
+    "lon": 8.9168852
+  },
+  "albershausen|DEU": {
+    "lat": 48.6919721,
+    "lon": 9.5658873
+  },
+  "sant'antonino|CHE": {
+    "lat": 46.1532456,
+    "lon": 8.9743579
+  },
+  "achstetten|DEU": {
+    "lat": 48.2607457,
+    "lon": 9.8967816
+  },
+  "breitenbach|CHE": {
+    "lat": 47.4078458,
+    "lon": 7.5443007
+  },
+  "emsdetten|DEU": {
+    "lat": 52.174687,
+    "lon": 7.5301756
+  },
+  "linden|DEU": {
+    "lat": 50.6019526,
+    "lon": 7.8504832
+  },
+  "furtwangen|DEU": {
+    "lat": 48.0512198,
+    "lon": 8.2073776
+  },
+  "dettingen an der erms|DEU": {
+    "lat": 48.5289138,
+    "lon": 9.346093
+  },
+  "hennigsdorf|DEU": {
+    "lat": 52.6375777,
+    "lon": 13.2057511
+  },
+  "schramberg|DEU": {
+    "lat": 48.225478,
+    "lon": 8.3852168
+  },
+  "oberhaching|DEU": {
+    "lat": 48.0261846,
+    "lon": 11.5962489
+  },
+  "schiffweiler|DEU": {
+    "lat": 49.3704071,
+    "lon": 7.1294088
+  },
+  "glandorf|DEU": {
+    "lat": 52.081578,
+    "lon": 8.0033646
+  },
+  "kirchlengern|DEU": {
+    "lat": 52.1983452,
+    "lon": 8.6440034
+  },
+  "waldstatt|CHE": {
+    "lat": 47.3563362,
+    "lon": 9.2838414
+  },
+  "holzmaden|DEU": {
+    "lat": 48.6335387,
+    "lon": 9.5153892
+  },
+  "sion|CHE": {
+    "lat": 46.2311749,
+    "lon": 7.3588795
+  },
+  "wessobrunn|DEU": {
+    "lat": 47.874215,
+    "lon": 11.0238794
+  },
+  "treuen|DEU": {
+    "lat": 50.5389413,
+    "lon": 12.3069937
+  },
+  "süpplingen|DEU": {
+    "lat": 52.2271049,
+    "lon": 10.9040619
+  },
+  "aschaffenburg|DEU": {
+    "lat": 49.9706701,
+    "lon": 9.1384857
+  },
+  "lengenwang|DEU": {
+    "lat": 47.7007804,
+    "lon": 10.6043502
+  },
+  "verden (aller)|DEU": {
+    "lat": 52.9405218,
+    "lon": 9.2359776
+  },
+  "solothurn|CHE": {
+    "lat": 47.31874,
+    "lon": 7.6698284
+  },
+  "chiasso|CHE": {
+    "lat": 45.8355209,
+    "lon": 9.0290169
+  },
+  "korneuburg|AUT": {
+    "lat": 48.3440605,
+    "lon": 16.3334321
+  },
+  "mengerskirchen|DEU": {
+    "lat": 50.5524615,
+    "lon": 8.1886382
+  },
+  "eichenzell|DEU": {
+    "lat": 50.4847226,
+    "lon": 9.7050101
+  },
+  "oberschleißheim|DEU": {
+    "lat": 48.2549383,
+    "lon": 11.5546058
+  },
+  "poing|DEU": {
+    "lat": 48.1667467,
+    "lon": 11.803713
+  },
+  "sternenfels|DEU": {
+    "lat": 49.0499637,
+    "lon": 8.8510968
+  },
+  "lich|DEU": {
+    "lat": 50.50516,
+    "lon": 8.84162
+  },
+  "alpirsbach|DEU": {
+    "lat": 48.3456021,
+    "lon": 8.4033079
+  },
+  "herford|DEU": {
+    "lat": 52.1152245,
+    "lon": 8.6711118
+  },
+  "courroux|CHE": {
+    "lat": 47.359922,
+    "lon": 7.3782917
+  },
+  "inzersdorf ob der traisen|AUT": {
+    "lat": 48.3182132,
+    "lon": 15.6774051
+  },
+  "worms|DEU": {
+    "lat": 49.6302618,
+    "lon": 8.3620898
+  },
+  "luhden|DEU": {
+    "lat": 52.2270556,
+    "lon": 9.0915128
+  },
+  "tettnang|DEU": {
+    "lat": 47.6716558,
+    "lon": 9.5891158
+  },
+  "neuhausen|CHE": {
+    "lat": 47.6811644,
+    "lon": 8.6197347
+  },
+  "saal an der saale|DEU": {
+    "lat": 50.3197709,
+    "lon": 10.3707651
+  },
+  "rödinghausen|DEU": {
+    "lat": 52.2310301,
+    "lon": 8.497988
+  },
+  "radeberg|DEU": {
+    "lat": 51.1151413,
+    "lon": 13.9175257
+  },
+  "stein bei nürnberg|DEU": {
+    "lat": 49.4252777,
+    "lon": 11.0176745
+  },
+  "lichtenberg|AUT": {
+    "lat": 48.3599866,
+    "lon": 14.257648
+  },
+  "tresa|CHE": {
+    "lat": 45.9888187,
+    "lon": 8.833686
+  },
+  "rheda-wiedenbrück|DEU": {
+    "lat": 51.8428202,
+    "lon": 8.2985615
+  },
+  "reinach|CHE": {
+    "lat": 47.4935369,
+    "lon": 7.5910891
+  },
+  "fraubrunnen|CHE": {
+    "lat": 47.0861903,
+    "lon": 7.5253953
+  },
+  "kradolf|CHE": {
+    "lat": 47.5252735,
+    "lon": 9.2037603
+  },
+  "mondsee|AUT": {
+    "lat": 47.8560014,
+    "lon": 13.3500658
+  },
+  "innsbruck|AUT": {
+    "lat": 47.2654296,
+    "lon": 11.3927685
+  },
+  "küsnacht (zh)|CHE": {
+    "lat": 47.3176276,
+    "lon": 8.5830859
+  },
+  "nrw region|DEU": {
+    "lat": 50.8804857,
+    "lon": 6.2119398
+  },
+  "central ch|CHE": {
+    "lat": 47.4261287,
+    "lon": 7.1304409
+  },
+  "reutlingen office|ES": null,
+  "lausanne (epfl)|CHE": {
+    "lat": 46.5186594,
+    "lon": 6.5665615
+  },
+  "munich (bayern)|DEU": {
+    "lat": 48.1768926,
+    "lon": 11.5325626
+  },
+  "berlin|DE (SUBSIDIARY": null,
+  "steffisburg / bern region|CHE": {
+    "lat": 46.7774738,
+    "lon": 7.6354195
+  },
+  "tuebingen|DEU": {
+    "lat": 48.5203263,
+    "lon": 9.053596
+  },
+  "ittigen|CHE": {
+    "lat": 46.9790726,
+    "lon": 7.4815213
+  },
+  "grünwald|DEU": {
+    "lat": 48.0486558,
+    "lon": 11.5300727
+  },
+  "olten|CHE": {
+    "lat": 47.3496571,
+    "lon": 7.903787
+  },
+  "st. gallen|CHE": {
+    "lat": 47.425618,
+    "lon": 9.3762397
+  },
+  "ludwigsfelde|DEU": {
+    "lat": 52.3016096,
+    "lon": 13.2610163
+  },
+  "hamburg / northern de|DEU": {
+    "lat": 54.6006611,
+    "lon": 8.8140172
+  },
+  "northern ch|CHE": {
+    "lat": 30.0792427,
+    "lon": -81.6518249
+  },
+  "wuerzburg|DEU": {
+    "lat": 49.7780356,
+    "lon": 9.9434769
+  },
+  "duesseldorf|DEU": {
+    "lat": 51.2254018,
+    "lon": 6.7763137
+  },
+  "muenster|DEU": {
+    "lat": 51.9625101,
+    "lon": 7.6251879
+  },
+  "multiple|DEU": {
+    "lat": 50.597364,
+    "lon": 12.6728825
+  },
+  "wädenswil|CHE": {
+    "lat": 47.2278988,
+    "lon": 8.6701365
+  },
+  "—|—": null,
+  "munich/planegg|DEU": {
+    "lat": 48.1087811,
+    "lon": 11.415033
+  },
+  "basel/reinach|CHE": {
+    "lat": 47.5106578,
+    "lon": 7.602546
+  },
+  "berlin/würzburg|DEU": {
+    "lat": 49.7879802,
+    "lon": 9.9453029
+  },
+  "leiden hq; de/at/ch sales|NL (DACH COMMERCIAL": null,
+  "solna|SE": {
+    "lat": 59.366667,
+    "lon": 18.016667
+  },
+  "wuppertal, leverkusen, berlin, bergkamen|DEU": {
+    "lat": 51.264018,
+    "lon": 7.1780374
+  },
+  "melsungen, berlin (b. braun avitum)|DEU": {
+    "lat": 51.1425944,
+    "lon": 9.5833158
+  },
+  "basel, kaiseraugst|CHE": {
+    "lat": 47.5581077,
+    "lon": 7.5878261
+  },
+  "penzberg, mannheim|DEU": {
+    "lat": 47.7518502,
+    "lon": 11.3763014
+  },
+  "ravensburg, langenargen|DEU": {
+    "lat": 47.7811014,
+    "lon": 9.612468
+  },
+  "piombino dese (hq it) / frankfurt office|DEU": null,
+  "bergisch gladbach (hq) + teterow|DEU": {
+    "lat": 50.9929303,
+    "lon": 7.1277379
+  },
+  "vienna (orth/donau, linz)|AUT": null,
+  "marburg, hattersheim|DEU": {
+    "lat": 50.8090106,
+    "lon": 8.7704695
+  },
+  "schaffhausen (ch), neuss (de)|DEU": {
+    "lat": 49.2525474,
+    "lon": 6.8043152
+  },
+  "greifensee (+ urdorf)|CHE": {
+    "lat": 47.3662476,
+    "lon": 8.6786693
+  },
+  "crailsheim / waiblingen|DEU": {
+    "lat": 49.1365626,
+    "lon": 10.0720195
+  },
+  "bad vilbel, dresden|DEU": {
+    "lat": 50.19339,
+    "lon": 8.74918
+  },
+  "düsseldorf / hürth|DEU": {
+    "lat": 51.2254018,
+    "lon": 6.7763137
+  },
+  "binzen + weimar|DEU": {
+    "lat": 47.6312281,
+    "lon": 7.6243455
+  },
+  "bonaduz / domat-ems|CHE": {
+    "lat": 46.81132,
+    "lon": 9.3984396
+  },
+  "munich/neuherberg|DEU": {
+    "lat": 48.1371079,
+    "lon": 11.5753822
+  },
+  "pfaffenhofen an der ilm, münchen|DEU": {
+    "lat": 48.5296743,
+    "lon": 11.5084954
+  },
+  "freiburg im breisgau, illertissen, karlsruhe|DEU": {
+    "lat": 47.9960901,
+    "lon": 7.8494005
+  },
+  "maennedorf (+ crailsheim de)|CHE": {
+    "lat": 47.253174,
+    "lon": 8.6918153
+  },
+  "dresden, münchen|DEU": {
+    "lat": 51.0493286,
+    "lon": 13.7381437
+  },
+  "holzkirchen, barleben|DEU": {
+    "lat": 49.7816986,
+    "lon": 9.6796728
+  },
+  "visp + basel|CHE": {
+    "lat": 46.2913113,
+    "lon": 7.8811918
+  },
+  "bad homburg, hannover, berlin|DEU": {
+    "lat": 50.2283803,
+    "lon": 8.6130128
+  },
+  "villars-sur-glâne, st. gallen, ittigen|CHE": {
+    "lat": 46.791321,
+    "lon": 7.1161892
+  },
+  "berlin (hq) + hilden + wernigerode + madrid|DEU": {
+    "lat": 52.5173885,
+    "lon": 13.3951309
+  },
+  "berlin / dessau / neubrandenburg / rostock|DEU": {
+    "lat": 52.5173885,
+    "lon": 13.3951309
+  },
+  "marburg / holzminden|DEU": {
+    "lat": 50.8090106,
+    "lon": 8.7704695
+  },
+  "heidenheim (de), wien (at, ex-arcana)|DEU": {
+    "lat": 48.6767637,
+    "lon": 10.152923
+  },
+  "unterschleissheim / burgwedel / cologne|DEU": {
+    "lat": 48.2770031,
+    "lon": 11.5535459
+  },
+  "dreieich + bad kreuznach (pall filtersystems)|DEU": {
+    "lat": 50.011974,
+    "lon": 8.7123912
+  },
+  "münchen, meppen, hamburg (hagedorn)|DEU": {
+    "lat": 48.1371079,
+    "lon": 11.5753822
+  },
+  "reinbek (hamburg)|DEU": {
+    "lat": 53.5098898,
+    "lon": 10.2511001
+  },
+  "freiburg / marlborough de ops|DEU": {
+    "lat": 47.9960901,
+    "lon": 7.8494005
+  },
+  "bad homburg + leverkusen + cuxhaven (riems via tie-ins)|DEU": {
+    "lat": 50.2283803,
+    "lon": 8.6130128
+  },
+  "hanau / darmstadt|DEU": {
+    "lat": 50.132881,
+    "lon": 8.9169797
+  },
+  "greifswald (hq; mfg via bayer-greifswald site acquired 2023)|DEU": {
+    "lat": 54.095791,
+    "lon": 13.3815238
+  },
+  "ulm (cassella-med)|DEU": {
+    "lat": 48.3984968,
+    "lon": 9.9912458
+  },
+  "münchen, gernsheim (toll partners)|DEU": {
+    "lat": 48.1371079,
+    "lon": 11.5753822
+  },
+  "großhesselohe / wolfratshausen|DEU": {
+    "lat": 48.0703908,
+    "lon": 11.5341312
+  },
+  "vienna + leobendorf + enns|AUT": {
+    "lat": 48.2083537,
+    "lon": 16.3725042
+  },
+  "göttingen / nationwide|DEU": {
+    "lat": 51.5328328,
+    "lon": 9.9351811
+  },
+  "halle / jena / amsterdam|DEU": {
+    "lat": 51.4824354,
+    "lon": 11.9712985
+  },
+  "hohenlockstedt + dägeling|DEU": {
+    "lat": 53.9667,
+    "lon": 9.61667
+  },
+  "vienna (multiple)|AUT": {
+    "lat": 48.2083537,
+    "lon": 16.3725042
+  },
+  "erkrath / köln|DEU": {
+    "lat": 51.2209866,
+    "lon": 6.9056079
+  },
+  "eschborn (commercial), martinsried|DEU": {
+    "lat": 50.1504737,
+    "lon": 8.5607767
+  },
+  "wien (at regional)|DEU": {
+    "lat": 47.7767011,
+    "lon": 12.7225516
+  },
+  "koeln + schoenebeck (ima life)|DEU": {
+    "lat": 50.9280446,
+    "lon": 6.9281305
+  },
+  "dusseldorf (hq) + riems-insel collaboration|DEU": {
+    "lat": 51.2254018,
+    "lon": 6.7763137
+  },
+  "haan de + porto mantovano|DEU": {
+    "lat": 51.1954956,
+    "lon": 7.0085328
+  },
+  "bern / biel / lausanne / epalinges|CHE": {
+    "lat": 46.9484742,
+    "lon": 7.4521749
+  },
+  "hamburg + munich logistics|DEU": {
+    "lat": 53.5501721,
+    "lon": 10.0013165
+  },
+  "dreieich / rostock|DEU": {
+    "lat": 50.011974,
+    "lon": 8.7123912
+  },
+  "mendrisio + couvet|CHE": {
+    "lat": 45.8709661,
+    "lon": 8.9875293
+  },
+  "aalen / kassel|DEU": {
+    "lat": 48.8375607,
+    "lon": 10.0929593
+  },
+  "ravensburg + marburg (polymem/c-tech sites)|DEU": {
+    "lat": 47.7811014,
+    "lon": 9.612468
+  },
+  "hamburg, bovenau|DEU": {
+    "lat": 53.5501721,
+    "lon": 10.0013165
+  },
+  "münster / leipzig|DEU": {
+    "lat": 51.9625101,
+    "lon": 7.6251879
+  },
+  "vienna/graz|AUT": {
+    "lat": 48.2083537,
+    "lon": 16.3725042
+  },
+  "roedermark (spirax-sarco group)|DEU": {
+    "lat": 49.9798913,
+    "lon": 8.8088274
+  },
+  "vienna + gallspach|AUT": {
+    "lat": 48.2083537,
+    "lon": 16.3725042
+  },
+  "germany|DEU": null,
+  "halle (former polymun-aligned site via cytiva)|DEU": {
+    "lat": 51.4824354,
+    "lon": 11.9712985
+  },
+  "jena (r&d) / vienna|DEU": {
+    "lat": 50.9281717,
+    "lon": 11.5879359
+  },
+  "reutlingen / teltow|DEU": {
+    "lat": 48.4919508,
+    "lon": 9.2114144
+  },
+  "vienna (at) + 2 de collection sites|AUT": {
+    "lat": 48.2083537,
+    "lon": 16.3725042
+  },
+  "greifswald-insel riems|DEU": null,
+  "munich / berlin|DEU": {
+    "lat": 48.1371079,
+    "lon": 11.5753822
+  },
+  "stirling (ch ops via bern partners)|CHE": null,
+  "puchheim (munich)|DEU": {
+    "lat": 48.1704908,
+    "lon": 11.3526351
+  },
+  "berlin-buch / waltham|DEU": {
+    "lat": 52.6358345,
+    "lon": 13.4916378
+  },
+  "vienna / nyc|AUT": {
+    "lat": 48.2083537,
+    "lon": 16.3725042
+  },
+  "berlin + geretsried|DEU": {
+    "lat": 52.5173885,
+    "lon": 13.3951309
+  },
+  "basel (eu hub)|CHE": {
+    "lat": 47.5581077,
+    "lon": 7.5878261
+  },
+  "neumünster (near schenefeld)|DEU": {
+    "lat": 54.0703296,
+    "lon": 9.9884451
+  },
+  "jena (+ munich)|DEU": {
+    "lat": 50.9281717,
+    "lon": 11.5879359
+  },
+  "dresden (mfg via cellex)|DEU": {
+    "lat": 51.0493286,
+    "lon": 13.7381437
+  },
+  "lausanne metropolitan area|CHE": null,
+  "alzenau in unterfranken|DEU": null,
+  "basel / wadenswil|CHE": {
+    "lat": 47.5581077,
+    "lon": 7.5878261
+  },
+  "bresso (hq italy, listed six)|CHE": null,
+  "hohwacht (baltic sea)|DEU": {
+    "lat": 54.3215761,
+    "lon": 10.6664697
+  },
+  "eberstallzell|AUT": null,
+  "berlin (rep)|DEU": {
+    "lat": 52.5173885,
+    "lon": 13.3951309
+  },
+  "vienna / linz|AUT": {
+    "lat": 48.2083537,
+    "lon": 16.3725042
+  },
+  "frankfurt area (partner)|DEU": null,
+  "marburg (behringwerke campus)|DEU": {
+    "lat": 50.8090106,
+    "lon": 8.7704695
+  },
+  "tübingen (gmp iv under construction)|DEU": {
+    "lat": 48.5203263,
+    "lon": 9.053596
+  },
+  "marburg (behringwerke; legacy chiron/novartis)|DEU": null,
+  "nationwide|DEU": null,
+  "bern (legacy crucell/berna biotech, now closed/sold to pharvaris/site repurposed 2023)|CHE": null,
+  "vienna (legacy baxter / nanotherapeutics site sold; current msd presence office)|AUT": null,
+  "illertissen (legacy king)|DEU": {
+    "lat": 48.222924,
+    "lon": 10.1053373
+  },
+  "nationwide university hospitals|DEU": null,
+  "vienna (hq + ds)|AUT": {
+    "lat": 48.2083537,
+    "lon": 16.3725042
+  }
+}

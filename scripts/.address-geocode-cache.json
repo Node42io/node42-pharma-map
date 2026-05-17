@@ -1,0 +1,5399 @@
+{
+  "untere brühlstrasse 4|zofingen||che": {
+    "lat": 47.2882327,
+    "lon": 7.9391108
+  },
+  "langes feld 13|hameln|31789|deu": {
+    "lat": 52.0995996,
+    "lon": 9.3977336
+  },
+  "parc industriel de la plaine de l‘ain|saint vulbas|01150|fra": {
+    "lat": 45.8425206,
+    "lon": 5.2813704
+  },
+  "route du simplon 1|evionnaz|36|che": {
+    "lat": 46.1730606,
+    "lon": 7.0238496
+  },
+  "karlstrasse 15|minden|32423|deu": {
+    "lat": 52.298604,
+    "lon": 8.9411569
+  },
+  "no. 5|tongshun road||chn": {
+    "lat": 22.6732604,
+    "lon": 114.0054205
+  },
+  "9342 jeronimo road|irvine|92618|usa": {
+    "lat": 33.6512427,
+    "lon": -117.7202013
+  },
+  "hhf070 hal far industrial estate|hal far|3000|mlt": {
+    "lat": 35.8638622,
+    "lon": 14.4791406
+  },
+  "33 industrial park road|pennsville|08070|usa": {
+    "lat": 39.6327162,
+    "lon": -75.5346809
+  },
+  "ronda de santa maria|barcelona|158|esp": {
+    "lat": 41.5332573,
+    "lon": 2.1206179
+  },
+  "carrer de camil fabra|el masnou|58|esp": {
+    "lat": 41.4750148,
+    "lon": 2.2964511
+  },
+  "via penate 5|mendrisio||che": {
+    "lat": 45.8769573,
+    "lon": 8.9817822
+  },
+  "rue des iles 4b|couvet|2108|che": {
+    "lat": 46.9295623,
+    "lon": 6.639327
+  },
+  "seidenstrasse 2|lachen|8853|che": {
+    "lat": 47.1916351,
+    "lon": 8.8541582
+  },
+  "lars forssells gata 23|stockholm|11275|swe": {
+    "lat": 59.3381289,
+    "lon": 18.0044377
+  },
+  "25 king street west|toronto|m5l 1g1|can": {
+    "lat": 43.6486463,
+    "lon": -79.3790501
+  },
+  "av. ator josé wilker no 605|rio de janeiro|22775-024|bra": {
+    "lat": -22.9110137,
+    "lon": -43.2093727
+  },
+  "delnická 213/12|prague|170 00|cze": {
+    "lat": 50.1029047,
+    "lon": 14.4464187
+  },
+  "frederiksborgvej 17|roskilde|4000|dnk": {
+    "lat": 55.645342,
+    "lon": 12.083339
+  },
+  "72 rue du maréchal foch|lingolsheim|67380|fra": {
+    "lat": 48.5588679,
+    "lon": 7.6842025
+  },
+  "altenhöferallee 3|frankfurt|60438|deu": {
+    "lat": 50.175551,
+    "lon": 8.6315151
+  },
+  "im neuenheimer feld 590|heidelberg|69120|deu": {
+    "lat": 49.4230144,
+    "lon": 8.6777643
+  },
+  "otto-reuter-straße 3|dessau|06847|deu": {
+    "lat": 51.8195526,
+    "lon": 12.1813944
+  },
+  "wolfgang-marguerre-allee 1|springe|31832|deu": {
+    "lat": 52.194207,
+    "lon": 9.5638494
+  },
+  "via cisanello 145|pisa|56124|ita": {
+    "lat": 43.7121827,
+    "lon": 10.4220892
+  },
+  "calzada méxico tacuba|mexico city|11230|mex": {
+    "lat": 19.4562386,
+    "lon": -99.2079204
+  },
+  "ul. chodkiewicza 8|warsaw|02-593|pol": {
+    "lat": 52.2031005,
+    "lon": 20.9969658
+  },
+  "rua dos lagares d'el rei|lisbon|1700-268|prt": {
+    "lat": 38.7472914,
+    "lon": -9.1339923
+  },
+  "denezhniy lane 11|moscow|119002|rus": {
+    "lat": 55.7507266,
+    "lon": 37.5900881
+  },
+  "zochova 6/8|bratislava|811 03|svk": {
+    "lat": 48.1463589,
+    "lon": 17.1003528
+  },
+  "avenida de castilla 2|madrid|28830|esp": {
+    "lat": 40.4507272,
+    "lon": -3.5100968
+  },
+  "32 shudehill|manchester|m4 1ez|gbr": {
+    "lat": 53.4847109,
+    "lon": -2.2384175
+  },
+  "10644 westlake dr|charlotte|28273|usa": {
+    "lat": 35.1374805,
+    "lon": -80.9683187
+  },
+  "117 w century rd|paramus|07652|usa": {
+    "lat": 40.9340913,
+    "lon": -74.0795591
+  },
+  "601 brickell key dr|miami|33131|usa": {
+    "lat": 25.7669537,
+    "lon": -80.1859962
+  },
+  "oberlaaer straße 235|vienna|1100|aut": {
+    "lat": 48.1433859,
+    "lon": 16.3768499
+  },
+  "nizami str 96|baku|az1010|aze": {
+    "lat": 40.3759652,
+    "lon": 49.8510229
+  },
+  "dzerzhinski av. 8|minsk|220036|blr": {
+    "lat": 53.9024716,
+    "lon": 27.5618225
+  },
+  "researchdreef 65|brussels|1070|bel": {
+    "lat": 50.81653,
+    "lon": 4.2733664
+  },
+  "no. 42 gaoliangqiao xiejie|beijing|100044|chn": {
+    "lat": 39.9293949,
+    "lon": 116.4579664
+  },
+  "rajatorpantie 41 c|vantaa|01630|fin": {
+    "lat": 60.2543977,
+    "lon": 24.7878646
+  },
+  "62 bis avenue andré morizet|boulogne billancourt|92100|fra": {
+    "lat": 48.8375393,
+    "lon": 2.2355698
+  },
+  "king abdullah ii st. bldg 296|amman|11814|jor": {
+    "lat": 31.9647865,
+    "lon": 35.8430298
+  },
+  "industrivegen 23|jessheim|2069|nor": {
+    "lat": 60.15227,
+    "lon": 11.184541
+  },
+  "4038 northern ring road|riyadh|13313-6640|sau": {
+    "lat": 24.7649617,
+    "lon": 46.6548815
+  },
+  "koste jovanovic 53|belgrade-vozdovac|11000|srb": {
+    "lat": 44.7878963,
+    "lon": 20.4769876
+  },
+  "36 armenian street|singapore|179934|sgp": {
+    "lat": 1.2940327,
+    "lon": 103.8494877
+  },
+  "cnr william nicol and leslie avenue east|fourways|2191|zaf": {
+    "lat": -26.0184568,
+    "lon": 28.0055974
+  },
+  "dostyk str. 180|almaty|050051|kaz": {
+    "lat": 43.2323241,
+    "lon": 76.959784
+  },
+  "hauptstrasse 144|bubendorf|4416|che": {
+    "lat": 47.443275,
+    "lon": 7.7325055
+  },
+  "22 route du simplon|vionnaz|1895|che": {
+    "lat": 46.3074302,
+    "lon": 6.9061635
+  },
+  "3132 kashiwa street|torrance|90505|usa": {
+    "lat": 33.8148291,
+    "lon": -118.3399858
+  },
+  "sullivan's way|st. helens|wa9 5gl|gbr": {
+    "lat": 53.4404509,
+    "lon": -2.7262045
+  },
+  "1271 avenida chelsea|vista|92081|usa": {
+    "lat": 33.143697,
+    "lon": -117.2337436
+  },
+  "1-9-10 nihonbashi-horidome cho|chuo-ku|103-0012|jpn": {
+    "lat": 35.688584,
+    "lon": 139.781188
+  },
+  "aeschenvorstadt 71|basel||che": {
+    "lat": 47.5518484,
+    "lon": 7.5943503
+  },
+  "otto-hahn-strasse|plankstadt|d-68723|deu": {
+    "lat": 49.4053605,
+    "lon": 8.5741672
+  },
+  "2075 55th street|boulder|80301|usa": {
+    "lat": 40.020293,
+    "lon": -105.2265832
+  },
+  "viale dell’industria|caponago|3|ita": {
+    "lat": 45.6205386,
+    "lon": 11.6913548
+  },
+  "eichenweg 1|liestal|ch-4410|che": {
+    "lat": 47.4915443,
+    "lon": 7.727104
+  },
+  "via bergamo|treviglio|121|ita": {
+    "lat": 45.5372062,
+    "lon": 9.6012368
+  },
+  "47|rue de longvic|21301|fra": {
+    "lat": 47.3120831,
+    "lon": 5.0466739
+  },
+  "gebäude c26|alt-fechenheim 34|60386|deu": {
+    "lat": 50.1296932,
+    "lon": 8.7609269
+  },
+  "brühlstrasse 50|ettingen|4107|che": {
+    "lat": 47.4855904,
+    "lon": 7.5390634
+  },
+  "route de moncor 10|villars-sur-glâne|1752|che": {
+    "lat": 46.7985768,
+    "lon": 7.1218502
+  },
+  "r. da indústria|2. quinta grande|2610-088|prt": {
+    "lat": 38.7368331,
+    "lon": -9.2271266
+  },
+  "binger straße|ingelheim am rhein||deu": {
+    "lat": 49.9749263,
+    "lon": 8.0570182
+  },
+  "813|cours du 3ème millénaire|69800|fra": {
+    "lat": 45.7121705,
+    "lon": 4.936022
+  },
+  "900 ridgebury rd|ridgefield|06877|usa": {
+    "lat": 41.374866,
+    "lon": -73.5262604
+  },
+  "birkendorfer straße 65|biberach an der riß|88400|deu": {
+    "lat": 48.1106322,
+    "lon": 9.7981311
+  },
+  "eski buyukdere caddesi|istanbul|34398|tur": {
+    "lat": 41.0837236,
+    "lon": 29.008241
+  },
+  "ellesfield avenue|bracknell|rg12 8ys|gbr": {
+    "lat": 51.4086187,
+    "lon": -0.7723295
+  },
+  "the hyde building 4th floor|dublin|dublin 18|irl": {
+    "lat": 53.250552,
+    "lon": -6.1831795
+  },
+  "5180 s service rd|burlington|l7l 5h4|can": {
+    "lat": 43.3857465,
+    "lon": -79.7661259
+  },
+  "3239 satellite blvd nw|duluth|30096|usa": {
+    "lat": 46.7838287,
+    "lon": -92.1052679
+  },
+  "300 beach rd|singapore|199555|sgp": {
+    "lat": 1.301121,
+    "lon": 103.8626646
+  },
+  "rodovia regis bittencourt|itapecerica da serra|06850-840|bra": {
+    "lat": -23.6982631,
+    "lon": -46.8664706
+  },
+  "avenida carrera 11 84-9|bogota|110221|col": {
+    "lat": 4.6785673,
+    "lon": -74.0506645
+  },
+  "comeniusstraat 6|alkmaar|1817|nld": {
+    "lat": 52.6438533,
+    "lon": 4.7277262
+  },
+  "de boelelaan 32|amsterdam|1083|nld": {
+    "lat": 52.3350249,
+    "lon": 4.8856771
+  },
+  "leof. andrea syngrou 340|kallithea|176 73|grc": {
+    "lat": 37.9449766,
+    "lon": 23.7014367
+  },
+  "avenida de pádua|lisbon|1800-294|prt": {
+    "lat": 38.7629476,
+    "lon": -9.1093748
+  },
+  "avenue ariane|st-lambrechts-woluwe|1200|bel": {
+    "lat": 50.8586442,
+    "lon": 4.4326067
+  },
+  "strødamvej 52|copenhagen|2100|dnk": {
+    "lat": 55.712946,
+    "lon": 12.547637
+  },
+  "tammasaarenkatu 5|helsinki|00180|fin": {
+    "lat": 60.1613581,
+    "lon": 24.9058312
+  },
+  "hagaløkkveien 26|asker|1383|nor": {
+    "lat": 59.828544,
+    "lon": 10.430258
+  },
+  "hammarby allé 29|stockholm|120 61|swe": {
+    "lat": 59.3020643,
+    "lon": 18.0847244
+  },
+  "100-104|avenue de france|75013|fra": {
+    "lat": 48.8351855,
+    "lon": 2.3721591
+  },
+  "4|rue pierre hadot|51100|fra": {
+    "lat": 49.2607529,
+    "lon": 4.0203062
+  },
+  "29|avenue tony garnier|69007|fra": {
+    "lat": 45.7282962,
+    "lon": 4.8237829
+  },
+  "4|chemin du calquet|31100|fra": {
+    "lat": 43.5939027,
+    "lon": 1.3911727
+  },
+  "805|allée des cyprès|01150|fra": {
+    "lat": 45.8612514,
+    "lon": 5.2877125
+  },
+  "1|chemin de cruzols|69210|fra": {
+    "lat": 45.8277158,
+    "lon": 4.6736698
+  },
+  "dr. boehringer-gasse 5-11|vienna|1120|aut": {
+    "lat": 48.1713008,
+    "lon": 16.3166504
+  },
+  "6701 kaiser dr|fremont|94555|usa": {
+    "lat": 37.5509825,
+    "lon": -122.0664472
+  },
+  "pudong new area|shanghai|201203|chn": {
+    "lat": 31.2407769,
+    "lon": 121.5919696
+  },
+  "hattenbergstraße 10|mainz||deu": {
+    "lat": 50.0136256,
+    "lon": 8.2465426
+  },
+  "avenida francisco nakazato 1801|itupeva|13295-000|bra": {
+    "lat": -23.1546426,
+    "lon": -47.0339772
+  },
+  "primera junta 3181|munro|1605|arg": {
+    "lat": -34.5373876,
+    "lon": -58.5446596
+  },
+  "17550 jalan bekasi|periuk|15133|idn": {
+    "lat": -6.1688948,
+    "lon": 106.5924627
+  },
+  "no. 666 anju west road|zhejiang|321404|chn": {
+    "lat": 29.0000001,
+    "lon": 119.9999999
+  },
+  "17-a|cooperage road||ind": {
+    "lat": 18.9243749,
+    "lon": 72.8294889
+  },
+  "otto schott utca 1|lukácsháza||hun": {
+    "lat": 47.3269856,
+    "lon": 16.584544
+  },
+  "st. josefen-strasse 20|st. gallen||che": {
+    "lat": 47.422811,
+    "lon": 9.3500951
+  },
+  "железнодорожная улица|zavolzhye||rus": {
+    "lat": 55.7524929,
+    "lon": 38.0082811
+  },
+  "route de paris|b. p. 18|89140|fra": {
+    "lat": 48.2933,
+    "lon": 3.1962648
+  },
+  "autopista medellín glorieta siberia 300 mts. vía cota|bogota||col": {
+    "lat": 4.2834715,
+    "lon": -74.1753606
+  },
+  "carretera méxico-veracruz km 349 s/n|veracruz|94946|mex": {
+    "lat": 19.0972375,
+    "lon": -96.108905
+  },
+  "30 lebanon valley pkwy|lebanon|17042|usa": {
+    "lat": 40.300058,
+    "lon": -76.3730833
+  },
+  "im käppeleacker 2|müllheim|79379|deu": {
+    "lat": 47.8325171,
+    "lon": 7.6205497
+  },
+  "via sestriere|candiolo|7|ita": {
+    "lat": 44.9670087,
+    "lon": 7.6123581
+  },
+  "no.79 huoju road|suzhou new district|215009|chn": {
+    "lat": 31.3572171,
+    "lon": 120.5607952
+  },
+  "landsteinerstraße 5|dreieich|63303|deu": {
+    "lat": 50.00458,
+    "lon": 8.7005661
+  },
+  "|63303|63303|deu": {
+    "lat": 49.9998632,
+    "lon": 8.7118967
+  },
+  "erwin-rentschler-str. 21|laupheim|88471|deu": {
+    "lat": 48.2359584,
+    "lon": 9.875466
+  },
+  "27 maple street|milford|01757|usa": {
+    "lat": 42.1415419,
+    "lon": -71.4876311
+  },
+  "hauptstrasse 171|bubendorf|4416|che": {
+    "lat": 47.4417341,
+    "lon": 7.73162
+  },
+  "schachenallee 29|aarau|ch-5001|che": {
+    "lat": 47.389944,
+    "lon": 8.0396682
+  },
+  "neulandweg 5|hunzenschwil|ch-5502|che": {
+    "lat": 47.3865551,
+    "lon": 8.1115625
+  },
+  "303 clayton lane|manchester|m11 4sx|gbr": {
+    "lat": 53.4818629,
+    "lon": -2.1834285
+  },
+  "10|rue des boules|63200|fra": {
+    "lat": 45.8897416,
+    "lon": 3.1052106
+  },
+  "route du simplon 24|vionnaz|ch-1895|che": {
+    "lat": 46.3062091,
+    "lon": 6.9071477
+  },
+  "no. 69 shungong road|shanghai chemical industry park|201507|chn": {
+    "lat": 32.2029339,
+    "lon": 118.8789672
+  },
+  "nieuweweg 2a|veenendaal||nld": {
+    "lat": 52.03008,
+    "lon": 5.557391
+  },
+  "4|rue blaise pascal|63360|fra": {
+    "lat": 45.7952393,
+    "lon": 3.1626394
+  },
+  "maria-theresia-straße 41, puchberg, niederthan, mitterlaab, oberhart, lichtenegg, oberlaab, waidhausen, schafwiesen, roithen, pernau, oberthan, wimpassing, kirchham, hölzl|wels||aut": {
+    "lat": 48.1565472,
+    "lon": 14.0243752
+  },
+  "|zug||che": {
+    "lat": 47.1486137,
+    "lon": 8.5539378
+  },
+  "spółdzielcza 4 05-850 duchnice|ożarów mazowiecki|05-850|pol": {
+    "lat": 52.1979371,
+    "lon": 20.8064821
+  },
+  "yalelaan 46|utrecht||nld": {
+    "lat": 52.0833646,
+    "lon": 5.1786113
+  },
+  "am pharmapark|dessau||deu": {
+    "lat": 51.9091147,
+    "lon": 12.2180448
+  },
+  "1405 research blvd.|rockville|20850|usa": {
+    "lat": 39.0911085,
+    "lon": -77.1770824
+  },
+  "rietlistr. 4|thal||che": {
+    "lat": 47.482941,
+    "lon": 9.5574172
+  },
+  "axis house|compton|rg20 6nl|gbr": {
+    "lat": 51.5159866,
+    "lon": -1.2505076
+  },
+  "nobelova 34 (located in istrochem area)|bratislava|836 05|svk": {
+    "lat": 48.1359085,
+    "lon": 17.1597441
+  },
+  "218 xinghu street|suzhou industrial park|215123|chn": {
+    "lat": 31.2814342,
+    "lon": 120.7207178
+  },
+  "zuidersluisweg 2|lelystad||nld": {
+    "lat": 52.5011081,
+    "lon": 5.4425056
+  },
+  "65 zub ln|gardner|01440|usa": {
+    "lat": 42.5970256,
+    "lon": -71.9546078
+  },
+  "17-18 belasis court|billingham|ts23 4az|gbr": {
+    "lat": 54.6024786,
+    "lon": -1.2692614
+  },
+  "viehmarktgasse 2 a|vienna|1030|aut": {
+    "lat": 48.1902336,
+    "lon": 16.4015363
+  },
+  "robert-rössle straße 10|berlin|13125|deu": {
+    "lat": 52.624447,
+    "lon": 13.5019264
+  },
+  "nutgrove office park|whitehall|d14 dx26|irl": {
+    "lat": 53.2919239,
+    "lon": -6.2606745
+  },
+  "4 feldspar close|enderby|le19 4js|gbr": {
+    "lat": 52.5968949,
+    "lon": -1.2110493
+  },
+  "11621 electron dr|louisville|40299|usa": {
+    "lat": 38.2041433,
+    "lon": -85.5429082
+  },
+  "mattenstrasse 22|basel||che": {
+    "lat": 47.5655024,
+    "lon": 7.6029453
+  },
+  "czernyring 22|heidelberg|69115|deu": {
+    "lat": 49.4006265,
+    "lon": 8.675931
+  },
+  "|lausanne||che": {
+    "lat": 46.5218269,
+    "lon": 6.6327025
+  },
+  "430 mountain avenue|new providence|94404|usa": {
+    "lat": 40.696681,
+    "lon": -74.3859525
+  },
+  "vollmersbachstrasse 66|idar-oberstein||deu": {
+    "lat": 49.7209101,
+    "lon": 7.3140487
+  },
+  "melli-beese-str. 9-11|cologne||deu": {
+    "lat": 50.9874102,
+    "lon": 6.8863091
+  },
+  "mathias-brüggen-straße 140|köln|50829|deu": {
+    "lat": 50.987595,
+    "lon": 6.8819133
+  },
+  "else-kröner-straße 1|bad homburg||deu": {
+    "lat": 50.215259,
+    "lon": 8.6236742
+  },
+  "-|saint-prex|1162|che": {
+    "lat": 46.4809059,
+    "lon": 6.4586004
+  },
+  "friedrich-ebert-straße 68|bergisch gladbach||deu": {
+    "lat": 50.9607122,
+    "lon": 7.1820827
+  },
+  "2303 lindbergh street|auburn|95602|usa": {
+    "lat": 38.9521274,
+    "lon": -121.0828596
+  },
+  "robert-koch-str. 1|teterow|17166|deu": {
+    "lat": 53.7900464,
+    "lon": 12.5651613
+  },
+  "astastraße 14|bielefeld|33617|deu": {
+    "lat": 52.003117,
+    "lon": 8.5097944
+  },
+  "bertha-von-suttner-str. 5|göttingen|37085|deu": {
+    "lat": 51.5213012,
+    "lon": 9.9647476
+  },
+  "markthallenstraße 5|radolfzell|78315|deu": {
+    "lat": 47.7401205,
+    "lon": 8.9708342
+  },
+  "almac house|church lane|gu24 9dr|gbr": {
+    "lat": 51.3291209,
+    "lon": -0.6358649
+  },
+  "10 rue mercoeur|paris|75011|fra": {
+    "lat": 48.8572883,
+    "lon": 2.3839969
+  },
+  "via paolo nanni costa|bologna|30|ita": {
+    "lat": 44.5090455,
+    "lon": 11.3051606
+  },
+  "ciudad de la imagen c/ luis buñuel 2|pozuelo de alarcón (madrid)|28223|esp": {
+    "lat": 40.39855,
+    "lon": -3.7859312
+  },
+  "sandifortdreef 17|leiden||nld": {
+    "lat": 52.1687238,
+    "lon": 4.4778368
+  },
+  "soodstrasse 52|adliswil|8134|che": {
+    "lat": 47.3204716,
+    "lon": 8.5221855
+  },
+  "scheeletorget 1|lund|22381|swe": {
+    "lat": 55.7112785,
+    "lon": 13.2179324
+  },
+  "120 beacon st|somerville|02143|usa": {
+    "lat": 42.3781894,
+    "lon": -71.1064544
+  },
+  "1201 clopper road|gaithersburg|20878|usa": {
+    "lat": 39.1486258,
+    "lon": -77.2305334
+  },
+  "6125 cornerstone court east|san diego|92121|usa": {
+    "lat": 32.8964568,
+    "lon": -117.1887664
+  },
+  "75 robin hill road|santa barbara|93117|usa": {
+    "lat": 34.4355353,
+    "lon": -119.8450269
+  },
+  "2825 n 1st st|san jose|95134|usa": {
+    "lat": 37.3914824,
+    "lon": -121.9329178
+  },
+  "830 winter st|waltham|02451|usa": {
+    "lat": 42.4018428,
+    "lon": -71.278179
+  },
+  "nittsu-etai building 5f 16-10 fuyuki|koto-ku|135-0041|jpn": {
+    "lat": 35.7024476,
+    "lon": 139.831398
+  },
+  "10 jiuxianqiao road|chaoyang district|100015|chn": {
+    "lat": 39.98445,
+    "lon": 116.4996342
+  },
+  "no. 371-375|huanshi dong rd||chn": {
+    "lat": 22.568489,
+    "lon": 113.0734967
+  },
+  "2 eden park drive|macquarie park|2113|aus": {
+    "lat": -33.7858126,
+    "lon": 151.1310678
+  },
+  "438b alexandra road|alexandra technopark|119968|sgp": {
+    "lat": 1.2773833,
+    "lon": 103.7994323
+  },
+  "arigi bldg. 8f|659 yeoksam-dong|135-913|kor": {
+    "lat": 37.4957048,
+    "lon": 127.0487692
+  },
+  "neurather ring 1|cologne|51063|deu": {
+    "lat": 50.9762052,
+    "lon": 7.016922
+  },
+  "ernst-heinkel straße 5|laage|18299|deu": {
+    "lat": 53.9333097,
+    "lon": 12.3079903
+  },
+  "|hong kong||chn": {
+    "lat": 22.2792968,
+    "lon": 114.1628907
+  },
+  "|hyderabad||ind": {
+    "lat": 17.360589,
+    "lon": 78.4740613
+  },
+  "|beijing||chn": {
+    "lat": 39.9057136,
+    "lon": 116.3912972
+  },
+  "|shanghai||chn": {
+    "lat": 31.2312707,
+    "lon": 121.4700152
+  },
+  "untermattweg 8|bern||che": {
+    "lat": 46.9492828,
+    "lon": 7.4002902
+  },
+  "im kammerbrühl 18|ravensburg||deu": {
+    "lat": 47.794972,
+    "lon": 9.6182078
+  },
+  "eisenbahnstraße 2-4|langenargen|88085|deu": {
+    "lat": 47.5999922,
+    "lon": 9.5406232
+  },
+  "römergrund 6|rankweil|6830|aut": {
+    "lat": 47.2783188,
+    "lon": 9.6201995
+  },
+  "10 w algonquin rd|des plaines|60016|usa": {
+    "lat": 42.0303412,
+    "lon": -87.9214639
+  },
+  "|tokyo|108-6028|jpn": {
+    "lat": 35.6768601,
+    "lon": 139.7638947
+  },
+  "50 raffles place|singapore|048623|sgp": {
+    "lat": 1.2846277,
+    "lon": 103.8520433
+  },
+  "|incheon||kor": {
+    "lat": 37.456,
+    "lon": 126.7052
+  },
+  "|shanghai|200042|chn": {
+    "lat": 31.2323437,
+    "lon": 121.4691024
+  },
+  "8025 lamon ave|skokie|60077|usa": {
+    "lat": 42.026995,
+    "lon": -87.7493942
+  },
+  "glienicker weg 125|berlin||deu": {
+    "lat": 52.4336357,
+    "lon": 13.5568383
+  },
+  "märkische allee 1|grossbeeren|14979|deu": {
+    "lat": 52.3779022,
+    "lon": 13.3083558
+  },
+  "rechenstrasse 37|st gallen||che": {
+    "lat": 47.4186006,
+    "lon": 9.3367674
+  },
+  "flughofstrasse 61|glattbrugg|8152|che": {
+    "lat": 47.4400442,
+    "lon": 8.5653883
+  },
+  "westbroek 43|breda||nld": {
+    "lat": 51.6076968,
+    "lon": 4.7216603
+  },
+  "baierbrunner straße 29|munich|81379|deu": {
+    "lat": 48.0970528,
+    "lon": 11.5327782
+  },
+  "100-101 terrasse boieldieu tour franklin la défense 8|paris|92042|fra": {
+    "lat": 48.8534951,
+    "lon": 2.3483915
+  },
+  "av. diagonal|barcelona|611|esp": {
+    "lat": 41.3822764,
+    "lon": 2.1043634
+  },
+  "rua industria n°2|quinta grande - alfragide|2610-088|prt": {
+    "lat": 38.7368331,
+    "lon": -9.2271266
+  },
+  "uitbreidingstraat 84|antwerp||bel": {
+    "lat": 51.1926131,
+    "lon": 4.4180871
+  },
+  "the old stables|bagshot park|gu19 5pj|gbr": {
+    "lat": 51.3673405,
+    "lon": -0.6946624
+  },
+  "70 sir john rogerson's quay|dublin|dublin 2|irl": {
+    "lat": 53.3454157,
+    "lon": -6.2348505
+  },
+  "torshamnsgatan 30 a|kista|164 40|swe": {
+    "lat": 59.4065391,
+    "lon": 17.9528904
+  },
+  "via paolo di dono|rome|73|ita": {
+    "lat": 41.8298805,
+    "lon": 12.4922565
+  },
+  "linzerstraße 221|wien|1140|aut": {
+    "lat": 48.1943014,
+    "lon": 16.2904546
+  },
+  "bd. 21 decembrie 1989|nr. 77|etaj 6|rou": {
+    "lat": 44.8218457,
+    "lon": 26.405409
+  },
+  "level 29|tower b|11523|sau": null,
+  "aspin tower|aspin commercial building|12th floor|are": null,
+  "89 amoy street|sg-01-00 singapore 069908|069908|sgp": null,
+  "unit 1201-30|china resources building 8|100005|chn": {
+    "lat": 22.2798472,
+    "lon": 114.1759373
+  },
+  "level 8|80 dorcas street|3006|aus": {
+    "lat": -37.8307587,
+    "lon": 144.9668197
+  },
+  "100 cardinal way|redwood city|94063|usa": {
+    "lat": 37.5047598,
+    "lon": -122.2179766
+  },
+  "los crisantemos 265|buenos aires|1669|arg": {
+    "lat": -34.531352723404254,
+    "lon": -59.121909389361704
+  },
+  "neuhofstrasse 24|baar||che": {
+    "lat": 47.18861,
+    "lon": 8.513559
+  },
+  "limhamnsvägen 108|malmö|20061|swe": {
+    "lat": 55.5864589,
+    "lon": 12.9285414
+  },
+  "365 maple ave|torrance|90503|usa": {
+    "lat": 33.8458395,
+    "lon": -118.3402181
+  },
+  "chaussee de tubize 297|braine-l'alleud|1420|bel": {
+    "lat": 50.69564,
+    "lon": 4.3436436
+  },
+  "k 28 additional midc|anand nagar|421506|ind": {
+    "lat": 27.0995326,
+    "lon": 83.2698977
+  },
+  "9395 cabot dr|san diego|92126|usa": {
+    "lat": 32.892325,
+    "lon": -117.143351
+  },
+  "7 rue de boulogne|strasbourg|67100|fra": {
+    "lat": 48.5393384,
+    "lon": 7.7899788
+  },
+  "zetaplatz 1|lieboch||aut": {
+    "lat": 46.9587284,
+    "lon": 15.3533805
+  },
+  "zeppelinstraße 1|hallbergmoos|85399|deu": {
+    "lat": 48.3313469,
+    "lon": 11.7379363
+  },
+  "moosweg 36|dintikon|5606|che": {
+    "lat": 47.362646,
+    "lon": 8.2212866
+  },
+  "modřická 66|moravany|664 48|cze": {
+    "lat": 49.1442635,
+    "lon": 16.5906546
+  },
+  "letnikovskaya str. 10|bld. 4|5th floor|rus": {
+    "lat": 56.3277239,
+    "lon": 44.0092207
+  },
+  "kievskaya str. 2|vinnitsa|office 28|ukr": {
+    "lat": 49.2087614,
+    "lon": 28.4641424
+  },
+  "römerstraße 40|lebring|8403|aut": {
+    "lat": 46.8494317,
+    "lon": 15.5283392
+  },
+  "nonnenwaldstraße 24b|penzberg|82377|deu": {
+    "lat": 47.760959,
+    "lon": 11.3806579
+  },
+  "graumanngasse 7/a4|vienna|1150|aut": {
+    "lat": 48.1881815,
+    "lon": 16.3366538
+  },
+  "2200 renaissance blvd|king of prussia|ste 170|usa": {
+    "lat": 40.0908111,
+    "lon": -75.3832484
+  },
+  "vídeňská 101/119|brno|619 00|cze": {
+    "lat": 49.1516981,
+    "lon": 16.6045825
+  },
+  "german centre for industry and trade pte. ltd.|25 international business park rd|609916|sgp": null,
+  "gropiusstraße 3|hildesheim|31137|deu": {
+    "lat": 52.1733704,
+    "lon": 9.9385028
+  },
+  "gewerbepark 7|werndorf|8402|aut": {
+    "lat": 46.9290352,
+    "lon": 15.4682756
+  },
+  "erlengrund 9|goldbach|63773|deu": {
+    "lat": 49.9964524,
+    "lon": 9.1894205
+  },
+  "1st cross|manyata residency|560045|ind": {
+    "lat": 13.0524109,
+    "lon": 77.6204277
+  },
+  "industriestraße 40|lannach|8502|aut": {
+    "lat": 46.9641622,
+    "lon": 15.3331839
+  },
+  "bertha-benz straße 5|berlin|10557|deu": {
+    "lat": 52.5231034,
+    "lon": 13.3664533
+  },
+  "cypriana kamila norwida 4|gdansk|80-280|pol": {
+    "lat": 54.383711,
+    "lon": 18.5914858
+  },
+  "beibitshilik street 14|astana|010000|kaz": {
+    "lat": 51.1457346,
+    "lon": 71.4329072
+  },
+  "joseph-von-fraunhofer straße 20|dortmund|44227|deu": {
+    "lat": 51.4906522,
+    "lon": 7.4063683
+  },
+  "asperngasse 2-4|graz|8020|aut": {
+    "lat": 47.0729426,
+    "lon": 15.4122974
+  },
+  "hietzinger hauptstraße 11|wien|1130|aut": {
+    "lat": 48.186199,
+    "lon": 16.2995306
+  },
+  "zugerstrasse 76b|baar||che": {
+    "lat": 47.1833007,
+    "lon": 8.5185942
+  },
+  "theaterstrasse 6|wedel||deu": {
+    "lat": 53.5832904,
+    "lon": 9.7083984
+  },
+  "wilfried-mohr-str. 1-5|tornesch|25436|deu": {
+    "lat": 53.7118228,
+    "lon": 9.7714692
+  },
+  "rosenheimer straße 43|raubling||deu": {
+    "lat": 47.8138134,
+    "lon": 12.118835
+  },
+  "39|rue saint-jean-de-dieu|69007|fra": {
+    "lat": 45.7231135,
+    "lon": 4.8456825
+  },
+  "497|route de givors|38670|fra": {
+    "lat": 45.5837661,
+    "lon": 4.7875674
+  },
+  "via pavia|gropello cairoli|1|ita": {
+    "lat": 45.1691957,
+    "lon": 9.0062728
+  },
+  "200 powder mill rd|wilmington|19803|usa": {
+    "lat": 39.7413768,
+    "lon": -75.5065944
+  },
+  "plot no. b5 & b6|a1 & a2|600 045|ind": {
+    "lat": 18.6635947,
+    "lon": 73.8879306
+  },
+  "plot no. 115|ramky pharma city (india) ltd.|531019|ind": {
+    "lat": 18.9475064,
+    "lon": 72.8305084
+  },
+  "81|boulevard de la moselle|54340|fra": {
+    "lat": 48.7753368,
+    "lon": 6.1348328
+  },
+  "kalkstraße 218|leverkusen|51377|deu": {
+    "lat": 51.0305439,
+    "lon": 7.0249072
+  },
+  "rue démocrite|le mans|72000|fra": {
+    "lat": 48.0174922,
+    "lon": 0.1541062
+  },
+  "avenue du lac|mourenx|64150|fra": {
+    "lat": 43.3779338,
+    "lon": -0.6031317
+  },
+  "hegenheimermattweg 91|allschwil|4123|che": {
+    "lat": 47.5565599,
+    "lon": 7.545484
+  },
+  "100 matsonford rd|radnor|19087|usa": {
+    "lat": 40.0484958,
+    "lon": -75.3558971
+  },
+  "1820 chapel ave w|cherry hill|08002|usa": {
+    "lat": 39.934041,
+    "lon": -75.029519
+  },
+  "via fabio filzi 25a|milan|20124|ita": {
+    "lat": 45.4847973,
+    "lon": 9.1999389
+  },
+  "8-14|avenue de l'arche|92400|fra": {
+    "lat": 48.8986744,
+    "lon": 2.2383212
+  },
+  "dachauerstr. 63|münchen|80335|deu": {
+    "lat": 48.1489409,
+    "lon": 11.5583731
+  },
+  "paseo castellana 79|madrid|28046|esp": {
+    "lat": 40.4475159,
+    "lon": -3.6926919
+  },
+  "20 eastbourne terrace|london|w2 6lg|gbr": {
+    "lat": 51.5166662,
+    "lon": -0.1790635
+  },
+  "gustav iiis boulevard 46|stockholm|169 73|swe": {
+    "lat": 59.3735522,
+    "lon": 18.0162097
+  },
+  "friedrich-miescher-str. 15|tübingen||deu": {
+    "lat": 48.5400294,
+    "lon": 9.0560158
+  },
+  "leipziger straße 35|wiesbaden|65191|deu": {
+    "lat": 50.0913843,
+    "lon": 8.2805125
+  },
+  "250 summer st|boston|02210|usa": {
+    "lat": 42.3508483,
+    "lon": -71.0508227
+  },
+  "av. jean monnet 4|ottignies-louvain-la-neuve|1348|bel": {
+    "lat": 50.6770043,
+    "lon": 4.6233638
+  },
+  "science park 106|amsterdam||nld": {
+    "lat": 52.357002,
+    "lon": 4.9479279
+  },
+  "lichtenbergstrasse 1|garching|85748|deu": {
+    "lat": 48.2657823,
+    "lon": 11.6754283
+  },
+  "am gfild 1-11|neufahrn bei freising|85375|deu": {
+    "lat": 48.3080863,
+    "lon": 11.6539092
+  },
+  "5 vaughn dr|princeton|08540|usa": {
+    "lat": 40.3178492,
+    "lon": -74.6290723
+  },
+  "wegenerstrasse 13|neu ulm||deu": {
+    "lat": 48.3739714,
+    "lon": 10.0055337
+  },
+  "im wirrigen 25|waltrop|45731|deu": {
+    "lat": 51.6319508,
+    "lon": 7.4227597
+  },
+  "am feld 30-32|grafing|85567|deu": {
+    "lat": 48.0377909,
+    "lon": 11.9606677
+  },
+  "müllerstraße 178|berlin|13353|deu": {
+    "lat": 52.540341,
+    "lon": 13.3685459
+  },
+  "2400 route des colles|biot|06410|fra": {
+    "lat": 43.613609,
+    "lon": 7.0920188
+  },
+  "paul-ehrlich-str. 15|tübingen||deu": {
+    "lat": 48.5377873,
+    "lon": 9.056873
+  },
+  "machtlfinger straße 11|munich|81379|deu": {
+    "lat": 48.0962846,
+    "lon": 11.5142609
+  },
+  "2130 w holcombe blvd|houston|77030|usa": {
+    "lat": 29.7063096,
+    "lon": -95.4059829
+  },
+  "klever strasse 187|goch|47574|deu": {
+    "lat": 51.6917876,
+    "lon": 6.1575046
+  },
+  "61 south paramus road|paramus|nj 07652|usa": {
+    "lat": 40.9225537,
+    "lon": -74.0868386
+  },
+  "kudan vigas bldg 3f|1-10-9 kudan-kita|102-0073|jpn": {
+    "lat": 35.6923542,
+    "lon": 139.73946
+  },
+  "3 temasek avenue|#11-01 centennial tower|039190|sgp": {
+    "lat": 1.2934138,
+    "lon": 103.8602867
+  },
+  "plot no. 148|epip zone|2nd phase|ind": {
+    "lat": 12.9720563,
+    "lon": 77.7185441
+  },
+  "graf-arco straße 3|ulm||deu": {
+    "lat": 48.3613435,
+    "lon": 9.9391415
+  },
+  "donau-city straße 11|vienna|1220|aut": {
+    "lat": 48.2336273,
+    "lon": 16.411618
+  },
+  "keilaranta 10|espoo|02150|fin": {
+    "lat": 60.1786945,
+    "lon": 24.8342032
+  },
+  "calle de anabel segura|alcobendas|11|esp": {
+    "lat": 40.533418,
+    "lon": -3.6292513
+  },
+  "oberburgau 3|unterach am attersee|4866|aut": {
+    "lat": 47.8043142,
+    "lon": 13.48897
+  },
+  "chemin messidor 5-7|lausanne||che": {
+    "lat": 46.5157778,
+    "lon": 6.6412979
+  },
+  "rue du levant 146|martigny|1920|che": {
+    "lat": 46.1023801,
+    "lon": 7.0896925
+  },
+  "leinenweberstraße 5|freiburg||deu": {
+    "lat": 48.0370353,
+    "lon": 7.8124549
+  },
+  "ostenfelder str. 51 - 61|ennigerloh|59320|deu": {
+    "lat": 51.8425659,
+    "lon": 8.0373386
+  },
+  "alt-fechenheim 34|frankfurt||deu": {
+    "lat": 50.1285878,
+    "lon": 8.767147
+  },
+  "888 prospect st|san diego|92037|usa": {
+    "lat": 32.8467224,
+    "lon": -117.2755957
+  },
+  "1-2-2|hitotsubashi|100-0003|jpn": {
+    "lat": 35.6921756,
+    "lon": 139.7578633
+  },
+  "lohmannstraße 2|andernach|56626|deu": {
+    "lat": 50.4185961,
+    "lon": 7.4116415
+  },
+  "35/f pingan riverfront financial center|shanghai|200023|chn": {
+    "lat": 31.2323437,
+    "lon": 121.4691024
+  },
+  "21 henderson drive|west caldwell|07006|usa": {
+    "lat": 40.8590736,
+    "lon": -74.3024973
+  },
+  "1685 marthaler lane|st. paul|55118|usa": {
+    "lat": 44.8950106,
+    "lon": -93.0756164
+  },
+  "1200 paco way|lakewood|08701|usa": {
+    "lat": 40.056763,
+    "lon": -74.1863833
+  },
+  "sonnenstraße 17, münchen|munich||deu": {
+    "lat": 48.1367836,
+    "lon": 11.5657288
+  },
+  "rue comte de sinard|livron sur drome|26250|fra": {
+    "lat": 44.7733509,
+    "lon": 4.8411421
+  },
+  "59|ioannou metaxa str|19441|grc": null,
+  "chome-3-2 minamidai|kawagoe|350-1165|jpn": {
+    "lat": 35.8922465,
+    "lon": 139.4522169
+  },
+  "elisabeth-schumacher straße 54|leipzig|04328|deu": {
+    "lat": 51.3515745,
+    "lon": 12.4400592
+  },
+  "rue de la source 3|courroux|2822|che": {
+    "lat": 47.355714,
+    "lon": 7.3863137
+  },
+  "svinesundsveien 80|isebakke|1788|nor": {
+    "lat": 59.1232225,
+    "lon": 11.3469875
+  },
+  "perlickstr. 1|leipzig||deu": {
+    "lat": 51.3191935,
+    "lon": 12.3954923
+  },
+  "otto-hahn straße 13|neuenburg|79395|deu": {
+    "lat": 47.8097401,
+    "lon": 7.5542193
+  },
+  "eschbacher str. 2|eschbach|79427|deu": {
+    "lat": 47.9005917,
+    "lon": 7.6348263
+  },
+  "|vienna||aut": {
+    "lat": 48.2083537,
+    "lon": 16.3725042
+  },
+  "|buenos aires||arg": {
+    "lat": -34.4708742,
+    "lon": -58.6544118
+  },
+  "|são paulo||bra": {
+    "lat": -23.5506507,
+    "lon": -46.6333824
+  },
+  "|santiago de chile||chl": {
+    "lat": -33.4420638,
+    "lon": -70.6456647
+  },
+  "|bogotá||col": {
+    "lat": -37.8696914,
+    "lon": -67.7952109
+  },
+  "|quito||ecu": {
+    "lat": -0.219802,
+    "lon": -78.4986442
+  },
+  "|ciudad de mexico||mex": {
+    "lat": 19.4326296,
+    "lon": -99.1331785
+  },
+  "|lima||per": {
+    "lat": -7.900719,
+    "lon": -34.898389
+  },
+  "landsteinerstraße 1|leipzig||deu": {
+    "lat": 51.3160838,
+    "lon": 12.393444
+  },
+  "goethestraße 3a|jena|07743|deu": {
+    "lat": 50.9271656,
+    "lon": 11.5819273
+  },
+  "philippine-welser-straße|augsburg|86150|deu": {
+    "lat": 48.3673922,
+    "lon": 10.8975662
+  },
+  "spinnereistraße 5|bayreuth|95445|deu": {
+    "lat": 49.9523306,
+    "lon": 11.5694717
+  },
+  "hallstraße 9|fürth|90762|deu": {
+    "lat": 49.4739188,
+    "lon": 10.9902331
+  },
+  "rathausplatz 11|ingolstadt|85049|deu": {
+    "lat": 48.7621794,
+    "lon": 11.4256626
+  },
+  "dachauer straße 70|münchen|80335|deu": {
+    "lat": 48.1492042,
+    "lon": 11.5587754
+  },
+  "aufseßplatz 21|nürnberg|90459|deu": {
+    "lat": 49.4406242,
+    "lon": 11.0804153
+  },
+  "hildegard-von-bingen-straße 1|regensburg|93053|deu": {
+    "lat": 49.0059124,
+    "lon": 12.1193667
+  },
+  "wilmersdorfer straße 54|berlin|10627|deu": {
+    "lat": 52.5085852,
+    "lon": 13.3059
+  },
+  "kirchhofstraße 1-2|brandenburg an der havel|14776|deu": {
+    "lat": 52.4058643,
+    "lon": 12.5675936
+  },
+  "karl-marx-str. 2|frankfurt (oder)|15230|deu": {
+    "lat": 52.3426485,
+    "lon": 14.553215
+  },
+  "nuthestraße 1|potsdam|14480|deu": {
+    "lat": 52.3712176,
+    "lon": 13.1333626
+  },
+  "deutsche-med-platz 2|rostock|18057|deu": {
+    "lat": 54.0861104,
+    "lon": 12.1247517
+  },
+  "friedrichstraße 18|schwerin|19055|deu": {
+    "lat": 53.6303981,
+    "lon": 11.4150747
+  },
+  "poststraße 19|bonn|53111|deu": {
+    "lat": 50.7333403,
+    "lon": 7.0973758
+  },
+  "ostenhellweg 50-52|dortmund|44135|deu": {
+    "lat": 51.5143758,
+    "lon": 7.4703247
+  },
+  "kettwiger straße 64|essen|45127|deu": {
+    "lat": 51.4577159,
+    "lon": 7.0129555
+  },
+  "westring 2|hamm|59065|deu": {
+    "lat": 51.6809099,
+    "lon": 7.8129619
+  },
+  "markt 5|chemnitz|09111|deu": {
+    "lat": 50.8317822,
+    "lon": 12.9193518
+  },
+  "lommatzscher straße 82|dresden|01139|deu": {
+    "lat": 51.0824976,
+    "lon": 13.6967033
+  },
+  "bahnhofstraße 40-42|freiberg|09599|deu": {
+    "lat": 50.9115592,
+    "lon": 13.3447747
+  },
+  "an der frauenkirche 12|görlitz|02826|deu": {
+    "lat": 51.1522793,
+    "lon": 14.9885284
+  },
+  "käthe-kollwitz-straße 6|grimma|04668|deu": {
+    "lat": 51.2379613,
+    "lon": 12.7221485
+  },
+  "oberer steinweg 10|plauen|08523|deu": {
+    "lat": 50.4942779,
+    "lon": 12.1372256
+  },
+  "marienstraße 3/1|zwickau|08056|deu": {
+    "lat": 50.7192391,
+    "lon": 12.4953883
+  },
+  "neustädter passage 17 a|halle (saale)|06122|deu": {
+    "lat": 51.4801806,
+    "lon": 11.9203656
+  },
+  "sandstraße 1-15|lübeck|23552|deu": {
+    "lat": 53.8652229,
+    "lon": 10.6853135
+  },
+  "lachsgasse 3|erfurt|99084|deu": {
+    "lat": 50.9739186,
+    "lon": 11.0324587
+  },
+  "breitscheidstraße 1-5|gera|07545|deu": {
+    "lat": 50.8773173,
+    "lon": 12.0790667
+  },
+  "oststraße 51|gotha|99867|deu": {
+    "lat": 50.953008,
+    "lon": 10.7136488
+  },
+  "steubenstraße 15|weimar|99423|deu": {
+    "lat": 50.9774338,
+    "lon": 11.3251896
+  },
+  "semmelweisstr. 7|krailling||deu": {
+    "lat": 48.0766554,
+    "lon": 11.3508076
+  },
+  "470 atlantic ave|boston|02210|usa": {
+    "lat": 42.3544323,
+    "lon": -71.0517291
+  },
+  "fritz-hornschuch straße 9|kulmbach|95326|deu": {
+    "lat": 50.1080206,
+    "lon": 11.4506718
+  },
+  "wolfener straße 23|berlin|12681|deu": {
+    "lat": 52.5589575,
+    "lon": 13.5492536
+  },
+  "feodor-lynen straße 5|hannover|30625|deu": {
+    "lat": 52.38746,
+    "lon": 9.8033981
+  },
+  "dengelsberg|bovenau|24796|deu": {
+    "lat": 54.3376905,
+    "lon": 9.8017548
+  },
+  "|radeberg||deu": {
+    "lat": 51.1151413,
+    "lon": 13.9175257
+  },
+  "höhnerweg 2-4|weinheim|69469|deu": {
+    "lat": 49.5553157,
+    "lon": 8.6645485
+  },
+  "am haag 6+7|gräfelfing|82166|deu": {
+    "lat": 48.1233673,
+    "lon": 11.4514465
+  },
+  "im neuenheimer feld 582|heidelberg|69120|deu": {
+    "lat": 49.4221453,
+    "lon": 8.6753574
+  },
+  "otto-hahn straße 15|dortmund|44227|deu": {
+    "lat": 51.4894539,
+    "lon": 7.4078467
+  },
+  "forrenstrasse 2|risch|6343|che": {
+    "lat": 47.150816,
+    "lon": 8.4345524
+  },
+  "sandhofer strasse 116|mannheim|68305|deu": {
+    "lat": 49.5299689,
+    "lon": 8.4733043
+  },
+  "industriestrasse 25|holzkirchen|83607|deu": {
+    "lat": 47.8797816,
+    "lon": 11.7129353
+  },
+  "vollmersbachstraße 66|idar-oberstein|55743|deu": {
+    "lat": 49.7209101,
+    "lon": 7.3140487
+  },
+  "vollmerstr. 5|berlin|12489|deu": {
+    "lat": 52.4303009,
+    "lon": 13.5363438
+  },
+  "am klopferspitz 19a|planegg|82152|deu": {
+    "lat": 48.1075908,
+    "lon": 11.4586707
+  },
+  "forstenrieder str. 8-14|neuried|82061|deu": {
+    "lat": 48.0919492,
+    "lon": 11.4676081
+  },
+  "anna-sigmund straße|neuried|82061|deu": {
+    "lat": 48.0897137,
+    "lon": 11.4706265
+  },
+  "wipplingerstraße 31|wien||aut": {
+    "lat": 48.2135261,
+    "lon": 16.367016
+  },
+  "bärenplatz 2|bern||che": {
+    "lat": 46.9480543,
+    "lon": 7.443431
+  },
+  "birsweg 2|liesberg|4253|che": {
+    "lat": 47.3967217,
+    "lon": 7.426066
+  },
+  "pfeffingerring 205|aesch|4147|che": {
+    "lat": 47.4778974,
+    "lon": 7.5906486
+  },
+  "leopoldstraße 115|munich|80804|deu": {
+    "lat": 48.1676002,
+    "lon": 11.5858883
+  },
+  "alexanderufer 1|berlin|10117|deu": {
+    "lat": 52.5241276,
+    "lon": 13.3735305
+  },
+  "engelgasse 47|basel|4052|che": {
+    "lat": 47.5506316,
+    "lon": 7.6006291
+  },
+  "guglgasse 17|vienna|1110|aut": {
+    "lat": 48.1855968,
+    "lon": 16.4244095
+  },
+  "hegenheimermattweg|allschwil||che": {
+    "lat": 47.5558142,
+    "lon": 7.54457
+  },
+  "werkstr. 1|dassow|23942|deu": {
+    "lat": 53.9045627,
+    "lon": 10.9998719
+  },
+  "am sonnenberg 9|groß grönau|23627|deu": {
+    "lat": 53.8021874,
+    "lon": 10.7323059
+  },
+  "im kreppel 1|herrnhut (ot rennersdorf)|02747|deu": {
+    "lat": 51.036702,
+    "lon": 14.8047254
+  },
+  "schloßstr. 11|pegnitz|91257|deu": {
+    "lat": 49.7542238,
+    "lon": 11.5427584
+  },
+  "am pließnitztal 1|bernstadt|02748|deu": {
+    "lat": 51.0476485,
+    "lon": 14.824654
+  },
+  "hirschmattstrasse 1|luzern|6003|che": {
+    "lat": 47.0499863,
+    "lon": 8.305436
+  },
+  "an der trave 1|selmsdorf|23923|deu": {
+    "lat": 53.8848277,
+    "lon": 10.8142296
+  },
+  "mattenstrasse 20|basel|4058|che": {
+    "lat": 47.5651648,
+    "lon": 7.6030807
+  },
+  "trb chemedica sa|vouvry|1896|che": {
+    "lat": 46.3372451,
+    "lon": 6.8887175
+  },
+  "iz nö süd straße 7|wiener neudorf|2355|aut": {
+    "lat": 48.0671397,
+    "lon": 16.3350632
+  },
+  "otto-lilienthal-ring 26|feldkirchen|85622|deu": {
+    "lat": 48.1398806,
+    "lon": 11.7365937
+  },
+  "route du petit moncor 1d|villars-sur-glâne|1752|che": {
+    "lat": 46.7987766,
+    "lon": 7.1194386
+  },
+  "hardenbergstraße 20|berlin|10623|deu": {
+    "lat": 52.5069457,
+    "lon": 13.3293903
+  },
+  "flandernstraße 101|esslingen am neckar|73732|deu": {
+    "lat": 48.7451145,
+    "lon": 9.3221482
+  },
+  "bildungscampus 9|heilbronn|74076|deu": {
+    "lat": 49.1484858,
+    "lon": 9.2152563
+  },
+  "atelierstraße 1|munich|81671|deu": {
+    "lat": 48.1256149,
+    "lon": 11.6058401
+  },
+  "|pernhofen|2064|aut": {
+    "lat": 48.72123,
+    "lon": 16.2786421
+  },
+  "opernring 1|wien|1010|aut": {
+    "lat": 48.202646,
+    "lon": 16.3683468
+  },
+  "am hafen 18|ladenburg|68526|deu": {
+    "lat": 49.4799047,
+    "lon": 8.5838993
+  },
+  "friedrichstraße 140|berlin|10117|deu": {
+    "lat": 52.5212676,
+    "lon": 13.387857
+  },
+  "platz 3|ch|root d4|che": {
+    "lat": 47.1036689,
+    "lon": 8.3742205
+  },
+  "landshuter allee 8-10|münchen|80637|deu": {
+    "lat": 48.1474732,
+    "lon": 11.5370725
+  },
+  "muthgasse 18|wien|1190|aut": {
+    "lat": 48.24705,
+    "lon": 16.3680346
+  },
+  "rottenstrasse|visp|3930|che": {
+    "lat": 46.2950599,
+    "lon": 7.8828559
+  },
+  "heykenaukamp 10|hamburg|21147|deu": {
+    "lat": 53.4779424,
+    "lon": 9.9050023
+  },
+  "triftstraße 4|münchen|80538|deu": {
+    "lat": 48.1402617,
+    "lon": 11.5888903
+  },
+  "spessartstraße|bonn|53119|deu": {
+    "lat": 50.7376353,
+    "lon": 7.0803702
+  },
+  "nicolaus-august-otto-str. 7a|holzhausen an der haide|56357|deu": {
+    "lat": 50.220023,
+    "lon": 7.9069576
+  },
+  "hermann-von-helmholtz platz 1|eggenstein-leopoldshafen|76344|deu": {
+    "lat": 49.0981823,
+    "lon": 8.4327136
+  },
+  "alser straße 25|vienna|1090|aut": {
+    "lat": 48.2148645,
+    "lon": 16.3501799
+  },
+  "strassburger str. 77|appenweier|77767|deu": {
+    "lat": 48.5581872,
+    "lon": 7.9775476
+  },
+  "weismüllerstraße 50|frankfurt am main|60314|deu": {
+    "lat": 50.1206076,
+    "lon": 8.7406258
+  },
+  "siemensdamm 65|berlin|13627|deu": {
+    "lat": 52.5339487,
+    "lon": 13.2874405
+  },
+  "lornsenstraße 7|kiel|24105|deu": {
+    "lat": 54.3340888,
+    "lon": 10.1415085
+  },
+  "otto-hahn-strasse 15|dortmund|44227|deu": {
+    "lat": 51.4894539,
+    "lon": 7.4078467
+  },
+  "mommsenstraße 4|leipzig|04329|deu": {
+    "lat": 51.3631015,
+    "lon": 12.4648706
+  },
+  "maschmühlenweg 36|göttingen|37081|deu": {
+    "lat": 51.5464472,
+    "lon": 9.9257416
+  },
+  "leberstraße 20|wien|1110|aut": {
+    "lat": 48.1802154,
+    "lon": 16.4050903
+  },
+  "rottenstrasse 6|visp|3930|che": {
+    "lat": 46.295708,
+    "lon": 7.8838082
+  },
+  "via cantonale 4|monteggio|6995|che": {
+    "lat": 45.9889658,
+    "lon": 8.8221389
+  },
+  "hochbergerstrasse 60a|basel|4057|che": {
+    "lat": 47.5777156,
+    "lon": 7.5967537
+  },
+  "schaffhauserstrasse 101|stein|4332|che": {
+    "lat": 47.5511452,
+    "lon": 7.9574628
+  },
+  "nattermannallee|cologne|50829|deu": {
+    "lat": 50.9771201,
+    "lon": 6.8604972
+  },
+  "toulouser allee 23a|düsseldorf|40211|deu": {
+    "lat": 51.2348883,
+    "lon": 6.7960875
+  },
+  "avenue d'ouchy 4|lausanne|1006|che": {
+    "lat": 46.5164838,
+    "lon": 6.6323718
+  },
+  "linneper weg 1|ratingen|40885|deu": {
+    "lat": 51.3548443,
+    "lon": 6.8676818
+  },
+  "burgweg 5-7|bad kreuznach|55543|deu": {
+    "lat": 49.8244754,
+    "lon": 7.8484521
+  },
+  "sperlichstraße 15|münster|48151|deu": {
+    "lat": 51.9469957,
+    "lon": 7.612326
+  },
+  "niederbieger straße 9|weingarten|88250|deu": {
+    "lat": 47.8199115,
+    "lon": 9.6287004
+  },
+  "lenzhardweg 43/45|niederlenz|ch-5702|che": {
+    "lat": 47.399986,
+    "lon": 8.1659505
+  },
+  "industriestrasse 71a|wesseling|50389|deu": {
+    "lat": 50.8378456,
+    "lon": 6.9468349
+  },
+  "heinrich-krumm-strasse 6|offenbach|63073|deu": {
+    "lat": 50.0841849,
+    "lon": 8.8298052
+  },
+  "währinger gürtel 18-20|wien|1090|aut": {
+    "lat": 48.2200439,
+    "lon": 16.3479083
+  },
+  "persenbeugerstraße 1-3|ybbs/donau|3370|aut": {
+    "lat": 48.1655134,
+    "lon": 15.0861493
+  },
+  "possingergasse 38|wien|1160|aut": {
+    "lat": 48.2095999,
+    "lon": 16.3184992
+  },
+  "robert-koch gasse|mödling|2340|aut": {
+    "lat": 48.0784177,
+    "lon": 16.3042343
+  },
+  "beethovenstraße|graz|8010|aut": {
+    "lat": 47.0741396,
+    "lon": 15.4515053
+  },
+  "techniker straße|innsbruck|6020|aut": {
+    "lat": 47.264013,
+    "lon": 11.3449666
+  },
+  "wieningerstraße|linz|4021|aut": {
+    "lat": 48.2664434,
+    "lon": 14.2829251
+  },
+  "innsbrucker bundesstraße|salzburg|5020|aut": {
+    "lat": 47.7934551,
+    "lon": 13.0018306
+  },
+  "flüelastr. 11|davos|7260|che": {
+    "lat": 46.8123039,
+    "lon": 9.8474378
+  },
+  "a ramél 18|cadenazzo||che": {
+    "lat": 46.1603418,
+    "lon": 8.9313038
+  },
+  "case postale 96|lausanne||che": {
+    "lat": 46.5218269,
+    "lon": 6.6327025
+  },
+  "route du rawyl 47|sion|1950|che": {
+    "lat": 46.2361996,
+    "lon": 7.3518209
+  },
+  "hosokawa alpine|leingarten|74211|deu": {
+    "lat": 49.1484641,
+    "lon": 9.1267461
+  },
+  "hosokawa kolb gmbh|niederkassel|53859|deu": {
+    "lat": 50.8133996,
+    "lon": 7.0453765
+  },
+  "arnethgasse 3|wien|1160|aut": {
+    "lat": 48.2142606,
+    "lon": 16.3249388
+  },
+  "zwickauer straße 46|dresden|01069|deu": {
+    "lat": 51.0404841,
+    "lon": 13.7156198
+  },
+  "joachim-jungius-straße 11|rostock|18059|deu": {
+    "lat": 54.0743198,
+    "lon": 12.1158931
+  },
+  "inffeldgasse 16c|graz|8010|aut": {
+    "lat": 47.0588129,
+    "lon": 15.4587748
+  },
+  "inhoffenstr. 7|braunschweig|38124|deu": {
+    "lat": 52.2128041,
+    "lon": 10.5326962
+  },
+  "biopark 1|regensburg|93053|deu": {
+    "lat": 48.9964561,
+    "lon": 12.0989514
+  },
+  "claragraben 159|basel|4057|che": {
+    "lat": 47.5659734,
+    "lon": 7.5918417
+  },
+  "maria-goeppert-straße 3|lübeck|23562|deu": {
+    "lat": 53.8346419,
+    "lon": 10.6968989
+  },
+  "amrumer straße 32|berlin|13353|deu": {
+    "lat": 52.5456127,
+    "lon": 13.3452294
+  },
+  "mühlenstraße 13|höltinghausen|49685|deu": {
+    "lat": 52.8604731,
+    "lon": 8.1329329
+  },
+  "aichgasse|hochheim am main|65239|deu": {
+    "lat": 50.0098116,
+    "lon": 8.3493494
+  },
+  "baslerstrasse 198|allschwil|4123|che": {
+    "lat": 47.5524291,
+    "lon": 7.5498585
+  },
+  "motzener strasse 41|berlin|12277|deu": {
+    "lat": 52.3987965,
+    "lon": 13.3834437
+  },
+  "friedrich-ebert anlage 49|frankfurt|60327|deu": {
+    "lat": 50.1130878,
+    "lon": 8.6522303
+  },
+  "kupferstraße 6|machern|04827|deu": {
+    "lat": 51.358823,
+    "lon": 12.5686148
+  },
+  "wallenroder straße 8-10|berlin|13435|deu": {
+    "lat": 52.6036414,
+    "lon": 13.3412774
+  },
+  "bördestraße 1|warstein|59581|deu": {
+    "lat": 51.4823587,
+    "lon": 8.2213168
+  },
+  "|munich / martinsried|82152|deu": {
+    "lat": 48.10882,
+    "lon": 11.4508007
+  },
+  "stendaler chaussee 28|osterburg|39606|deu": {
+    "lat": 52.7744949,
+    "lon": 11.7594419
+  },
+  "bismarckstrasse 27-29|berlin|12169|deu": {
+    "lat": 52.4543706,
+    "lon": 13.3385815
+  },
+  "oranienstraße 24|berlin|10999|deu": {
+    "lat": 52.5009496,
+    "lon": 13.420892
+  },
+  "talacker 35|stadtkreis 1 altstadt|8001|che": {
+    "lat": 47.3713873,
+    "lon": 8.5349208
+  },
+  "|wien||aut": {
+    "lat": 48.1857192,
+    "lon": 16.4221587
+  },
+  "|kundl||aut": {
+    "lat": 47.4691393,
+    "lon": 11.9845598
+  },
+  "|aubonne|1170|che": {
+    "lat": 46.4952916,
+    "lon": 6.3915748
+  },
+  "route de crassier|eysins|1262|che": {
+    "lat": 46.3856676,
+    "lon": 6.2158128
+  },
+  "industriegasse 25|buchs|9470|che": {
+    "lat": 47.1800956,
+    "lon": 9.4836467
+  },
+  "chamerstr 174|zug|6360|che": {
+    "lat": 47.181411,
+    "lon": 8.4852252
+  },
+  "route de fenil 25|corsier-sur-vevey|1809|che": {
+    "lat": 46.4754479,
+    "lon": 6.8513886
+  },
+  "im laternenacker 5|schaffhausen|8200|che": {
+    "lat": 47.7022551,
+    "lon": 8.6478271
+  },
+  "epfl innovation park|lausanne|1015|che": {
+    "lat": 46.5172426,
+    "lon": 6.561216
+  },
+  "schnackenburgallee 114|hamburg|22525|deu": {
+    "lat": 53.5876754,
+    "lon": 9.9054718
+  },
+  "robert-koch-straße 40|göttingen||deu": {
+    "lat": 51.5508194,
+    "lon": 9.9428282
+  },
+  "hindenburgdamm 27|berlin|12203|deu": {
+    "lat": 52.4381382,
+    "lon": 13.3166523
+  },
+  "türkenstraße 89|munich|80799|deu": {
+    "lat": 48.1531113,
+    "lon": 11.5776799
+  },
+  "ehinger straße 200|duisburg|47259|deu": {
+    "lat": 51.3711697,
+    "lon": 6.7190661
+  },
+  "endenicher allee 19b|bonn|53115|deu": {
+    "lat": 50.727653,
+    "lon": 7.08285
+  },
+  "kägenstrasse 17|reinach|4153|che": {
+    "lat": 47.4864254,
+    "lon": 7.5985331
+  },
+  "rue de la jeunesse 2|delémont|2800|che": {
+    "lat": 47.3610183,
+    "lon": 7.3451321
+  },
+  "florisdorfer hauptstr. 1|wien|1210|aut": {
+    "lat": 48.2521126,
+    "lon": 16.3929125
+  },
+  "zeppelinstraße 4|puchheim|82178|deu": {
+    "lat": 48.1627009,
+    "lon": 11.3404978
+  },
+  "bunsenstraße 9-11|griesheim|64347|deu": {
+    "lat": 49.8718504,
+    "lon": 8.5645637
+  },
+  "hardturmstrasse 103|zurich|8005|che": {
+    "lat": 47.3918372,
+    "lon": 8.5162369
+  },
+  "röhfeldstraße 46|bonn|53227|deu": {
+    "lat": 50.7405284,
+    "lon": 7.1376506
+  },
+  "grienmatt|schopfheim|79650|deu": {
+    "lat": 47.6621669,
+    "lon": 7.8329901
+  },
+  "heimstrasse 18|dietikon / im berg|8953|che": {
+    "lat": 47.4111685,
+    "lon": 8.4056716
+  },
+  "biokema ag|dübendorf|8600|che": {
+    "lat": 47.3943827,
+    "lon": 8.6027459
+  },
+  "gewerbestraße 8|cham|6330|che": {
+    "lat": 47.1890903,
+    "lon": 8.4726642
+  },
+  "offheimer weg 33|limburg an der lahn|65549|deu": {
+    "lat": 50.3994324,
+    "lon": 8.0625228
+  },
+  "albert-einstein straße 9|leipheim||deu": {
+    "lat": 48.4483364,
+    "lon": 10.2378733
+  },
+  "muthgasse 11|wien|1190|aut": {
+    "lat": 48.2472891,
+    "lon": 16.3672723
+  },
+  "bürgergasse 11|feldbach|8330|aut": {
+    "lat": 46.9531103,
+    "lon": 15.8895826
+  },
+  "kolberger straße 61-63|leverkusen|51381|deu": {
+    "lat": 51.0635907,
+    "lon": 7.021671
+  },
+  "|kirchheim||deu": {
+    "lat": 49.6560775,
+    "lon": 9.8585464
+  },
+  "|grosswallstadt||deu": {
+    "lat": 49.8778629,
+    "lon": 9.1588408
+  },
+  "|bieberstein||deu": {
+    "lat": 50.5735066,
+    "lon": 9.8510044
+  },
+  "|kirchberg|83607|deu": {
+    "lat": 47.8402174,
+    "lon": 11.6744795
+  },
+  "|ankum||deu": {
+    "lat": 52.5423026,
+    "lon": 7.8680223
+  },
+  "|wehr||deu": {
+    "lat": 47.6286078,
+    "lon": 7.9046417
+  },
+  "|gessertshausen||deu": {
+    "lat": 48.33105,
+    "lon": 10.7324995
+  },
+  "|überherrn||deu": {
+    "lat": 49.2447709,
+    "lon": 6.7000179
+  },
+  "|destedt||deu": {
+    "lat": 52.2377699,
+    "lon": 10.7112347
+  },
+  "|mayen||deu": {
+    "lat": 50.3283544,
+    "lon": 7.2215134
+  },
+  "|dallgow||deu": {
+    "lat": 52.5406496,
+    "lon": 13.0602956
+  },
+  "öschwiesenweg 3|72186 empfingen||deu": {
+    "lat": 48.3982527,
+    "lon": 8.7028582
+  },
+  "siedlung 2|38368 mariental||deu": {
+    "lat": 52.2801977,
+    "lon": 10.9854143
+  },
+  "an d. rennbahn 30|47800 krefeld||deu": {
+    "lat": 51.3593303,
+    "lon": 6.5916685
+  },
+  "graf-adelmann straße 5|freiberg am neckar|71691|deu": {
+    "lat": 48.9303125,
+    "lon": 9.1957749
+  },
+  "kapellenweg 13|53359 rheinbach-loch/queckenberg||deu": {
+    "lat": 50.5924952,
+    "lon": 6.8926034
+  },
+  "|dettighofen||deu": {
+    "lat": 47.6240598,
+    "lon": 8.4851391
+  },
+  "|laufenburg||deu": {
+    "lat": 47.5671976,
+    "lon": 8.0599414
+  },
+  "beckers kreuz 25|wachtberg|53343|deu": {
+    "lat": 50.6366376,
+    "lon": 7.0840452
+  },
+  "dorfstraße 10a|eutin|23701|deu": {
+    "lat": 54.1547419,
+    "lon": 10.6195047
+  },
+  "schützenstraße 20|meerbusch|40668|deu": {
+    "lat": 51.2976865,
+    "lon": 6.7090842
+  },
+  "münchehofer straße 30|dahlwitz-hoppegarten|15366|deu": {
+    "lat": 52.5007253,
+    "lon": 13.6801159
+  },
+  "holthues hoff 14|ahaus|48683|deu": {
+    "lat": 52.0829685,
+    "lon": 7.0055134
+  },
+  "fiskediek 3-5|lingen (ems)|49809|deu": {
+    "lat": 52.5171692,
+    "lon": 7.3407345
+  },
+  "dorfstraße 3a|bonn|53125|deu": {
+    "lat": 50.6803572,
+    "lon": 7.0738933
+  },
+  "nordstraße 46|wershofen|53520|deu": {
+    "lat": 50.4457072,
+    "lon": 6.8104814
+  },
+  "truhenseeweg 8|starnberg|82319|deu": {
+    "lat": 48.0067953,
+    "lon": 11.3492818
+  },
+  "schloß birlinghoven 1|sankt augustin|53757|deu": {
+    "lat": 50.7489894,
+    "lon": 7.2055664
+  },
+  "friedrich-hirzebruch-allee 5|bonn|53115|deu": {
+    "lat": 50.7265858,
+    "lon": 7.0851258
+  },
+  "maria-reiche-straße 2|dresden|01109|deu": {
+    "lat": 51.1256027,
+    "lon": 13.7844917
+  },
+  "hansastraße 27c|münchen|80686|deu": {
+    "lat": 48.1322664,
+    "lon": 11.5296222
+  },
+  "|jülich|52425|deu": {
+    "lat": 50.9220931,
+    "lon": 6.3611015
+  },
+  "|karlsruhe|76131|deu": {
+    "lat": 49.0045681,
+    "lon": 8.4265554
+  },
+  "|geesthacht|21502|deu": {
+    "lat": 53.4374683,
+    "lon": 10.3678235
+  },
+  "|dresden|01328|deu": {
+    "lat": 51.049263,
+    "lon": 13.8723183
+  },
+  "|oberkassel-bonn|53227|deu": {
+    "lat": 50.7150242,
+    "lon": 7.1593141
+  },
+  "spitalhofstraße 7|kempten|87437|deu": {
+    "lat": 47.7324995,
+    "lon": 10.3326712
+  },
+  "am tower 4|leipheim|89340|deu": {
+    "lat": 48.4381226,
+    "lon": 10.2367573
+  },
+  "stadtschwarzacher str. 18|schwarzach|97359|deu": {
+    "lat": 49.8042043,
+    "lon": 10.2156785
+  },
+  "technologiepark 6|ansbach|91522|deu": {
+    "lat": 49.3235738,
+    "lon": 10.5639456
+  },
+  "adolf-wächter-str. 12|bayreuth|95447|deu": {
+    "lat": 49.9332684,
+    "lon": 11.5475078
+  },
+  "hoher-bogen-str. 10|schwandorf|92421|deu": {
+    "lat": 49.3164618,
+    "lon": 12.1221249
+  },
+  "klötzlmüllerstraße 1|landshut|84034|deu": {
+    "lat": 48.5355641,
+    "lon": 12.1463151
+  },
+  "graflingerstr. 8|deggendorf|94469|deu": {
+    "lat": 48.836048,
+    "lon": 12.9527402
+  },
+  "kardinal-faulhaber straße|traunstein|83278|deu": {
+    "lat": 47.8614754,
+    "lon": 12.6308304
+  },
+  "münchener str. 15|sandersdorf-brehna|06796|deu": {
+    "lat": 51.5652534,
+    "lon": 12.1824354
+  },
+  "berndorf 166|kirchberg a.d. raab|8324|aut": {
+    "lat": 46.9683431,
+    "lon": 15.8001501
+  },
+  "sankt veiter straße 47|klagenfurt|9020|aut": {
+    "lat": 46.6576873,
+    "lon": 14.3132196
+  },
+  "seilerstätte 4|linz|4020|aut": {
+    "lat": 48.2990613,
+    "lon": 14.2885736
+  },
+  "wasnergasse 15|wien|1200|aut": {
+    "lat": 48.2276483,
+    "lon": 16.3715239
+  },
+  "möhlerstraße|schwäbisch gmünd|73525|deu": {
+    "lat": 48.8022856,
+    "lon": 9.8106301
+  },
+  "hosnedlgasse 27|vienna|1220|aut": {
+    "lat": 48.2586588,
+    "lon": 16.4639261
+  },
+  "luruper chaussee 125|hamburg|22761|deu": {
+    "lat": 53.5717139,
+    "lon": 9.8927344
+  },
+  "bodelschwinghstraße 10|aschaffenburg|63739|deu": {
+    "lat": 49.9788515,
+    "lon": 9.1470229
+  },
+  "ernst-robert-curtius straße 39|bonn|53117|deu": {
+    "lat": 50.7532793,
+    "lon": 7.063455
+  },
+  "joseph-meyer straße 12|mannheim|68167|deu": {
+    "lat": 49.4984841,
+    "lon": 8.5001072
+  },
+  "möserstraße 52-54|osnabrück|49074|deu": {
+    "lat": 52.2732167,
+    "lon": 8.0550289
+  },
+  "carl-zeiss-straße 30|saarlouis|66740|deu": {
+    "lat": 49.3440983,
+    "lon": 6.7474542
+  },
+  "blumenstraße 33|magstadt|71106|deu": {
+    "lat": 48.7449564,
+    "lon": 8.9690296
+  },
+  "siemensring 8|willich|47877|deu": {
+    "lat": 51.2679161,
+    "lon": 6.5180803
+  },
+  "bösch 104|hünenberg|6331|che": {
+    "lat": 47.1609266,
+    "lon": 8.4337145
+  },
+  "kleeblattgasse 4/13|vienna|1010|aut": {
+    "lat": 48.2106523,
+    "lon": 16.3706985
+  },
+  "stiftgasse 18/5-6|1070 wien||aut": {
+    "lat": 48.2010035,
+    "lon": 16.3553362
+  },
+  "2199 s mcdowell blvd|petaluma|94954|usa": {
+    "lat": 38.2292168,
+    "lon": -122.5928314
+  },
+  "fraunhoferstr. 18 b|krailling||deu": {
+    "lat": 48.1110683,
+    "lon": 11.4498685
+  },
+  "suhrenkamp 59|hamburg||deu": {
+    "lat": 53.6202144,
+    "lon": 10.0149697
+  },
+  "friedrich-ebert straße 68|bergisch gladbach||deu": {
+    "lat": 50.9607122,
+    "lon": 7.1820827
+  },
+  "via figino 6|lugano||che": {
+    "lat": 45.963639,
+    "lon": 8.9233012
+  },
+  "75 gildestraße|ibbenbüren||deu": {
+    "lat": 52.2717609,
+    "lon": 7.7496832
+  },
+  "heinrich-glaeser-strasse 10 - 14. radeberg,  01454.|germany||deu": {
+    "lat": 51.1111631,
+    "lon": 13.9078797
+  },
+  "epfl innovation park building b|écublens||che": {
+    "lat": 46.5172426,
+    "lon": 6.561216
+  },
+  "otto-schott-straße 15|jena||deu": {
+    "lat": 50.9210145,
+    "lon": 11.5738428
+  },
+  "zürcherstrasse 19|rapperswil||che": {
+    "lat": 47.2302197,
+    "lon": 8.8187458
+  },
+  "inselwiesenstraße 10|heilbronn||deu": {
+    "lat": 49.1547496,
+    "lon": 9.207083
+  },
+  "60 blanchard rd|burlington|01803|usa": {
+    "lat": 42.480986,
+    "lon": -71.2026402
+  },
+  "|munich||deu": {
+    "lat": 48.1371079,
+    "lon": 11.5753822
+  },
+  "grenzacherstrasse|basel||che": {
+    "lat": 47.5593301,
+    "lon": 7.6092069
+  },
+  "4414 lake boone trail|raleigh|27607|usa": {
+    "lat": 35.8173216,
+    "lon": -78.7009718
+  },
+  "7070 mississauga rd|mississauga|l5n 5m8|can": {
+    "lat": 43.6065092,
+    "lon": -79.7530756
+  },
+  "calle dionisio derteano 144|san isidro|15047|per": {
+    "lat": -12.0959214,
+    "lon": -77.0219724
+  },
+  "333 buckhead ave ne|atlanta|30305|usa": {
+    "lat": 33.8380258,
+    "lon": -84.3767744
+  },
+  "9115 hague rd|indianapolis|46256|usa": {
+    "lat": 39.9213822,
+    "lon": -86.0328908
+  },
+  "avinguda de la generalitat|sant cugat del valles|08174|esp": {
+    "lat": 41.4847044,
+    "lon": 2.0436024
+  },
+  "271 victoria rd|cape town|7925|zaf": {
+    "lat": -33.934735,
+    "lon": 18.4609895
+  },
+  "doctor luis bonavita 1266|montevideo|11300|ury": {
+    "lat": -34.9038523,
+    "lon": -56.1350991
+  },
+  "201 boulevard armand-frappier|laval|h7v 4a2|can": {
+    "lat": 45.5468641,
+    "lon": -73.7221271
+  },
+  "4300 hacienda dr|pleasanton|94588|usa": {
+    "lat": 37.6975846,
+    "lon": -121.8894805
+  },
+  "falcon way|welwyn garden city|al7 1tw|gbr": {
+    "lat": 51.8076985,
+    "lon": -0.1979288
+  },
+  "calle de la ribera del loira|madrid|50|esp": {
+    "lat": 40.4635559,
+    "lon": -3.622172
+  },
+  "430 e 29th st|new york|10016|usa": {
+    "lat": 40.7396779,
+    "lon": -73.9737622
+  },
+  "24 fricker rd|sandton|2196|zaf": {
+    "lat": -26.1233656,
+    "lon": 28.0535602
+  },
+  "cerrada molino bezares|miguel hidalgo|11910|mex": {
+    "lat": 19.3899292,
+    "lon": -99.2422482
+  },
+  "ulica domaniewska 39b|warsaw|02-672|pol": {
+    "lat": 52.1820924,
+    "lon": 21.0054348
+  },
+  "44. sokak|istanbul|34794|tur": {
+    "lat": 41.0389153,
+    "lon": 29.2690693
+  },
+  "allee de la piat|meylan|38240|fra": {
+    "lat": 45.2110913,
+    "lon": 5.7781615
+  },
+  "671-75 ganeshkhind road|pune|411005|ind": {
+    "lat": 18.5319199,
+    "lon": 73.8472251
+  },
+  "no. 1100 longdong avenue|shanghai||chn": {
+    "lat": 31.2323437,
+    "lon": 121.4691024
+  },
+  "centralbahnstrasse 4|basel||che": {
+    "lat": 47.5483122,
+    "lon": 7.5876948
+  },
+  "100 college rd w|princeton|08540|usa": {
+    "lat": 40.3416378,
+    "lon": -74.6662366
+  },
+  "frankfurter str. 250|darmstadt||deu": {
+    "lat": 49.8954246,
+    "lon": 8.6536359
+  },
+  "290 concord rd.|billerica|64293|usa": {
+    "lat": 42.5381477,
+    "lon": -71.283225
+  },
+  "one technology place|rockland|02370|usa": {
+    "lat": 42.1663089,
+    "lon": -70.9025993
+  },
+  "an der goldgrube 12|mainz||deu": {
+    "lat": 49.9877842,
+    "lon": 8.2713763
+  },
+  "11535 sorrento valley rd|san diego|92121|usa": {
+    "lat": 32.912041,
+    "lon": -117.230831
+  },
+  "manfred eigen campus essener bogen 7|hamburg||deu": {
+    "lat": 53.6769473,
+    "lon": 9.9964952
+  },
+  "33 business park dr|branford|06405|usa": {
+    "lat": 38.9713343,
+    "lon": -90.9629634
+  },
+  "303b college rd e|princeton|08540|usa": {
+    "lat": 40.3409405,
+    "lon": -74.6657141
+  },
+  "alderley park|nether alderley|sk10 4tg|gbr": {
+    "lat": 53.2744682,
+    "lon": -2.2274494
+  },
+  "via alessandro fleming|verona|4|ita": {
+    "lat": 45.3993619,
+    "lon": 10.9869256
+  },
+  "dorfstraße|bad boll|73087|deu": {
+    "lat": 48.6325587,
+    "lon": 9.5915942
+  },
+  "9|rue pierre dupont||fra": {
+    "lat": 48.8792241,
+    "lon": 2.364792
+  },
+  "32 beaumont street|oxford||gbr": {
+    "lat": 51.7550942,
+    "lon": -1.2615951
+  },
+  "via fara|milano|28|ita": {
+    "lat": 45.4850939,
+    "lon": 9.1989283
+  },
+  "verrijn stuartlaan 48|rijswijk||nld": {
+    "lat": 52.0387256,
+    "lon": 4.330189
+  },
+  "79 main st|hatfield||usa": {
+    "lat": 42.375497,
+    "lon": -72.595886
+  },
+  "leninskiy prospect|moscow||rus": {
+    "lat": 55.6735683,
+    "lon": 37.519674
+  },
+  "thurgauerstrasse 36/38|zurich||che": {
+    "lat": 47.413863,
+    "lon": 8.5520167
+  },
+  "vatslava havela bulvar 8|solomianskyi|03124|ukr": {
+    "lat": 50.4205295,
+    "lon": 30.4584822
+  },
+  "jaama 55b|põlva|63308|est": {
+    "lat": 58.0655947,
+    "lon": 27.0714255
+  },
+  "al barsha south road 2|dubai hills||are": {
+    "lat": 25.0697267,
+    "lon": 55.2261173
+  },
+  "olimpiyskiy prospekt 16|bld.5|129110|rus": {
+    "lat": 55.7516631,
+    "lon": 37.6095344
+  },
+  "no 106|midrand|16th road|zaf": {
+    "lat": -25.9608565,
+    "lon": 28.1370553
+  },
+  "av. paseo del mar con av. del pacifico|panamá|3016|pan": {
+    "lat": 8.559559,
+    "lon": -81.1308434
+  },
+  "maslak meydan sokak 1|sariyer|34398|tur": {
+    "lat": 41.1161327,
+    "lon": 29.0094321
+  },
+  "plot no.76|first sector||egy": {
+    "lat": 30.1747994,
+    "lon": 31.4091625
+  },
+  "76-78|avenue du midi|63800|fra": {
+    "lat": 45.7353069,
+    "lon": 3.1917176
+  },
+  "begalin st|republic of kazakhstan|050010|kaz": {
+    "lat": 43.2359098,
+    "lon": 76.9507197
+  },
+  "20-22 boulevard clozel|abidjan-plateau||civ": null,
+  "levelingstraße 4a|munich||deu": {
+    "lat": 48.130267,
+    "lon": 11.6249314
+  },
+  "basler straße 7 61352|bad homburg||deu": {
+    "lat": 50.2202621,
+    "lon": 8.625586
+  },
+  "1 chandos st|st leonards|2065|aus": {
+    "lat": -33.8222736,
+    "lon": 151.1956152
+  },
+  "rue edouard belin|mont-st-guibert belgium|5 1435|bel": {
+    "lat": 50.657628,
+    "lon": 4.6272791
+  },
+  "11 - 13 yunak str.|sofia|1612|bgr": {
+    "lat": 42.6819143,
+    "lon": 23.3257531
+  },
+  "foro buonaparte|milan|12|ita": {
+    "lat": 45.4693629,
+    "lon": 9.1834782
+  },
+  "agern alle 24|hørsholm|2970|dnk": {
+    "lat": 55.869272,
+    "lon": 12.491707
+  },
+  "stafford house|strand road|d13 h525|irl": {
+    "lat": 53.3178455,
+    "lon": -6.2051521
+  },
+  "karoline kristiansens vei 1|oslo|0661|nor": {
+    "lat": 59.913785,
+    "lon": 10.79675
+  },
+  "calle de pedro teixeira|madrid||esp": {
+    "lat": 40.4551536,
+    "lon": -3.6950455
+  },
+  "medicinaregatan 8 b|gothenburg|413 90|swe": {
+    "lat": 57.6841349,
+    "lon": 11.9579882
+  },
+  "julianalaan 8|baarn||nld": {
+    "lat": 52.2051753,
+    "lon": 5.2778082
+  },
+  "marlow road|bourne end|sl8 5np|gbr": {
+    "lat": 51.5769144,
+    "lon": -0.710798
+  },
+  "1 w 1st ave|conshohocken|19428|usa": {
+    "lat": 40.0740616,
+    "lon": -75.3071237
+  },
+  "calle padial|caguas|00725|pri": {
+    "lat": 18.2323106,
+    "lon": -66.0371333
+  },
+  "unit 2508a / 25 f bank of america tower 12 harcourt road central|hong kong||chn": {
+    "lat": 22.2792968,
+    "lon": 114.1628907
+  },
+  "tour cb 21 16 place de l’iris|paris||fra": {
+    "lat": 48.8889077,
+    "lon": 2.2498904
+  },
+  "av. dos bombeiros voluntários|estoril|146 2765-201|prt": {
+    "lat": 38.7129568,
+    "lon": -9.3935648
+  },
+  "|vilnius||ltu": {
+    "lat": 54.6870458,
+    "lon": 25.2829111
+  },
+  "|brasília||bra": {
+    "lat": -10.3333333,
+    "lon": -53.2
+  },
+  "|dubai||are": {
+    "lat": 25.0742823,
+    "lon": 55.1885387
+  },
+  "|georgia||geo": {
+    "lat": 41.4781359,
+    "lon": 42.9441291
+  },
+  "tower a|maple corporate park||ind": {
+    "lat": 12.9865032,
+    "lon": 77.7401926
+  },
+  "pakkalankuja 7|vantaa|01510|fin": {
+    "lat": 60.287958,
+    "lon": 24.9539985
+  },
+  "bingerstraße 173, nan|ingelheim am rhein||deu": {
+    "lat": 49.9766723,
+    "lon": 8.0453446
+  },
+  "novartis campus|basel||che": {
+    "lat": 47.5738315,
+    "lon": 7.5793176
+  },
+  "1 health plaza|east hanover|07936|usa": {
+    "lat": 40.8091229,
+    "lon": -74.3913741
+  },
+  "3 el sawah street|cairo||egy": {
+    "lat": 30.0971573,
+    "lon": 31.2806417
+  },
+  "berger str. 8-10|starnberg|82319|deu": {
+    "lat": 47.9988165,
+    "lon": 11.3625048
+  },
+  "eckenheimer landstrasse 100|frankfurt||deu": {
+    "lat": 50.1263006,
+    "lon": 8.6861116
+  },
+  "6501 six forks road|raleigh|27615|usa": {
+    "lat": 35.8692612,
+    "lon": -78.6405104
+  },
+  "breakspear park|hemel hempstead|hp2 4|gbr": {
+    "lat": 51.7553352,
+    "lon": -0.4258923
+  },
+  "avenue gambetta|paris||fra": {
+    "lat": 48.8643219,
+    "lon": 2.3930744
+  },
+  "gustav iii:s boulevard|solna||swe": {
+    "lat": 59.3734234,
+    "lon": 18.0081864
+  },
+  "via f. filzi|milano||ita": {
+    "lat": 45.573965,
+    "lon": 9.0266862
+  },
+  "hoevestein|oosterhout||nld": {
+    "lat": 51.6280909,
+    "lon": 4.8700534
+  },
+  "avda. de bruselas|alcobendas||esp": {
+    "lat": 40.5294996,
+    "lon": -3.6422633
+  },
+  "via del piano 29|lugano||che": {
+    "lat": 45.978213,
+    "lon": 8.9274404
+  },
+  "dr. reckeweg-straße 2-4|baden-baden||deu": {
+    "lat": 48.7810069,
+    "lon": 8.182184
+  },
+  "seekamp 31|lübeck||deu": {
+    "lat": 53.8012742,
+    "lon": 10.7239792
+  },
+  "widna 2a|wroclaw|50-543|pol": {
+    "lat": 51.0851016,
+    "lon": 17.0454552
+  },
+  "corso stati uniti|padua|35127|ita": {
+    "lat": 45.3928621,
+    "lon": 11.9396516
+  },
+  "avda. somosierra 22|madrid|nave 17-a|esp": {
+    "lat": 40.5534665,
+    "lon": -3.6141255
+  },
+  "rua sacadura cabral|9 a/b|2720-507|prt": {
+    "lat": 41.1554424,
+    "lon": -8.6202244
+  },
+  "131-139 the broadway|london|sw19 1qj|gbr": {
+    "lat": 51.4189576,
+    "lon": -0.1997437
+  },
+  "no. 8 beichen dong road|beijing|100101|chn": {
+    "lat": 39.9885331,
+    "lon": 116.3995574
+  },
+  "2566 meadowpine blvd|mississauga|l5n 6p9|can": {
+    "lat": 43.6032807,
+    "lon": -79.7787767
+  },
+  "avenue 1|#01-01/05|486058|sgp": {
+    "lat": 1.3381408,
+    "lon": 103.9625415
+  },
+  "lalegül sokak no: 10 nef09 a blok|istanbul|34415|tur": {
+    "lat": 41.006381,
+    "lon": 28.9758715
+  },
+  "1 bloomfield avenue|new jersey|07046|usa": {
+    "lat": 40.891347,
+    "lon": -74.477902
+  },
+  "alameda terracota 215- torre union - 6oandar|são caetano do sul|09531-190|bra": {
+    "lat": -23.6195923,
+    "lon": -46.5688323
+  },
+  "5 winton close|cape town|7441|zaf": {
+    "lat": -33.8274431,
+    "lon": 18.4842865
+  },
+  "1 avenue marne et gondoire|bussy-saint-martin|77600|fra": {
+    "lat": 48.8405442,
+    "lon": 2.6645618
+  },
+  "1-7-17 kanda izumi-cho|chiyoda-ku|101-0024|jpn": {
+    "lat": 35.6968652,
+    "lon": 139.7488037
+  },
+  "flugfeld allee 24|böblingen||deu": {
+    "lat": 48.691439,
+    "lon": 9.0015749
+  },
+  "|moskau|121170|rus": {
+    "lat": 55.6918053,
+    "lon": 37.5556847
+  },
+  "|cluj-napoca||rou": {
+    "lat": 46.769379,
+    "lon": 23.5899542
+  },
+  "|sofia||bgr": {
+    "lat": 42.6767153,
+    "lon": 23.310017
+  },
+  "|baku||aze": {
+    "lat": 40.3755885,
+    "lon": 49.8328009
+  },
+  "|minsk||blr": {
+    "lat": 53.9441345,
+    "lon": 27.666203
+  },
+  "|tbilisi||geo": {
+    "lat": 41.7327154,
+    "lon": 44.7883066
+  },
+  "|wan chai||hkg": {
+    "lat": 22.2790146,
+    "lon": 114.1724833
+  },
+  "|budapest||hun": {
+    "lat": 47.4978789,
+    "lon": 19.0402383
+  },
+  "|almaty||kaz": {
+    "lat": 43.455596,
+    "lon": 77.0325544
+  },
+  "|chisinau||mda": {
+    "lat": 47.0245117,
+    "lon": 28.8322923
+  },
+  "|warszawa||pol": {
+    "lat": 52.2333742,
+    "lon": 21.0711489
+  },
+  "|novi beograd||srb": {
+    "lat": 44.8025536,
+    "lon": 20.3827461
+  },
+  "|bratislava||svk": {
+    "lat": 48.1359085,
+    "lon": 17.1597441
+  },
+  "|ljubljana||svn": {
+    "lat": 46.0500268,
+    "lon": 14.5069289
+  },
+  "|bangkok||tha": {
+    "lat": 13.9122207,
+    "lon": 100.6035314
+  },
+  "|kiev||ukr": {
+    "lat": 50.3833753,
+    "lon": 29.932993
+  },
+  "|taschkent||uzb": {
+    "lat": 41.0500912,
+    "lon": 69.165388
+  },
+  "|ho chi minh city||vnm": {
+    "lat": 10.3966317,
+    "lon": 107.231255
+  },
+  "|riga||lva": {
+    "lat": 56.9410379,
+    "lon": 24.0967724
+  },
+  "römerpark 2|kaiseraugst|4303|che": {
+    "lat": 47.538687,
+    "lon": 7.736111
+  },
+  "zi rue du canal d’alsace|hombourg|68490|fra": {
+    "lat": 47.7586764,
+    "lon": 7.5074601
+  },
+  "480 neponset st|canton|02021|usa": {
+    "lat": 42.1610763,
+    "lon": -71.1619134
+  },
+  "2400 perimeter park dr|morrisville|27560|usa": {
+    "lat": 35.8521845,
+    "lon": -78.8295101
+  },
+  "yalelaan 62|utrecht||nld": {
+    "lat": 52.083094,
+    "lon": 5.1822312
+  },
+  "route des jeunes 33bis|carouge|1227|che": {
+    "lat": 46.1830713,
+    "lon": 6.1297004
+  },
+  "trb pharma argentina sa|buenos aires|1427|arg": {
+    "lat": -34.5890553,
+    "lon": -58.4731588
+  },
+  "188 connaught rd w|sai ying pun|000|hkg": {
+    "lat": 22.2887129,
+    "lon": 114.1458623
+  },
+  "san josé|san josé|00|cri": {
+    "lat": 9.9368033,
+    "lon": -84.1076999
+  },
+  "458|avenue marie curie|74160|fra": {
+    "lat": 46.1391009,
+    "lon": 6.1191248
+  },
+  "no 693|batu|5|mys": {
+    "lat": 3.2311231,
+    "lon": 101.677268
+  },
+  "lomas - virreyes|lomas de chapultepec lomas de chapultepec 11000|11000|mex": {
+    "lat": 19.4070391,
+    "lon": -99.2222468
+  },
+  "ul. ligocka 103 budynek nr 3 40-568 katowice|katowice|40-568|pol": {
+    "lat": 50.2137315,
+    "lon": 19.0058848
+  },
+  "10 raeburn park|singapore|088702|sgp": {
+    "lat": 1.2732444,
+    "lon": 103.8333753
+  },
+  "sukhumvit 21road|north klongtoey subdistrict|10110|tha": {
+    "lat": 13.9377347,
+    "lon": 100.4899356
+  },
+  "9 evolution lymedale business park hooters hall road newcastle-under-lyme|newcastle-under-lyme|st5 9qf|gbr": {
+    "lat": 53.0117627,
+    "lon": -2.2273919
+  },
+  "leopold-unger platz 2|vienna||aut": {
+    "lat": 48.2481331,
+    "lon": 16.367244
+  },
+  "rue du bois-du-lan 22|meyrin||che": {
+    "lat": 46.2246381,
+    "lon": 6.0762169
+  },
+  "jr. ricardo rey basadre 385 - magdalena del mar|lima||per": {
+    "lat": -12.0932903,
+    "lon": -77.0681619
+  },
+  "nobelstraße 12|stuttgart||deu": {
+    "lat": 48.7408353,
+    "lon": 9.0987156
+  },
+  "a.-volta-straße 13 a|bozen|39100|ita": {
+    "lat": 46.4782732,
+    "lon": 11.3328386
+  },
+  "(headquarters) aeschengraben 27|basel||che": {
+    "lat": 47.5492808,
+    "lon": 7.5926854
+  },
+  "1555 elm street|port colborne|l3k 5v5|can": {
+    "lat": 42.9273007,
+    "lon": -79.2550694
+  },
+  "z.i. et portuaire bp 32|marckolsheim|67390|fra": {
+    "lat": 48.1683499,
+    "lon": 7.5975107
+  },
+  "sir m. v. road|andheri (e)|400 059|ind": {
+    "lat": 19.1205638,
+    "lon": 72.8488433
+  },
+  "3-4-2 kyobashi|chuo-ku|104-0031|jpn": {
+    "lat": 35.6758835,
+    "lon": 139.7717019
+  },
+  "av. santa fe #170 office 2-4-08|mexico city|01210|mex": {
+    "lat": 19.3207722,
+    "lon": -99.1514678
+  },
+  "99 bukit timah road|singapore|229835|sgp": {
+    "lat": 1.3288251,
+    "lon": 103.8032352
+  },
+  "merwehoofd 58|papendrecht|3351|nld": {
+    "lat": 51.8222884,
+    "lon": 4.6782646
+  },
+  "6250 n river rd|rosemont|60018|usa": {
+    "lat": 41.9933952,
+    "lon": -87.8609023
+  },
+  "95 wells avenue|newton|suite 150|usa": {
+    "lat": 42.2923994,
+    "lon": -71.1966496
+  },
+  "robert-koch-straße 2|norderstedt||deu": {
+    "lat": 53.685157,
+    "lon": 10.0485324
+  },
+  "ziegelhof 24|greifswald||deu": {
+    "lat": 54.0897929,
+    "lon": 13.3504427
+  },
+  "cromazeile 2|leobendorf||aut": {
+    "lat": 48.362919,
+    "lon": 16.3068622
+  },
+  "ste. 300-500 king st west|toronto|m5v1l9|can": {
+    "lat": 43.6534817,
+    "lon": -79.3839347
+  },
+  "parnassusweg 819|amsterdam|1082|nld": {
+    "lat": 52.3369814,
+    "lon": 4.8692134
+  },
+  "38 rue pascal|paris|75013|fra": {
+    "lat": 48.8366156,
+    "lon": 2.3486778
+  },
+  "c. juan gris|barcelona|10-18 9o a|esp": {
+    "lat": 41.3649812,
+    "lon": 2.1338239
+  },
+  "avila business centers - av. república|7o esq|no 6|prt": null,
+  "ul. puławska 381|warszawa|02-801|pol": {
+    "lat": 52.1489723,
+    "lon": 21.0185533
+  },
+  "str. garibaldi nr.18|cluj-napoca|400325|rou": {
+    "lat": 46.7683281,
+    "lon": 23.5674121
+  },
+  "av. queiroz filho 1700|torre a|sala 207|bra": {
+    "lat": -12.5793727,
+    "lon": -38.0302377
+  },
+  "level 26|1 bligh street|2000|aus": {
+    "lat": -33.8648376,
+    "lon": 151.2105563
+  },
+  "11-12 st james's square|london||gbr": {
+    "lat": 51.5072292,
+    "lon": -0.1343426
+  },
+  "via adeodato ressi|mailand|5|ita": {
+    "lat": 45.4956945,
+    "lon": 9.2064004
+  },
+  "paul-ehrlich-str. 51-59|dreieich|63303|deu": {
+    "lat": 50.0062753,
+    "lon": 8.6485417
+  },
+  "grafenauweg 12|zug||che": {
+    "lat": 47.1742842,
+    "lon": 8.5117341
+  },
+  "1100 winter st|waltham|02451|usa": {
+    "lat": 42.4093134,
+    "lon": -71.2758044
+  },
+  "200 connell dr|berkeley heights|07922|usa": {
+    "lat": 40.6626731,
+    "lon": -74.4132056
+  },
+  "gustav mahlerplein 2|amsterdam||nld": {
+    "lat": 52.3378196,
+    "lon": 4.8729828
+  },
+  "6733 mississauga rd|mississauga|l5n 6j5|can": {
+    "lat": 43.6027524,
+    "lon": -79.7405362
+  },
+  "via pian scairolo 9|lugano||che": {
+    "lat": 45.9850378,
+    "lon": 8.9317966
+  },
+  "15 damastown road|damastown industrial park|d15 x925|irl": {
+    "lat": 53.4105949,
+    "lon": -6.4173538
+  },
+  "200 wood avenue south|iselin|08830|usa": {
+    "lat": 40.5604484,
+    "lon": -74.3235315
+  },
+  "8 jianguomenbei avenue|dongcheng district|100005|chn": {
+    "lat": 31.8445347,
+    "lon": 106.7632483
+  },
+  "288 shimenyi road|jing ‘an district|200041|chn": {
+    "lat": 31.2299445,
+    "lon": 121.4589285
+  },
+  "ludwig-erhard straße 34|hamburg||deu": {
+    "lat": 53.5496051,
+    "lon": 9.9734382
+  },
+  "26 oetenbachgasse|zurich||che": {
+    "lat": 47.3739968,
+    "lon": 8.5391219
+  },
+  "43 chornovola ulitsa|vishnevoe|08132|ukr": {
+    "lat": 45.0282081,
+    "lon": 34.3334479
+  },
+  "31 poligraficheskaya street|minsk|220090|blr": {
+    "lat": 53.9024716,
+    "lon": 27.5618225
+  },
+  "ул.казыбек би 20а|уг. калдаякова|050040|kaz": {
+    "lat": 42.4284209,
+    "lon": 69.8141192
+  },
+  "h.95a|amira temura street|100084|uzb": {
+    "lat": 41.316163,
+    "lon": 69.28683
+  },
+  "3001 block|moscow avenue|az1102|aze": {
+    "lat": 40.4089363,
+    "lon": 49.8049232
+  },
+  "givi svanidze street. # 6|vake district||geo": {
+    "lat": 41.7144263,
+    "lon": 44.7436534
+  },
+  "gregor mendel strasse 33, wien, währing|vienna||aut": {
+    "lat": 48.2365926,
+    "lon": 16.3374816
+  },
+  "thurgauerstrasse 36/38 9. stock|zurich||che": {
+    "lat": 47.413863,
+    "lon": 8.5520167
+  },
+  "baslerstrasse 15|rheinfelden||che": {
+    "lat": 47.5511197,
+    "lon": 7.7854521
+  },
+  "rue de bourgogne, 31, genève|geneva||che": {
+    "lat": 46.2098798,
+    "lon": 6.1236674
+  },
+  "264|rue du faubourg saint-honoré|75008|fra": {
+    "lat": 48.8774984,
+    "lon": 2.2996756
+  },
+  "14/16 avenue pasteur|luxembourg|2310|lux": {
+    "lat": 49.6187873,
+    "lon": 6.1236357
+  },
+  "teltowkanalstraße 1b|berlin||deu": {
+    "lat": 52.4433493,
+    "lon": 13.3306588
+  },
+  "hegenheimermattweg 167b|allschwil|4123|che": {
+    "lat": 47.5611369,
+    "lon": 7.5525408
+  },
+  "dr.-robert-pfleger-straße 12|bamberg||deu": {
+    "lat": 49.9139061,
+    "lon": 10.876047
+  },
+  "herbert-bayer-straße 8|berlin||deu": {
+    "lat": 52.5580598,
+    "lon": 13.4422238
+  },
+  "fraunhoferstrasse 15|krailling||deu": {
+    "lat": 48.0773788,
+    "lon": 11.3500346
+  },
+  "|switzerland||che": {
+    "lat": 46.7985624,
+    "lon": 8.2319736
+  },
+  "darmstaedter str. 34-36|zwingenberg||deu": {
+    "lat": 49.7265256,
+    "lon": 8.6119392
+  },
+  "wagistrasse 14|schlieren|8952|che": {
+    "lat": 47.3984696,
+    "lon": 8.4582067
+  },
+  "23 bradford st|west concord|01742|usa": {
+    "lat": 42.4566409,
+    "lon": -71.396676
+  },
+  "raiffeisenstrasse 4|langenfeld|40764|deu": {
+    "lat": 51.1228628,
+    "lon": 6.9220875
+  },
+  "bunsenstrasse 7a|krailling||deu": {
+    "lat": 51.5278984,
+    "lon": 9.9329613
+  },
+  "siemensstrasse 38|heidelberg||deu": {
+    "lat": 49.407922,
+    "lon": 8.645779
+  },
+  "huanke road|shanghai|201210|chn": {
+    "lat": 31.2042904,
+    "lon": 121.6311757
+  },
+  "max-planck straße 4|berlin||deu": {
+    "lat": 52.4290077,
+    "lon": 13.5356442
+  },
+  "szeligowska 3|szeligi|05-850|pol": {
+    "lat": 52.2282,
+    "lon": 20.85797
+  },
+  "rheinzaberner str. 8|rülzheim|76761|deu": {
+    "lat": 49.1501837,
+    "lon": 8.2915819
+  },
+  "dorfstrasse  29|zug||che": {
+    "lat": 47.1645437,
+    "lon": 8.5171967
+  },
+  "am neuland 3|bernried|82347|deu": {
+    "lat": 47.8581345,
+    "lon": 11.2826961
+  },
+  "chemin du pré-fleuri 3|plan-les-ouates||che": {
+    "lat": 46.1679926,
+    "lon": 6.1069829
+  },
+  "friedrich-königs-str. 3-5|mannheim||deu": {
+    "lat": 49.4950678,
+    "lon": 8.5022602
+  },
+  "riethofstrasse 1|hettlingen|8442|che": {
+    "lat": 47.5452172,
+    "lon": 8.6926745
+  },
+  "hohenrainstrasse 24|pratteln|4133|che": {
+    "lat": 47.5255323,
+    "lon": 7.6945906
+  },
+  "via sottobisio 42a|balerna||che": {
+    "lat": 45.8431512,
+    "lon": 9.013614
+  },
+  "wagner-régeny-str. 15|berlin||deu": {
+    "lat": 52.4360346,
+    "lon": 13.5366143
+  },
+  "4405 e baseline rd|phoenix|85042|usa": {
+    "lat": 33.3766698,
+    "lon": -111.9886087
+  },
+  "western road|portsmouth|po6 3en|gbr": {
+    "lat": 50.84128057142857,
+    "lon": -1.0822485857142856
+  },
+  "via industria 24|biasca|6710|che": {
+    "lat": 46.3415782,
+    "lon": 8.9736329
+  },
+  "route de frontenex 41a|geneva||che": {
+    "lat": 46.2036294,
+    "lon": 6.1681079
+  },
+  "heinrich-mack-str. 35|illertissen||deu": {
+    "lat": 48.2336926,
+    "lon": 10.0894369
+  },
+  "schössergasse 19|dresden||deu": {
+    "lat": 51.051767,
+    "lon": 13.7380895
+  },
+  "bautzner landstraße 400|dresden||deu": {
+    "lat": 51.057451,
+    "lon": 13.9533109
+  },
+  "albert-schweitzer-ring 18|hamburg||deu": {
+    "lat": 53.5798136,
+    "lon": 10.1202704
+  },
+  "bachtobelstrasse 5|horgen||che": {
+    "lat": 47.2498232,
+    "lon": 8.6160064
+  },
+  "schützenstrasse 15|balgach||che": {
+    "lat": 47.400514,
+    "lon": 9.6064577
+  },
+  "170 av. gabriel péri|vaulx-en-velin|69120|fra": {
+    "lat": 45.7717082,
+    "lon": 4.909255
+  },
+  "|heidelberg||deu": {
+    "lat": 49.4093582,
+    "lon": 8.694724
+  },
+  "hermann-dorner allee 23|berlin||deu": {
+    "lat": 52.4348738,
+    "lon": 13.5223786
+  },
+  "avenue de la gare 39|lausanne||che": {
+    "lat": 46.5166917,
+    "lon": 6.633909
+  },
+  "alfheimum 74|reykjavik|108|isl": {
+    "lat": 64.1375433,
+    "lon": -21.8594215
+  },
+  "300 washington street|newton|02458|usa": {
+    "lat": 42.3568317,
+    "lon": -71.1858981
+  },
+  "bäumleingasse 18|basel||che": {
+    "lat": 47.5549426,
+    "lon": 7.5924913
+  },
+  "route de l'ile-au-bois 1a|monthey||che": {
+    "lat": 46.255162,
+    "lon": 6.9594326
+  },
+  "route de la corniche 5b superlab suisse - batiment alanine, lausanne - switzerland / san diego - usa|lausanne metropolitan area||che": null,
+  "10935 alexandria way|san diego|92121|usa": {
+    "lat": 32.917482,
+    "lon": -117.157123
+  },
+  "heinrich-damerow-str. 1|halle||deu": {
+    "lat": 51.4939474,
+    "lon": 11.9375845
+  },
+  "brunnerstraße 69/3|vienna||aut": {
+    "lat": 48.1355943,
+    "lon": 16.2979938
+  },
+  "am klopferspitz 19a|krailling||deu": {
+    "lat": 48.1075908,
+    "lon": 11.4586707
+  },
+  "27 maple st|milford|01757|usa": {
+    "lat": 42.142383,
+    "lon": -71.5116841
+  },
+  "wagistrasse 25|schlieren|8952|che": {
+    "lat": 47.399269,
+    "lon": 8.4595929
+  },
+  "maaßstraße 30|heidelberg||deu": {
+    "lat": 49.4226132,
+    "lon": 8.6428765
+  },
+  "987 old eagle school rd|wayne|19087|usa": {
+    "lat": 40.0769687,
+    "lon": -75.4055744
+  },
+  "saegereistrasse 25|opfikon|8152|che": {
+    "lat": 47.4318641,
+    "lon": 8.558619
+  },
+  "wagistrasse 27|schlieren|8952|che": {
+    "lat": 47.3991675,
+    "lon": 8.4599881
+  },
+  "borsteler chaussee 47|hamburg||deu": {
+    "lat": 53.6053035,
+    "lon": 9.9821501
+  },
+  "|london||gbr": {
+    "lat": 51.5074456,
+    "lon": -0.1277653
+  },
+  "stevenage bioscience catalyst|stevenage||gbr": {
+    "lat": 51.8851217,
+    "lon": -0.2007013
+  },
+  "boston|boston||usa": {
+    "lat": 42.3588336,
+    "lon": -71.0578303
+  },
+  "carl-eschebach-straße 7|radeberg||deu": {
+    "lat": 51.1029578,
+    "lon": 13.9282737
+  },
+  "via cantonale 77|tresa||che": {
+    "lat": 45.992929,
+    "lon": 8.7957728
+  },
+  "muenchensteinerstr. 38|münchenstein||che": {
+    "lat": 47.5459375,
+    "lon": 7.5980808
+  },
+  "8830 biggs ford road|walkersville|21793|usa": {
+    "lat": 39.4824385,
+    "lon": -77.3673527
+  },
+  "35 tuas south ave 6|sg|637377|sgp": {
+    "lat": 1.2735111,
+    "lon": 103.6178627
+  },
+  "228 bath road|slough|sl1 4dx|gbr": {
+    "lat": 51.5200939,
+    "lon": -0.6348477
+  },
+  "kirby dr|pearland||usa": {
+    "lat": 29.5538488,
+    "lon": -95.3980138
+  },
+  "101 international dr|portsmouth|03801|usa": {
+    "lat": 43.0878498,
+    "lon": -70.7844038
+  },
+  "1201 nw wall st|bend|97703|usa": {
+    "lat": 44.0621021,
+    "lon": -121.3115368
+  },
+  "4910 savarese circle|tampa|33634|usa": {
+    "lat": 28.0239815,
+    "lon": -82.5300631
+  },
+  "chesterford research park|cambridge||gbr": {
+    "lat": 52.0568444,
+    "lon": 0.2341561
+  },
+  "avenue des biolleux|verviers|4800|bel": {
+    "lat": 50.6227561,
+    "lon": 5.8367663
+  },
+  "north emerald road|greenwood||usa": {
+    "lat": 34.2080432,
+    "lon": -82.1218014
+  },
+  "urmonderbaan|geleen||nld": {
+    "lat": 50.9903649,
+    "lon": 5.787926
+  },
+  "36410|porrino||esp": {
+    "lat": 42.15235781764706,
+    "lon": -8.632129676470589
+  },
+  "huangge dadaobei|guangzhou|511455|chn": {
+    "lat": 22.8385764,
+    "lon": 113.5044902
+  },
+  "1000 new horizons way|vacaville|95688|usa": {
+    "lat": 38.3902832,
+    "lon": -121.9461023
+  },
+  "kloosterstraat 9|oss||nld": {
+    "lat": 51.7612919,
+    "lon": 5.5358521
+  },
+  "4 hartwell pl|lexington|02421|usa": {
+    "lat": 42.4679731,
+    "lon": -71.2540751
+  },
+  "strada del petriccio e belriguardo|siena|35|ita": {
+    "lat": 43.3343154,
+    "lon": 11.3038089
+  },
+  "191 thomaston st|rockland|04841|usa": {
+    "lat": 44.091989,
+    "lon": -69.1248093
+  },
+  "10|rue timken|68027|fra": {
+    "lat": 48.4534922,
+    "lon": -4.1475419
+  },
+  "rijksweg 11|bornem||bel": {
+    "lat": 51.0917027,
+    "lon": 4.2647327
+  },
+  "21 joniawas dharuhera|rewari|122100|ind": {
+    "lat": 28.1956468,
+    "lon": 76.6165179
+  },
+  "1101 nw 3rd st|cohasset|55721|usa": {
+    "lat": 47.263896,
+    "lon": -93.6175268
+  },
+  "zählerweg 10|zug||che": {
+    "lat": 47.1772463,
+    "lon": 8.5134513
+  },
+  "avenida das nações unidas 14261|são paulo|04730-090|bra": {
+    "lat": -23.6238519,
+    "lon": -46.7020668
+  },
+  "13b narabang way|belrose|2085|aus": {
+    "lat": -33.705057,
+    "lon": 151.2079205
+  },
+  "222 huaihai middle rd|shanghai||chn": {
+    "lat": 31.2261497,
+    "lon": 121.4711083
+  },
+  "20|avenue andré prothin|92400|fra": {
+    "lat": 48.8919457,
+    "lon": 2.2450658
+  },
+  "fyrisvallsgatan 7|uppsala|752 28|swe": {
+    "lat": 59.8700595,
+    "lon": 17.6142991
+  },
+  "acesso à rodovia sp-101|campinas|13186-904|bra": {
+    "lat": -22.9056391,
+    "lon": -47.059564
+  },
+  "zi montdésir|alby-sur-chéran|74540|fra": {
+    "lat": 45.8142562,
+    "lon": 6.0152677
+  },
+  "19400 trans-canada highway|baie-d’urfé|h9x 3s4|can": {
+    "lat": 45.4292413,
+    "lon": -73.9091435
+  },
+  "1 kim seng promenade|singapore|237994|sgp": {
+    "lat": 1.2939643,
+    "lon": 103.8319923
+  },
+  "evergreen house north|grafton place|nw1 2dx|gbr": {
+    "lat": 51.5280305,
+    "lon": -0.1304869
+  },
+  "2001 ross ave|dallas|75201|usa": {
+    "lat": 32.7876162,
+    "lon": -96.7992456
+  },
+  "frankfurter straße 250|darmstadt||deu": {
+    "lat": 49.8954246,
+    "lon": 8.6536359
+  },
+  "stadastraße  2-18|bad vilbel|61118|deu": {
+    "lat": 50.2023586,
+    "lon": 8.7455033
+  },
+  "beogradski put bb|vršac|26300|srb": {
+    "lat": 45.1200117,
+    "lon": 21.298788
+  },
+  "heizel esplanade b 22|brussel|1020|bel": {
+    "lat": 50.900392,
+    "lon": 4.3435227
+  },
+  "linthwaite labs|huddersfield|hd7 5qh|gbr": {
+    "lat": 53.625739,
+    "lon": -1.8566787
+  },
+  "carrer frederic mompou|sant just desvern|5|esp": {
+    "lat": 41.3750917,
+    "lon": 2.0746416
+  },
+  "via pavia|milan|6|ita": {
+    "lat": 45.4476604,
+    "lon": 9.1783614
+  },
+  "166-170 nguyen hue|tuy hoa||vnm": {
+    "lat": 13.089773,
+    "lon": 109.3122172
+  },
+  "dubai world central|dubai||are": {
+    "lat": 24.9103117,
+    "lon": 55.1196381
+  },
+  "12 rue danjou|boulogne-billancourt|92100|fra": {
+    "lat": 48.8339285,
+    "lon": 2.2475694
+  },
+  "peter-müller-str. 3|düsseldorf||deu": {
+    "lat": 51.2746877,
+    "lon": 6.769417
+  },
+  "feithstraße 184|hagen||deu": {
+    "lat": 51.3828779,
+    "lon": 7.4836391
+  },
+  "wurmisweg 576|kaiseraugst|4303|che": {
+    "lat": 47.5398182,
+    "lon": 7.7408389
+  },
+  "theodorstrasse 10|stuttgart||deu": {
+    "lat": 48.8221183,
+    "lon": 9.1673111
+  },
+  "industrieweg 2|niel|2845|bel": {
+    "lat": 51.1011628,
+    "lon": 4.3522783
+  },
+  "56|boulevard de courcerin|fr-77183|fra": {
+    "lat": 48.8232718,
+    "lon": 2.6387895
+  },
+  "via e. da rotterdam|ferrara|25|ita": {
+    "lat": 44.8557417,
+    "lon": 11.5741727
+  },
+  "via xxv aprile|bresso (mi)|49|ita": {
+    "lat": 45.5357582,
+    "lon": 9.1980477
+  },
+  "unit 4|acorn business park heaton lane|sk4 1as|gbr": {
+    "lat": 53.4094776,
+    "lon": -2.1687153
+  },
+  "balmes|pral.|73|esp": {
+    "lat": 41.3981333,
+    "lon": 2.1509809
+  },
+  "no. 1296|jiyin avenue|211106|chn": {
+    "lat": 43.8206879,
+    "lon": 125.2711103
+  },
+  "3rd floor|bldg. b1|201619|chn": {
+    "lat": 22.6766118,
+    "lon": 113.8327442
+  },
+  "2f|tian fu ge|510660|chn": {
+    "lat": 25.2950056,
+    "lon": 110.2955164
+  },
+  "7f-2|no.201||twn": {
+    "lat": 25.03025,
+    "lon": 121.48186
+  },
+  "8 jurong town hall road|singapore|609434|sgp": {
+    "lat": 1.3311854,
+    "lon": 103.7418369
+  },
+  "4f|leaf square shin-yokohama bldg.|222-0033|jpn": null,
+  "ideal house|sector 64|a-35|ind": {
+    "lat": 28.3914643,
+    "lon": 77.0761983
+  },
+  "rd 327|sector g|block 2|sau": {
+    "lat": 26.4586931,
+    "lon": 50.0852868
+  },
+  "590 woodbury glassboro road|sewell|08080|usa": {
+    "lat": 39.7719055,
+    "lon": -75.1354606
+  },
+  "196 appalachian drive|wytheville|24382|usa": {
+    "lat": 36.9648775,
+    "lon": -81.1112315
+  },
+  "5825 north sam houston pkwy west|houston|77086|usa": {
+    "lat": 29.9358974,
+    "lon": -95.5118812
+  },
+  "606 north front street|salina|67401|usa": {
+    "lat": 38.8580986,
+    "lon": -97.6032606
+  },
+  "r. arinos|osasco - sp|1000|bra": {
+    "lat": -23.4840213,
+    "lon": -46.7820927
+  },
+  "thomas-klestil-platz 7/1|vienna||aut": {
+    "lat": 48.1944804,
+    "lon": 16.4101818
+  },
+  "effingergasse 21, wien, ottakring|vienna||aut": {
+    "lat": 48.2189211,
+    "lon": 16.3162457
+  },
+  "kerschensteinerstraße 11 -15|neumarkt in der oberpfalz|92318|deu": {
+    "lat": 49.262133,
+    "lon": 11.469881
+  },
+  "spargelfeldstraße 191|vienna||aut": {
+    "lat": 48.2533378,
+    "lon": 16.4839186
+  },
+  "zürcherstr. 111|birmensdorf (zh)|8903|che": {
+    "lat": 47.3608716,
+    "lon": 8.4555247
+  },
+  "urstein nord 31|puch bei hallein|5412|aut": {
+    "lat": 47.7339618,
+    "lon": 13.08474
+  },
+  "alfred-nobel-straße|monheim|40789|deu": {
+    "lat": 51.0795637,
+    "lon": 6.9031591
+  },
+  "anna-louisa-karsch straße 2|berlin||deu": {
+    "lat": 52.520401,
+    "lon": 13.4020734
+  },
+  "|hamburg||deu": {
+    "lat": 53.5501721,
+    "lon": 10.0013165
+  },
+  "willmar-schwabe-strasse 4|karlsruhe||deu": {
+    "lat": 49.0012109,
+    "lon": 8.4647709
+  },
+  "peter-dörfler-strasse 13-25|augsburg||deu": {
+    "lat": 48.3489192,
+    "lon": 10.8801417
+  },
+  "schlossplatz 1|lannach|8502|aut": {
+    "lat": 46.9455781,
+    "lon": 15.3328411
+  },
+  "hauptstr. 50|wolfertschwenden||deu": {
+    "lat": 47.8902417,
+    "lon": 10.2703987
+  },
+  "13530 reese blvd|huntersville|28078|usa": {
+    "lat": 35.4097031,
+    "lon": -80.8631703
+  },
+  "40 rue alfred lefèvre|saint andré sur orne|14320|fra": {
+    "lat": 49.1224741,
+    "lon": -0.374255
+  },
+  "springfield way|anlaby hull|hu10 6rj|gbr": {
+    "lat": 53.7482559,
+    "lon": -0.4254322
+  },
+  "building 7b|shanghai|lane 195|chn": {
+    "lat": 31.2323437,
+    "lon": 121.4691024
+  },
+  "sukhumvit road|bangkok|10110|tha": {
+    "lat": 13.7329562,
+    "lon": 100.5654677
+  },
+  "pascalstraße 8-9|berlin||deu": {
+    "lat": 52.5238213,
+    "lon": 13.3235743
+  },
+  "schloss birlinghoven 1|sankt augustin|53757|deu": {
+    "lat": 50.7489894,
+    "lon": 7.2055664
+  },
+  "lentzeallee 94|berlin||deu": {
+    "lat": 52.4686894,
+    "lon": 13.3037589
+  },
+  "fraunhoferstrasse 5|darmstadt||deu": {
+    "lat": 49.8741259,
+    "lon": 8.6598135
+  },
+  "albert-einstein-straße 7|jena||deu": {
+    "lat": 50.9083783,
+    "lon": 11.5679652
+  },
+  "nikolai-fuchs-straße 1|hannover||deu": {
+    "lat": 52.3875836,
+    "lon": 9.7980666
+  },
+  "freiligrathstraße 12|mainz||deu": {
+    "lat": 49.9888645,
+    "lon": 8.2692052
+  },
+  "im südfeld, 9, senden-bösensell|germany||deu": {
+    "lat": 51.9088992,
+    "lon": 7.4768031
+  },
+  "projensdorfer straße 324|kiel||deu": {
+    "lat": 54.367784,
+    "lon": 10.1069335
+  },
+  "am flughafen 6|freiburg||deu": {
+    "lat": 48.0232525,
+    "lon": 7.8362798
+  },
+  "no. 333 jiu jiang road|finance square|200001|chn": null,
+  "room 903 yuzhou plaza|1990 xinbengbu rd|230012|chn": null,
+  "jiahai industry park|zone d|bld 101|chn": {
+    "lat": 32.1798771,
+    "lon": 118.7143859
+  },
+  "2|blvd. prof tsvetan lazarov||bgr": {
+    "lat": 42.67649,
+    "lon": 23.3797898
+  },
+  "1-7|cours valmy|92800|fra": {
+    "lat": 48.8920421,
+    "lon": 2.2337806
+  },
+  "high street|hampton hill|tw12 1np|gbr": {
+    "lat": 51.4220047,
+    "lon": -0.3589018
+  },
+  "carrer de la creativitat|gavà|10|esp": {
+    "lat": 41.2931766,
+    "lon": 2.0175504
+  },
+  "plac farmacji 1|warszawa|02-699|pol": {
+    "lat": 52.1590224,
+    "lon": 20.9955839
+  },
+  "66 a traian str|rudeni|077046|rou": {
+    "lat": 44.4732768,
+    "lon": 25.9673967
+  },
+  "karadžičova 16|bratislava|82108|svk": {
+    "lat": 48.1508414,
+    "lon": 17.1259978
+  },
+  "diaľničná cesta 5|senec|903 01|svk": {
+    "lat": 48.2294122,
+    "lon": 17.3661336
+  },
+  "modletice 139|říčany|25101|cze": {
+    "lat": 49.9749424,
+    "lon": 14.5966114
+  },
+  "szabadföld út 79|budapest|1164|hun": {
+    "lat": 47.5292636,
+    "lon": 19.2348436
+  },
+  "202 tower drive|edgewater|07020|usa": {
+    "lat": 40.8267073,
+    "lon": -73.9727315
+  },
+  "rua das castanheira|n°200||bra": {
+    "lat": -12.8997867,
+    "lon": -38.4548017
+  },
+  "max-von-laue straße 2|bremen||deu": {
+    "lat": 53.105372,
+    "lon": 8.8561586
+  },
+  "heinz-lohmann straße 5|cuxhaven||deu": {
+    "lat": 53.844009,
+    "lon": 8.7152217
+  },
+  "grafenauweg 8|zug||che": {
+    "lat": 47.174158,
+    "lon": 8.5126553
+  },
+  "j.h. oortweg|leiden|2333|nld": {
+    "lat": 52.1665121,
+    "lon": 4.4639622
+  },
+  "303 wyman st|waltham|02451|usa": {
+    "lat": 42.406855,
+    "lon": -71.2553119
+  },
+  "ossarn, wiesing, oberndorf in der ebene|herzogenburg||aut": {
+    "lat": 48.2711682,
+    "lon": 15.6904718
+  },
+  "est. municipal campinas cam-465|bairro campo grande|1701|bra": {
+    "lat": -22.9370178,
+    "lon": -47.1436555
+  },
+  "rua esmeralda|bairro pradocep 30411-191 belo horizonte|786|bra": {
+    "lat": -19.9277779,
+    "lon": -43.9622356
+  },
+  "1260 avenida chelsea|vista (ca)|92081|usa": {
+    "lat": 33.1445301,
+    "lon": -117.2350866
+  },
+  "8 eu tong sen street|the central singapore|059818|sgp": {
+    "lat": 1.2845574,
+    "lon": 103.8435135
+  },
+  "office a901|the opus|449664|are": null,
+  "1/913 paholyothin 60|lum luk ka|12130|tha": {
+    "lat": 13.9401778,
+    "lon": 100.6252818
+  },
+  "avenida patria 2085|zapopan|45116|mex": {
+    "lat": 20.7081929,
+    "lon": -103.4110551
+  },
+  "road 38|thao dien ward||vnm": {
+    "lat": 21.0329471,
+    "lon": 105.8400981
+  },
+  "jalan permas|johor|81750|mys": {
+    "lat": 1.4974975,
+    "lon": 103.808128
+  },
+  "unit 45|muntinlupa city|9th floor|phl": {
+    "lat": 14.3892634,
+    "lon": 121.0449101
+  },
+  "menara palma 12th floor|jalan h.r rasuna said blok x-2|kaveling 6|idn": {
+    "lat": -6.2336694,
+    "lon": 106.8319038
+  },
+  "feldstraße 1a|unterschleißheim|85716|deu": {
+    "lat": 48.2759865,
+    "lon": 11.5890431
+  },
+  "hauptstr. 41|tiefenbach|94113|deu": {
+    "lat": 49.4357638,
+    "lon": 12.5889706
+  },
+  "135 brooke st|smythesdale|3351|aus": {
+    "lat": -37.6390365,
+    "lon": 143.6903794
+  },
+  "av. maranhão|porto alegre|590|bra": {
+    "lat": -30.0069034,
+    "lon": -51.2019661
+  },
+  "p.o. box 7|ingersoll|n5c 3k1|can": {
+    "lat": 43.0413269,
+    "lon": -80.9056002
+  },
+  "celadice 107|čeľadice|951 03|svk": {
+    "lat": 48.3263122,
+    "lon": 18.2403003
+  },
+  "av. américo vespucio n° 400|santiago de chile||chl": {
+    "lat": -33.469879,
+    "lon": -70.7608336
+  },
+  "xisanqi jiancai chengzhong road nr. 12|beijing|100020|chn": {
+    "lat": 39.9057136,
+    "lon": 116.3912972
+  },
+  "c/metal-lúrgia|la selva del camp|1|esp": {
+    "lat": 41.217629,
+    "lon": 1.1506546
+  },
+  "306|9/2 east patel nagar|110008|ind": {
+    "lat": 28.643204,
+    "lon": 77.1751536
+  },
+  "r.f.c. mal 121003i97|queretaro|76148|mex": {
+    "lat": 20.6427175,
+    "lon": -100.4049946
+  },
+  "419 venture ct|verona|53593|usa": {
+    "lat": 42.9826312,
+    "lon": -89.5401455
+  },
+  "jägerstraße 31|berlin||deu": {
+    "lat": 52.514106,
+    "lon": 13.3960297
+  },
+  "rolf-schwarz-schütte platz 1|monheim|40789|deu": {
+    "lat": 51.0714136,
+    "lon": 6.8925111
+  },
+  "stubenwald-allee 8a|bensheim|64625|deu": {
+    "lat": 49.6711802,
+    "lon": 8.5854686
+  },
+  "400 bedford st|manchester|03101|usa": {
+    "lat": 42.9924443,
+    "lon": -71.4668784
+  },
+  "hemmelrather weg 201|leverkusen||deu": {
+    "lat": 51.0374964,
+    "lon": 7.0185549
+  },
+  "davidson house|forbury square|rg1 3eu|gbr": {
+    "lat": 51.4561485,
+    "lon": -0.9675774
+  },
+  "avenida de los alpes|cornellá de llobregat|48|esp": {
+    "lat": 40.6552461,
+    "lon": -4.0324175
+  },
+  "max-becker-str. 6|weingarten||deu": {
+    "lat": 49.0491461,
+    "lon": 8.5106676
+  },
+  "wendlandstraße 1|lüchow|29439|deu": {
+    "lat": 52.9702108,
+    "lon": 11.1686892
+  },
+  "chemin du pré-fleuri 15 3ième étage|plan-les-ouates||che": {
+    "lat": 46.1651469,
+    "lon": 6.1091685
+  },
+  "brüningstraße 50|frankfurt||deu": {
+    "lat": 50.0966561,
+    "lon": 8.540493
+  },
+  "zollinplatz  4|badenweiler||deu": {
+    "lat": 47.8028762,
+    "lon": 7.6774847
+  },
+  "am haag 14|gräfelfing|82166|deu": {
+    "lat": 48.1226689,
+    "lon": 11.4530214
+  },
+  "moritzburger weg 67|dresden||deu": {
+    "lat": 51.1076931,
+    "lon": 13.7581482
+  },
+  "im wannenboden 16|pratteln|4133|che": {
+    "lat": 47.5218173,
+    "lon": 7.7162678
+  },
+  "willy-brandt-allee 2, münchen|munich||deu": {
+    "lat": 48.1327351,
+    "lon": 11.6928688
+  },
+  "am hünengrab 20|pritzwalk|16928|deu": {
+    "lat": 53.223804,
+    "lon": 12.2172337
+  },
+  "3 werksstraße|stulln||deu": {
+    "lat": 49.4246915,
+    "lon": 12.1456871
+  },
+  "hegenheimermattweg 167a|allschwil|4123|che": {
+    "lat": 47.5605447,
+    "lon": 7.5514837
+  },
+  "aemmenmattstrasse 16|belp||che": {
+    "lat": 46.8998517,
+    "lon": 7.5044412
+  },
+  "am klopferspitz 19|krailling||deu": {
+    "lat": 48.1076004,
+    "lon": 11.4612454
+  },
+  "grabenstrasse 11|schlieren|8952|che": {
+    "lat": 47.3988993,
+    "lon": 8.4510584
+  },
+  "icc route de pré-bois 20 1215 genève 15 (building d, 4th floor)|meyrin||che": null,
+  "rua republica de coreia|no. 20|20-a|prt": {
+    "lat": 38.8852287,
+    "lon": -8.4200679
+  },
+  "daimlerstr. 5b|karlsruhe||deu": {
+    "lat": 49.0259334,
+    "lon": 8.3552947
+  },
+  "zollhallenstraße 5|freiburg||deu": {
+    "lat": 48.0114975,
+    "lon": 7.8474597
+  },
+  "göllstr 1|tittmoning|84529|deu": {
+    "lat": 48.0546565,
+    "lon": 12.7702066
+  },
+  "gregor-mendel-straße 22|ladenburg||deu": {
+    "lat": 49.4707157,
+    "lon": 8.6360037
+  },
+  "libernstrasse 3|otelfingen||che": {
+    "lat": 47.4577979,
+    "lon": 8.401231
+  },
+  "|jena||deu": {
+    "lat": 50.9281717,
+    "lon": 11.5879359
+  },
+  "|ann arbor|48103|usa": {
+    "lat": 42.27678744892019,
+    "lon": -83.79120112680751
+  },
+  "mundipharmastraße 2|limburg an der lahn||deu": {
+    "lat": 50.3991987,
+    "lon": 8.0775529
+  },
+  "otto-hahn-straße 11, trittau, großensee|grande|22946|deu": {
+    "lat": 53.6242294,
+    "lon": 10.3966539
+  },
+  "sonnenmattstrasse 11|muttenz||che": {
+    "lat": 47.5298892,
+    "lon": 7.6504433
+  },
+  "515 cornelius harnett drive|wilmington|28401|usa": {
+    "lat": 34.2356697,
+    "lon": -77.9445648
+  },
+  "prinzenstraße 85d|berlin||deu": {
+    "lat": 52.5033455,
+    "lon": 13.4102077
+  },
+  "3a rudolf close|maitama||nga": {
+    "lat": 9.0957493,
+    "lon": 7.4938726
+  },
+  "industriestraße west 5|kapfenberg||aut": {
+    "lat": 47.4572663,
+    "lon": 15.3424526
+  },
+  "industriestraße 7-11|wahlstedt|23812|deu": {
+    "lat": 53.9453131,
+    "lon": 10.2042735
+  },
+  "hochbergstrasse 60c technology park|basel||che": null,
+  "donaustrasse 99|klosterneuburg||aut": {
+    "lat": 48.291134,
+    "lon": 16.344353
+  },
+  "neuendorfstraße 24a|hennigsdorf|16761|deu": {
+    "lat": 52.633336,
+    "lon": 13.210092
+  },
+  "keltenring 17|oberhaching||deu": {
+    "lat": 48.0333146,
+    "lon": 11.5897611
+  },
+  "am nußkopf 39|schiffweiler|66578|deu": {
+    "lat": 49.3504982,
+    "lon": 7.1273279
+  },
+  "im neuenheimer feld 584|heidelberg||deu": {
+    "lat": 49.422742,
+    "lon": 8.6761827
+  },
+  "an der zucker-raffinerie 9|süpplingen|38373|deu": {
+    "lat": 52.2222546,
+    "lon": 10.9063786
+  },
+  "theodor-kutzer-ufer 1|mannheim||deu": {
+    "lat": 49.4923525,
+    "lon": 8.4867398
+  },
+  "rothausstrasse 61|muttenz||che": {
+    "lat": 47.536697,
+    "lon": 7.6600266
+  },
+  "schorndorfer strasse 32|fellbach||deu": {
+    "lat": 48.8150276,
+    "lon": 9.280065
+  },
+  "amtsgerichtsstr. 1-5|lich|35423|deu": {
+    "lat": 50.5219292,
+    "lon": 8.8156679
+  },
+  "semmelweisstr. 3|krailling||deu": {
+    "lat": 48.0764094,
+    "lon": 11.3510275
+  },
+  "megglestr. 6-12|wasserburg am inn||deu": {
+    "lat": 48.0557401,
+    "lon": 12.1860154
+  },
+  "oudenarder straße 16|berlin||deu": {
+    "lat": 52.5526249,
+    "lon": 13.3601911
+  },
+  "neherstraße 9|munich||deu": {
+    "lat": 48.1396579,
+    "lon": 11.6025156
+  },
+  "zeppelinstraße 2|cuxhaven||deu": {
+    "lat": 53.8439792,
+    "lon": 8.7107251
+  },
+  "|basel||che": {
+    "lat": 47.5581077,
+    "lon": 7.5878261
+  },
+  "kägenstrasse 18|reinach|4153|che": {
+    "lat": 47.4861827,
+    "lon": 7.5975009
+  },
+  "kirchgasse 30|fraubrunnen||che": {
+    "lat": 47.0842791,
+    "lon": 7.5191457
+  },
+  "novartis campus|münchenstein||che": {
+    "lat": 47.5707834,
+    "lon": 7.5810674
+  },
+  "one health plaza|east hanover|07936|usa": {
+    "lat": 40.8096692,
+    "lon": -74.3810542
+  },
+  "calle 93b s-31|bogota|110541|col": {
+    "lat": 4.5056058,
+    "lon": -74.1192359
+  },
+  "merrion road|dublin||irl": {
+    "lat": 53.3172142,
+    "lon": -6.2088972
+  },
+  "na pankraci 1724/129|prague|140 00|cze": {
+    "lat": 50.0510418,
+    "lon": 14.4406236
+  },
+  "via espana|panama city||pan": {
+    "lat": 9.0105182,
+    "lon": -79.5060575
+  },
+  "edvard thomsens vej 14|copenhagen|2300|dnk": {
+    "lat": 55.631996,
+    "lon": 12.577929
+  },
+  "|tirana||alb": {
+    "lat": 41.3281482,
+    "lon": 19.8184435
+  },
+  "|macquairie park||aus": {
+    "lat": -31.6566543,
+    "lon": 129.5482471
+  },
+  "|amsterdam||nld": {
+    "lat": 52.3417979,
+    "lon": 4.823375
+  },
+  "|auckland||nzl": {
+    "lat": -36.852095,
+    "lon": 174.7631803
+  },
+  "|ikeja||nga": {
+    "lat": 6.5974727,
+    "lon": 3.3432815
+  },
+  "|skopje||mkd": {
+    "lat": 41.9962164,
+    "lon": 21.4318935
+  },
+  "|oslo||nor": {
+    "lat": 59.9067935,
+    "lon": 10.7610162
+  },
+  "|muscat||omn": {
+    "lat": 23.6123628,
+    "lon": 58.5938134
+  },
+  "|karachi||pak": {
+    "lat": 24.8528564,
+    "lon": 67.0176726
+  },
+  "|ciudad de panamá||pan": {
+    "lat": 8.9714493,
+    "lon": -79.5341802
+  },
+  "|makati city||phl": {
+    "lat": 14.5567949,
+    "lon": 121.0211226
+  },
+  "|warsaw||pol": {
+    "lat": 52.2138636,
+    "lon": 21.0037346
+  },
+  "|porto salvo||prt": {
+    "lat": 38.7293968,
+    "lon": -9.3036149
+  },
+  "|cataño||pri": {
+    "lat": 18.4415842,
+    "lon": -66.1398183
+  },
+  "|dhaka||bgd": {
+    "lat": 23.765714,
+    "lon": 90.4230068
+  },
+  "|st. michael||brb": {
+    "lat": 13.0978793,
+    "lon": -59.6124083
+  },
+  "|brussels||bel": {
+    "lat": 50.8467372,
+    "lon": 4.352493
+  },
+  "|sarajevo||bih": {
+    "lat": 43.8598337,
+    "lon": 18.427801
+  },
+  "|sao paulo||bra": {
+    "lat": -23.5506507,
+    "lon": -46.6333824
+  },
+  "|douala||cmr": {
+    "lat": 4.0429389,
+    "lon": 9.7062018
+  },
+  "|quebec||can": {
+    "lat": 52.4760892,
+    "lon": -71.8258668
+  },
+  "|santafe de bogota||col": {
+    "lat": 4.7602591,
+    "lon": -74.0467478
+  },
+  "|san jose||cri": {
+    "lat": 9.9327707,
+    "lon": -84.0796144
+  },
+  "|abidjan||civ": {
+    "lat": 5.3799927,
+    "lon": -4.0862133
+  },
+  "|zagreb||hrv": {
+    "lat": 45.8426414,
+    "lon": 15.9622315
+  },
+  "|wilemstad||cw": {
+    "lat": 12.1066695,
+    "lon": -68.9351307
+  },
+  "|doha||qat": {
+    "lat": 25.3108807,
+    "lon": 51.5081812
+  },
+  "|bucharest||rou": {
+    "lat": 44.4361414,
+    "lon": 26.102684
+  },
+  "|ekaterinburg||rus": {
+    "lat": 56.8351806,
+    "lon": 60.6032405
+  },
+  "|kazan||rus": {
+    "lat": 55.7946485,
+    "lon": 49.1115022
+  },
+  "|leshkovo village||rus": {
+    "lat": 55.5869011,
+    "lon": 37.7310227
+  },
+  "|moscow||rus": {
+    "lat": 55.7505412,
+    "lon": 37.6174782
+  },
+  "|novosibirsk||rus": {
+    "lat": 55.0288307,
+    "lon": 82.9226887
+  },
+  "|rostov-on-don||rus": {
+    "lat": 47.2222596,
+    "lon": 39.7198736
+  },
+  "|st. petersburg||rus": {
+    "lat": 59.9406782,
+    "lon": 30.2964999
+  },
+  "|dammam||sau": {
+    "lat": 26.4367824,
+    "lon": 50.1039991
+  },
+  "|jeddah||sau": {
+    "lat": 21.5504432,
+    "lon": 39.1742363
+  },
+  "|riyadh||sau": {
+    "lat": 24.638916,
+    "lon": 46.7160104
+  },
+  "|dakar||sen": {
+    "lat": 14.693425,
+    "lon": -17.447938
+  },
+  "|singapore country||sgp": {
+    "lat": 1.3646589,
+    "lon": 103.8235414
+  },
+  "|kempton park||zaf": {
+    "lat": -26.0964372,
+    "lon": 28.2336325
+  },
+  "|seoul||kor": {
+    "lat": 37.5666791,
+    "lon": 126.9782914
+  },
+  "|barcelona||esp": {
+    "lat": 41.3825802,
+    "lon": 2.177073
+  },
+  "|sardón de duero / valladolid||esp": {
+    "lat": 41.6085193,
+    "lon": -4.4339323
+  },
+  "|colombo||lka": {
+    "lat": 6.9388614,
+    "lon": 79.8542005
+  },
+  "|montevideo||ury": {
+    "lat": -34.9058916,
+    "lon": -56.1913095
+  },
+  "|tashkent||uzb": {
+    "lat": 41.3123363,
+    "lon": 69.2787079
+  },
+  "|caracas||ven": {
+    "lat": 10.5060934,
+    "lon": -66.9146008
+  },
+  "|lusaka||zmb": {
+    "lat": -15.4163395,
+    "lon": 28.2818414
+  },
+  "rue du pressoir vert|semoy|45400|fra": {
+    "lat": 47.9444047,
+    "lon": 1.946933
+  },
+  "39 route industrielle de la hardt|molsheim|67120|fra": {
+    "lat": 48.5418497,
+    "lon": 7.5295055
+  },
+  "zieglerstr. 6|aachen||deu": {
+    "lat": 50.7658993,
+    "lon": 6.1496547
+  },
+  "3 scholtzstr.|reinbek|21465|deu": {
+    "lat": 53.5251078,
+    "lon": 10.2456397
+  },
+  "elsenheimerstr. 53|munich||deu": {
+    "lat": 48.136925,
+    "lon": 11.5231615
+  },
+  "rheinstrasse 49|ingelheim am rhein||deu": {
+    "lat": 49.9762688,
+    "lon": 8.0359082
+  },
+  "7|rue thiers|78100|fra": {
+    "lat": 48.8978377,
+    "lon": 2.0987264
+  },
+  "slotsmarken 18|hørsholm|2970|dnk": {
+    "lat": 55.878595,
+    "lon": 12.482514
+  },
+  "via carlo noè 45|gallarate|21013|ita": {
+    "lat": 45.6580595,
+    "lon": 8.7829632
+  },
+  "ul. hankiewicza 2|warsaw|02-103|pol": {
+    "lat": 52.2091121,
+    "lon": 20.9787784
+  },
+  "300 interpace pkwy|parsippany|07054-1100|usa": {
+    "lat": 40.869572,
+    "lon": -74.449125
+  },
+  "no. 2272 hong qiao road|shanghai|200336|chn": {
+    "lat": 31.193288,
+    "lon": 121.3719226
+  },
+  "banjara hills no 12 road|hyderabad|500033|ind": {
+    "lat": 17.4467625,
+    "lon": 78.4607939
+  },
+  "neuer höltigbaum 38|hamburg||deu": {
+    "lat": 53.6093965,
+    "lon": 10.1859884
+  },
+  "5 tanners drive|milton keynes|mk14 5bu|gbr": {
+    "lat": 52.0778365,
+    "lon": -0.7455969
+  },
+  "30 rue jean rostand|orsay|91400|fra": {
+    "lat": 48.7090895,
+    "lon": 2.1762393
+  },
+  "via pinturicchio|milan|1|ita": {
+    "lat": 45.4755456,
+    "lon": 9.2211996
+  },
+  "europastraße 2 35394 gießen|giessen||deu": {
+    "lat": 50.5705868,
+    "lon": 8.7288774
+  },
+  "theodor-stern kai 7|frankfurt||deu": {
+    "lat": 50.0952039,
+    "lon": 8.6611054
+  },
+  "max-eyth-allee 100|potsdam||deu": {
+    "lat": 52.4385173,
+    "lon": 13.0134377
+  },
+  "hardenbergstraße 32|berlin||deu": {
+    "lat": 52.5080308,
+    "lon": 13.3291737
+  },
+  "zimmermannplatz 10|vienna||aut": {
+    "lat": 48.2167586,
+    "lon": 16.3441017
+  },
+  "robert-rössle straße haus 81; haus 87|berlin||deu": {
+    "lat": 52.6267811,
+    "lon": 13.5052656
+  },
+  "franz-leiber straße 1|bramsche|49565|deu": {
+    "lat": 52.4013499,
+    "lon": 8.0627879
+  },
+  "sandtorstraße 22|magdeburg||deu": {
+    "lat": 52.1393466,
+    "lon": 11.6518756
+  },
+  "mühlenstr. 1|lüdinghausen|59348|deu": {
+    "lat": 51.7704226,
+    "lon": 7.4433459
+  },
+  "bern|switzerland||che": {
+    "lat": 46.9484742,
+    "lon": 7.4521749
+  },
+  "weinberg 3|halle||deu": {
+    "lat": 51.496431,
+    "lon": 11.9440906
+  },
+  "via francesco chiesa 5|bellinzona||che": {
+    "lat": 46.195347,
+    "lon": 9.016685
+  },
+  "hammerstrasse 49|liestal|4410|che": {
+    "lat": 47.4977509,
+    "lon": 7.7248033
+  },
+  "|08130-sta perpètua de mogoda||esp": {
+    "lat": 41.529315,
+    "lon": 2.1641419
+  },
+  "alt-moabit 73/73a|berlin||deu": {
+    "lat": 52.5233896,
+    "lon": 13.332554
+  },
+  "eisenhüttenstraße 99|salzgitter||deu": {
+    "lat": 52.1526905,
+    "lon": 10.3931948
+  },
+  "mönkhofer weg 239a|lübeck||deu": {
+    "lat": 53.8363564,
+    "lon": 10.6998997
+  },
+  "schloss birlinghoven|sankt augustin|53757|deu": {
+    "lat": 50.7489894,
+    "lon": 7.2055664
+  },
+  "richard-steiff straße|giengen an der brenz||deu": {
+    "lat": 48.6207539,
+    "lon": 10.2371441
+  },
+  "boltzmannstraße 15|garching|85748|deu": {
+    "lat": 48.2656019,
+    "lon": 11.6699378
+  },
+  "wilhelm-stahl-allee 2|dummerstorf|18196|deu": {
+    "lat": 54.0123744,
+    "lon": 12.226973
+  },
+  "pfeffingerstrasse 45|allschwil|4123|che": null,
+  "11 birkerfeld|warngau|83627|deu": {
+    "lat": 47.8618059,
+    "lon": 11.7194006
+  },
+  "leipziger platz 18|berlin||deu": {
+    "lat": 52.5100298,
+    "lon": 13.3772737
+  },
+  "via cantonale 6595 riazzino|lavertezzo|6595|che": {
+    "lat": 46.1761742,
+    "lon": 8.8842398
+  },
+  "hanauer landstrasse 139-143|frankfurt||deu": {
+    "lat": 50.1127716,
+    "lon": 8.7138239
+  },
+  "inselstraße 1|hameln||deu": {
+    "lat": 52.1018873,
+    "lon": 9.3520285
+  },
+  "nexus | gloucester business park|gloucester|gl3 4ag|gbr": {
+    "lat": 51.839259,
+    "lon": -2.166225
+  },
+  "tjuvholmen allé 1|oslo|0252|nor": {
+    "lat": 59.908844,
+    "lon": 10.722827
+  },
+  "naverland 22|glostrup|2600|dnk": {
+    "lat": 55.68115,
+    "lon": 12.377642
+  },
+  "po175|carnegie|3163|aus": {
+    "lat": -37.8862294,
+    "lon": 145.0585695
+  },
+  "no. 40|dexing west road|111|twn": {
+    "lat": 25.1051351,
+    "lon": 121.5231837
+  },
+  "gustavlundsvägen|5 tr.|143|swe": {
+    "lat": 59.1986121,
+    "lon": 18.1265567
+  },
+  "leusderend 40|leusden|3832|nld": {
+    "lat": 52.1317126,
+    "lon": 5.3912889
+  },
+  "alfred-nobel straße 10 gebäude 03|monheim|40789|deu": {
+    "lat": 51.0736989,
+    "lon": 6.8945271
+  },
+  "liebigstr. 1-2|flörsheim|65439|deu": {
+    "lat": 50.0062131,
+    "lon": 8.4177559
+  },
+  "bio city|leipzig||deu": {
+    "lat": 51.3202037,
+    "lon": 12.3954218
+  },
+  "1317 edgewater dr|orlando|32804|usa": {
+    "lat": 28.5634693,
+    "lon": -81.3891336
+  },
+  "permoserstraße 19|leipzig||deu": {
+    "lat": 51.3512598,
+    "lon": 12.4351492
+  },
+  "chemin des mines 9 p.o. box 195|commugny|1291|che": null,
+  "senn ag, guido senn strasse 1|dielsdorf|8157|che": {
+    "lat": 47.4818179,
+    "lon": 8.4655645
+  },
+  "herderstr. 31|hilden||deu": {
+    "lat": 51.1780576,
+    "lon": 6.9211144
+  },
+  "10 wallufer straße|eltville||deu": {
+    "lat": 50.0276268,
+    "lon": 8.1271063
+  },
+  "hohenrainstrasse 12|pratteln|4133|che": {
+    "lat": 47.5248393,
+    "lon": 7.693201
+  },
+  "am ochsenwald 3|neunkirchen||deu": {
+    "lat": 49.3438809,
+    "lon": 7.2350584
+  },
+  "avenue du théâtre 7 c/o fid & trust sa|lausanne||che": null,
+  "50 science park road|singapore||sgp": {
+    "lat": 1.2881467,
+    "lon": 103.7777469
+  },
+  "hessenring 15i|morfelden|64546|deu": {
+    "lat": 49.9871003,
+    "lon": 8.5875522
+  },
+  "hohenzollerndamm 150-151|berlin||deu": {
+    "lat": 52.4902668,
+    "lon": 13.3135359
+  },
+  "chemin de la chatanerie 2|crissier||che": {
+    "lat": 46.5552744,
+    "lon": 6.5714338
+  },
+  "carlo-schmid-allee 5|dortmund||deu": {
+    "lat": 51.4881021,
+    "lon": 7.4825614
+  },
+  "konrad-adenauer-straße 15|linden||deu": {
+    "lat": 50.5259486,
+    "lon": 8.6666122
+  },
+  "c1-2006|no. 6000 shenzhuan rd|c1-2006|chn": {
+    "lat": 22.7104795,
+    "lon": 114.0365508
+  },
+  "an der alster 47|hamburg||deu": {
+    "lat": 53.5588331,
+    "lon": 10.0086554
+  },
+  "carrera 17 # 89-31|bogotá||col": {
+    "lat": 4.6751162,
+    "lon": -74.0548783
+  },
+  "arquímedes 154-1102|mexico city|11560|mex": {
+    "lat": 19.4268288,
+    "lon": -99.1918853
+  },
+  "rua funchal|sao paulo|418- 35|bra": {
+    "lat": -23.5936301,
+    "lon": -46.6905142
+  },
+  "rudi-conin-str 7|cologne||deu": {
+    "lat": 50.9818662,
+    "lon": 6.8939687
+  },
+  "stockholmer platz 1|stuttgart||deu": {
+    "lat": 48.7898741,
+    "lon": 9.1840494
+  },
+  "heinrich-schröder-weg 1|verden (aller)|27283|deu": {
+    "lat": 52.9297714,
+    "lon": 9.2659249
+  },
+  "piazza col. c. bernasconi 5|chiasso||che": {
+    "lat": 45.835296,
+    "lon": 9.0264223
+  },
+  "chemin de champ-colomb 7a, ecublens vd|écublens||che": {
+    "lat": 46.5379578,
+    "lon": 6.5719347
+  },
+  "rue de la source 3|courroux||che": {
+    "lat": 47.355714,
+    "lon": 7.3863137
+  },
+  "gewerbestraße 11|herrsching am ammersee||deu": {
+    "lat": 48.0036309,
+    "lon": 11.1732518
+  },
+  "5 amselweg|rheda-wiedenbrück|33378|deu": {
+    "lat": 51.8646959,
+    "lon": 8.2968775
+  },
+  "nördliche münchner straße 9c|grünwald||deu": {
+    "lat": 48.0658584,
+    "lon": 11.5453586
+  },
+  "mainzer landstr. 69|frankfurt||deu": {
+    "lat": 50.1096734,
+    "lon": 8.6617154
+  },
+  "märkersteig 27|ludwigsfelde|14974|deu": {
+    "lat": 52.3027592,
+    "lon": 13.2714061
+  },
+  "barkhausenweg 1|hamburg||deu": {
+    "lat": 53.648034,
+    "lon": 10.0622355
+  },
+  "krenngasse 37|graz||aut": {
+    "lat": 47.0676428,
+    "lon": 15.4593961
+  },
+  "rittergasse 27|bottmingen||che": {
+    "lat": 47.5262095,
+    "lon": 7.5718615
+  },
+  "lindberghstraße 9|puchheim||deu": {
+    "lat": 48.1625001,
+    "lon": 11.3377474
+  },
+  "dr. bohr-gasse 3|vienna||aut": {
+    "lat": 48.1893267,
+    "lon": 16.4016761
+  },
+  "clavadelerstrasse 8|davos||che": {
+    "lat": 46.7771239,
+    "lon": 9.8137561
+  },
+  "seidenstraße 36|stuttgart||deu": {
+    "lat": 48.7812407,
+    "lon": 9.1658259
+  },
+  "tumringer straße 289-203|lörrach||deu": {
+    "lat": 47.6232895,
+    "lon": 7.6587152
+  },
+  "25 suffolk street|county dublin|dublin 2|irl": {
+    "lat": 53.3435345,
+    "lon": -6.2603769
+  },
+  "aire de la thur|pulversheim|68840|fra": {
+    "lat": 47.8439155,
+    "lon": 7.2832254
+  },
+  "arheilger weg 17|roßdorf|64380|deu": {
+    "lat": 49.8650401,
+    "lon": 8.745427
+  },
+  "auf der schafweide 20|kirrweiler||deu": {
+    "lat": 49.3073273,
+    "lon": 8.1459451
+  },
+  "15a|route de la pépinière|67160|fra": {
+    "lat": 49.0266372,
+    "lon": 7.9461296
+  },
+  "8 winmarleigh street|warrington|wa1 1jw|gbr": {
+    "lat": 53.388428,
+    "lon": -2.5994357
+  },
+  "bodenhof 2|küssnacht am rigi||che": {
+    "lat": 47.086243,
+    "lon": 8.4412052
+  },
+  "moritzburger weg, lampertswalde, ebersbach, wildenhain, tauscha, zabeltitz, schönfeld, weißig am raschütz|priestewitz||deu": {
+    "lat": 51.2535414,
+    "lon": 13.509385
+  },
+  "boltzmannstrasse 15|garching|85748|deu": {
+    "lat": 48.2656019,
+    "lon": 11.6699378
+  },
+  "leonhardstrasse 21|zurich||che": {
+    "lat": 47.3780718,
+    "lon": 8.5461575
+  },
+  "paul-heyse straße 28|munich||deu": {
+    "lat": 48.135641,
+    "lon": 11.5556037
+  },
+  "|dülmen|48249|deu": {
+    "lat": 51.8283677,
+    "lon": 7.2791406
+  },
+  "|heesch||nld": {
+    "lat": 51.73519,
+    "lon": 5.5266331
+  },
+  "|landvetter||swe": {
+    "lat": 57.6624148,
+    "lon": 12.287763
+  },
+  "|morud||dnk": {
+    "lat": 55.4477763,
+    "lon": 10.1890722
+  },
+  "|kungsbacka||swe": {
+    "lat": 57.4888563,
+    "lon": 12.0787529
+  },
+  "|vodskov||dnk": {
+    "lat": 57.1095604,
+    "lon": 10.0228291
+  },
+  "500 paddock way|irving|75039|usa": {
+    "lat": 32.8780001,
+    "lon": -96.9432527
+  },
+  "greenways|lambourn|rg17 7le|gbr": {
+    "lat": 51.5047195,
+    "lon": -1.532671
+  },
+  "2 falmouth avenue|newmarket|cb8 0nb|gbr": {
+    "lat": 52.2415146,
+    "lon": 0.3958432
+  },
+  "6 york road|malton|y017 6ax|gbr": {
+    "lat": 54.1316248,
+    "lon": -0.8074793
+  },
+  "71 racecourse road|cambridge|3493|nzl": {
+    "lat": -37.8750694,
+    "lon": 175.4452335
+  },
+  "499 springs road|christchurch||nzl": {
+    "lat": -43.5042103,
+    "lon": 172.7098244
+  },
+  "berkenbroekstraat 1|bree|3960|bel": {
+    "lat": 51.1493976,
+    "lon": 5.7001318
+  },
+  "pannenweg 140|nederweert||nld": {
+    "lat": 51.27887,
+    "lon": 5.7538083
+  },
+  "avenue beau séjour 83|waterloo|1410|bel": {
+    "lat": 50.7257359,
+    "lon": 4.3874244
+  },
+  "46|avenue de grosbois|94470|fra": {
+    "lat": 48.7534067,
+    "lon": 2.5329616
+  },
+  "20|avenue du général leclerc|60500|fra": {
+    "lat": 49.1660904,
+    "lon": 2.4478709
+  },
+  "15|route de pringy|74370|fra": {
+    "lat": 45.9407714,
+    "lon": 6.1353975
+  },
+  "39|porte du grand lyon|01700|fra": {
+    "lat": 45.8207797,
+    "lon": 4.9248411
+  },
+  "29015 w meadowview rd|junction city|97448|usa": {
+    "lat": 44.1499244,
+    "lon": -123.2059015
+  },
+  "5000 n jones blvd|las vegas|89130|usa": {
+    "lat": 36.2308651,
+    "lon": -115.2250834
+  },
+  "16080 equine dr|nampa|83687|usa": {
+    "lat": 43.6062295,
+    "lon": -116.5051431
+  },
+  "2536 s ladd ave|washington|73093|usa": {
+    "lat": 35.1339205,
+    "lon": -97.4418727
+  },
+  "14175 concession road 8|schomberg|l0g 1t0|can": {
+    "lat": 43.9351642,
+    "lon": -79.6300402
+  },
+  "12240 2nd line|milton|l0p 1b0|can": {
+    "lat": 43.5415962,
+    "lon": -79.9851174
+  },
+  "280 main st n unit 100|uxbridge|l9p 1x4|can": {
+    "lat": 44.1088502,
+    "lon": -79.1226768
+  },
+  "writing creek crescent 260048|balzac|t0m 0e0|can": {
+    "lat": 51.2156111,
+    "lon": -114.0045579
+  },
+  "15281 mink rd|caldwell|83607|usa": {
+    "lat": 43.6401914,
+    "lon": -116.6520582
+  },
+  "5455 lexington rd|lexington||usa": {
+    "lat": 40.7582149,
+    "lon": -73.9706019
+  },
+  "25930 40 ave|langley|v4w 2a5|can": {
+    "lat": 49.07497,
+    "lon": -122.4653747
+  },
+  "17797 us-77|thackerville|73459|usa": {
+    "lat": 33.7962405,
+    "lon": -97.1412333
+  },
+  "10940 26 mile rd|oakdale|95361|usa": {
+    "lat": 44.985624,
+    "lon": -92.9645794
+  },
+  "500 dicey ford rd|camden|29020|usa": {
+    "lat": 34.2695268,
+    "lon": -80.6022198
+  },
+  "100 ansel ln|menlo park|94025|usa": {
+    "lat": 37.410897,
+    "lon": -122.199691
+  },
+  "15881 toro hills ave|salinas|93908|usa": {
+    "lat": 36.6062025,
+    "lon": -121.6967258
+  },
+  "64134 198 ave w|calgary|t2y 2z3|can": {
+    "lat": 51.0623638,
+    "lon": -113.9824416
+  },
+  "3689 landrum rd|columbus|28722|usa": {
+    "lat": 41.4390643,
+    "lon": -97.3629308
+  },
+  "325 s main st|troutman|28166|usa": {
+    "lat": 35.7059677,
+    "lon": -80.892585
+  },
+  "2911 lido plage rd|springstein||can": {
+    "lat": 49.8054393,
+    "lon": -97.5038576
+  },
+  "pickering road 11|tamahere|3493|nzl": {
+    "lat": -37.8651477,
+    "lon": 175.4381135
+  },
+  "grant road 30|kinloch|3385|nzl": {
+    "lat": -38.6543696,
+    "lon": 175.9851086
+  },
+  "540 mount crosby rd|anstead|4070|aus": {
+    "lat": -27.5416244,
+    "lon": 152.8628301
+  },
+  "2401 warrego hwy|haigslea|4306|aus": {
+    "lat": -27.561917,
+    "lon": 152.6346718
+  },
+  "34 ferguson ln|avenel|3664|aus": {
+    "lat": -36.8909873,
+    "lon": 145.2198064
+  },
+  "14 aberdeen st|muswellbrook|2333|aus": {
+    "lat": -32.2518345,
+    "lon": 150.8910128
+  },
+  "406 bunnan rd|scone|2337|aus": {
+    "lat": -32.0375621,
+    "lon": 150.8320201
+  },
+  "26 ogilvie st|denman|2328|aus": {
+    "lat": -32.3889312,
+    "lon": 150.6834489
+  },
+  "king george v avenue 144-162|east tamworth|2340|aus": {
+    "lat": -31.1112219,
+    "lon": 150.9477056
+  },
+  "jayes park courtyard 1|ockley|rh5 5rr|gbr": {
+    "lat": 51.1550141,
+    "lon": -0.3672383
+  },
+  "østermarksvej 24b|gjerlev|8983|dnk": {
+    "lat": 56.584251,
+    "lon": 10.136399
+  },
+  "skagensvej 195c|frederikshavn|9900|dnk": {
+    "lat": 57.468751,
+    "lon": 10.501019
+  },
+  "ejlstrupvej 140|ringsted||dnk": {
+    "lat": 55.483358,
+    "lon": 11.765387
+  },
+  "hvalsøvej 298|4360 kirke eskilstrup||dnk": {
+    "lat": 55.573629,
+    "lon": 11.81004
+  },
+  "nordlige bjergevej 7-9|8270 højbjerg||dnk": {
+    "lat": 56.102969,
+    "lon": 10.189182
+  },
+  "jagtvej 5|fredensborg|3480|dnk": {
+    "lat": 55.94435,
+    "lon": 12.369747
+  },
+  "ordrup jagtvej 201|2920 charlottenlund||dnk": {
+    "lat": 55.757096,
+    "lon": 12.586681
+  },
+  "travbanevägen 10|örebro|70231|swe": {
+    "lat": 59.2747287,
+    "lon": 15.2151181
+  },
+  "193 91|sigtuna||swe": {
+    "lat": 59.663744993269226,
+    "lon": 17.61718195480769
+  },
+  "staby gård 1|linköping|582 76|swe": {
+    "lat": 58.4536865,
+    "lon": 15.6431438
+  },
+  "runstens byväg|137 94 norra sorunda||swe": {
+    "lat": 59.1192466,
+    "lon": 17.940776
+  },
+  "155 91|nykvarn||swe": {
+    "lat": 59.23237245966387,
+    "lon": 17.40282447142857
+  },
+  "skästa|725 93 västerås||swe": {
+    "lat": 59.6508078,
+    "lon": 16.3789582
+  },
+  "186 91|vallentuna||swe": {
+    "lat": 59.5383396787234,
+    "lon": 18.214941140425534
+  },
+  "mikkolantie 62|tampere|33420|fin": {
+    "lat": 61.532667,
+    "lon": 23.6268736
+  },
+  "safírstræti 1|601 akureyri|601 akureyri|isl": {
+    "lat": 65.6798452,
+    "lon": -18.1595925
+  },
+  "550|sauðárkrókur||isl": {
+    "lat": 65.7313832,
+    "lon": -19.5735161
+  },
+  "hamraendi 1|203 kópavogur||isl": {
+    "lat": 64.0794899,
+    "lon": -21.8294403
+  },
+  "marienstraße 19/20 hai malaka|berlin||deu": {
+    "lat": 52.5226323,
+    "lon": 13.3837038
+  },
+  "ngong road|nairobi||ken": {
+    "lat": -1.2988053,
+    "lon": 36.7991624
+  },
+  "woreda 8|addis ababa||eth": {
+    "lat": 9.0198522,
+    "lon": 38.6945685
+  },
+  "makah street|khartoum||sd": {
+    "lat": 15.6111681,
+    "lon": 32.5414963
+  },
+  "off unity road|juba|00000|ss": {
+    "lat": 4.8736111,
+    "lon": 31.5413889
+  },
+  "erzwäsche 2|salzgitter||deu": {
+    "lat": 52.09944,
+    "lon": 10.36771
+  },
+  "sattlerstraße 40|isernhagen farster bauerschaft|30916|deu": {
+    "lat": 52.4695223,
+    "lon": 9.8365304
+  },
+  "joseph-von-fraunhofer straße 25|dortmund||deu": {
+    "lat": 51.4900881,
+    "lon": 7.4051944
+  },
+  "feodor-lynen straße 7|hannover||deu": {
+    "lat": 52.3873877,
+    "lon": 9.8014359
+  },
+  "bergheimer straße 139–151|heidelberg||deu": {
+    "lat": 49.4073995,
+    "lon": 8.6765679
+  },
+  "la romanèche 2c|étoy|1163|che": {
+    "lat": 46.4888852,
+    "lon": 6.4194982
+  },
+  "cra 13 no 124-56|bogotá||col": {
+    "lat": 4.6533817,
+    "lon": -74.0836331
+  },
+  "aristóbulo del valle 350|buenos aires||arg": {
+    "lat": -34.7965247,
+    "lon": -58.4253466
+  },
+  "urbanización entre rios|calle sexta|villa 21|ecu": {
+    "lat": -2.1791707,
+    "lon": -79.9786337
+  },
+  "calle sendero del mirador 36|santiago de querétaro|76060|mex": {
+    "lat": 20.5937737,
+    "lon": -100.3496638
+  },
+  "100 metros sur de recauchadora gigante|uruca||cri": {
+    "lat": 9.9206207,
+    "lon": -84.1899832
+  },
+  "badajoz 12|of. 402||chl": {
+    "lat": -33.4359285,
+    "lon": -70.6547366
+  },
+  "3|rue jean rostand|22440|fra": {
+    "lat": 48.4828442,
+    "lon": -2.7932515
+  },
+  "anna-louisa-karsch-straße 2|berlin||deu": {
+    "lat": 52.520401,
+    "lon": 13.4020734
+  },
+  "im stiefelfeld 10|brenk||deu": {
+    "lat": 50.442143,
+    "lon": 7.228704
+  },
+  "kackertstraße 7|aachen||deu": {
+    "lat": 50.7907068,
+    "lon": 6.0636663
+  },
+  "nürnberger straße 74|erlangen||deu": {
+    "lat": 49.5882067,
+    "lon": 11.0074614
+  },
+  "weberstrasse 3|zurich||che": {
+    "lat": 47.3700106,
+    "lon": 8.528696
+  },
+  "|timișoara||rou": {
+    "lat": 45.7538355,
+    "lon": 21.2257474
+  },
+  "bogotá|bogotá||col": {
+    "lat": 4.6533817,
+    "lon": -74.0836331
+  },
+  "bessemerstrasse 14, nürnberg|nuremberg||deu": {
+    "lat": 49.4751574,
+    "lon": 11.1061598
+  },
+  "passwangstrasse 20|breitenbach||che": {
+    "lat": 47.4050625,
+    "lon": 7.5428992
+  },
+  "ingolstädter landstraße 1|oberschleißheim||deu": {
+    "lat": 48.2211591,
+    "lon": 11.5904929
+  },
+  "senator-gerauer-str. 23|poing||deu": {
+    "lat": 48.1652092,
+    "lon": 11.7791178
+  },
+  "feurigstraße 54|berlin||deu": {
+    "lat": 52.4836774,
+    "lon": 13.3549252
+  },
+  "quai du seujet 12|geneva||che": {
+    "lat": 46.2055972,
+    "lon": 6.1363768
+  },
+  "im neuenheimer feld 515|heidelberg||deu": {
+    "lat": 49.4211949,
+    "lon": 8.6744793
+  },
+  "an der alster 85|hamburg||deu": {
+    "lat": 53.5567484,
+    "lon": 10.0033586
+  },
+  "lil-dagover ring 7|grünwald||deu": {
+    "lat": 48.062521,
+    "lon": 11.5565
+  },
+  "bahnhofstraße 16|regensburg||deu": {
+    "lat": 49.0121758,
+    "lon": 12.0966762
+  },
+  "beaufort trade park|pucklechurch|bs16 9qh|gbr": {
+    "lat": 51.4867959,
+    "lon": -2.4320655
+  },
+  "2964 meade ave.|las vegas|nv 89102|usa": {
+    "lat": 36.151859,
+    "lon": -115.1521147
+  },
+  "via bruno barilli|5/c|42124|ita": {
+    "lat": 44.7174707,
+    "lon": 10.620708
+  },
+  "c/ princesa|25 - 6.1|28008|esp": {
+    "lat": 40.4267119,
+    "lon": -3.7143698
+  },
+  "avenida xian xing hai|no. 81 - 121||mo": {
+    "lat": 22.1886442,
+    "lon": 113.5540704
+  },
+  "hacettepe technocity 1.r&d|çankaya ankara|6800|tur": {
+    "lat": 39.87087,
+    "lon": 32.7348348
+  },
+  "navervej 12|fredericia|7000|dnk": {
+    "lat": 55.533263,
+    "lon": 9.711786
+  },
+  "birsweg 1|arlesheim|4144|che": {
+    "lat": 47.497259,
+    "lon": 7.6085858
+  },
+  "hembrunnstrasse 17|dottikon|5605|che": {
+    "lat": 47.3725527,
+    "lon": 8.2424312
+  },
+  "|germany||deu": {
+    "lat": 52.4813269,
+    "lon": -1.9054517
+  },
+  "hochstrass-süd 7|raubling||deu": {
+    "lat": 47.8120189,
+    "lon": 12.117841
+  },
+  "plot no. 115|ramky pharma city|531019|ind": {
+    "lat": 12.8511825,
+    "lon": 77.6524372
+  },
+  "via pavia 1|gropello cairoli|27027|ita": {
+    "lat": 45.1691957,
+    "lon": 9.0062728
+  },
+  "|duisburg||deu": {
+    "lat": 51.434999,
+    "lon": 6.759562
+  },
+  "grazer straße 18|hausmannstätten|8071|aut": {
+    "lat": 46.9931175,
+    "lon": 15.5056775
+  },
+  "pinnauallee 4|tornesch|25436|deu": {
+    "lat": 53.6978607,
+    "lon": 9.7134454
+  },
+  "weissenaustrasse|interlaken|3800|che": null,
+  "tödistrasse 46|horgen||che": null,
+  "wallenroder straße 8-10|berlin||deu": {
+    "lat": 52.6036414,
+    "lon": 13.3412774
+  },
+  "georg-kalb straße 5|pullach im isartal|82049|deu": {
+    "lat": 48.0686244,
+    "lon": 11.5353251
+  },
+  "bahnhofstrasse 7|uznach|8730|che": null,
+  "kyffhäuserstraße 27|dresden||deu": {
+    "lat": 51.0505942,
+    "lon": 13.7948178
+  },
+  "dychweg 14|arlesheim|4144|che": null,
+  "unit 16|2 daydream street|nsw 2102|aus": {
+    "lat": -33.6763218,
+    "lon": 151.2857227
+  },
+  "platinastraat 161|zoetermeer||nld": {
+    "lat": 52.0362297,
+    "lon": 4.509102
+  },
+  "rua brigadeiro henrique fontenelle|são paulo|cep 05125000|bra": {
+    "lat": -23.4968747,
+    "lon": -46.7399583
+  },
+  "evaristo lillo 78|las condes|7580110|chl": {
+    "lat": -33.4138294,
+    "lon": -70.5813923
+  },
+  "9|rue eugène jung|68331|fra": {
+    "lat": 47.5875528,
+    "lon": 7.5814626
+  },
+  "heanor road|ilkeston||gbr": {
+    "lat": 52.9873204,
+    "lon": -1.3181999
+  },
+  "via albani 65|milano|20148|ita": {
+    "lat": 45.4823621,
+    "lon": 9.1443337
+  },
+  "weleda japan co.|ltd|150-0013|jpn": {
+    "lat": 35.7001061,
+    "lon": 139.5662778
+  },
+  "baizakov str. 280|almaty||kaz": {
+    "lat": 43.2371803,
+    "lon": 76.9150517
+  },
+  "302 te mata road|havelock north|4157|nzl": null,
+  "al. jerozolimskie 81|warszawa|02-001|pol": {
+    "lat": 52.2269727,
+    "lon": 21.0017066
+  },
+  "ludvigsbergsgatan 20|stockholm|11823|swe": {
+    "lat": 59.3199661,
+    "lon": 18.0549596
+  },
+  "dúbravčická 1/3600|bratislava|84102|svk": {
+    "lat": 48.1958594,
+    "lon": 17.0358753
+  },
+  "calle de manuel tovar|madrid|1|esp": {
+    "lat": 40.4888436,
+    "lon": -3.6911839
+  },
+  "bongeunsa-ro 207|gangnam-gu|06109|kor": {
+    "lat": 37.5094101,
+    "lon": 127.0353253
+  },
+  "lidická 336 /28|150 00|praha 5|cze": {
+    "lat": 50.0724994,
+    "lon": 14.4095875
+  },
+  "kyrilivska str. 6|kiev|04080|ukr": {
+    "lat": 50.4788749,
+    "lon": 30.4818856
+  },
+  "1 bridge st suite 42|irvington|10533|usa": {
+    "lat": 41.0402513,
+    "lon": -73.8729902
+  },
+  "15 münchener straße|sandersdorf||deu": {
+    "lat": 51.5652534,
+    "lon": 12.1824354
+  },
+  "kaiser-wilhelm-allee|leverkusen||deu": {
+    "lat": 51.014129,
+    "lon": 6.9885029
+  },
+  "27 wrench road|kempton park|1600|zaf": {
+    "lat": -26.1328912,
+    "lon": 28.2114543
+  },
+  "avenida miguel de cervantes saavedra 259|miguel hidalgo|11529|mex": {
+    "lat": 19.4401318,
+    "lon": -99.2048543
+  },
+  "avenida de las americas 80c-57|bogota|110851|col": {
+    "lat": 4.6319462,
+    "lon": -74.1524157
+  },
+  "south oak way|reading|rg2 0|gbr": {
+    "lat": 51.421616,
+    "lon": -0.9799643
+  },
+  "pansiontie 47|turku|20210|fin": {
+    "lat": 60.4468673,
+    "lon": 22.1854769
+  },
+  "achter clarenburg 25|utrecht||nld": {
+    "lat": 52.0909837,
+    "lon": 5.1155696
+  },
+  "100 bayer blvd|whippany|07981|usa": {
+    "lat": 40.8198498,
+    "lon": -74.4170816
+  },
+  "875 pacific highway|pymble|2073|aus": {
+    "lat": -33.7450624,
+    "lon": 151.1422887
+  },
+  "avenida tamanaco|caracas||ven": {
+    "lat": 10.4853525,
+    "lon": -66.8550338
+  },
+  "calle francisco alonso|alcala de henares|7|esp": {
+    "lat": 40.4867858,
+    "lon": -3.3889545
+  },
+  "central avenue|thane|400607|ind": {
+    "lat": 19.2572904,
+    "lon": 72.9837328
+  },
+  "aleje jerozolimskie|warszawa|02-326|pol": {
+    "lat": 52.2167943,
+    "lon": 20.9630765
+  },
+  "heidestraße 9|berlin||deu": {
+    "lat": 52.5302194,
+    "lon": 13.3689508
+  },
+  "kreuzlingerstrasse 1|lengwil|8574|che": null,
+  "1101 mt. view drive|smithfield|15478|usa": {
+    "lat": 35.5111996,
+    "lon": -78.346102
+  },
+  "1412 airport rd|monroe|28110|usa": {
+    "lat": 35.0200812,
+    "lon": -80.6238468
+  },
+  "7272 e indian school rd|scottsdale|85251|usa": {
+    "lat": 33.4956125,
+    "lon": -111.924534
+  },
+  "no.199|hongwu avenue tangqiao town||chn": {
+    "lat": 22.7845217,
+    "lon": 113.9058172
+  },
+  "1-13-10|kita shinagawa|140-0001|jpn": {
+    "lat": 35.6226748,
+    "lon": 139.7359575
+  },
+  "johanneswerkstraße 34-36|bielefeld||deu": {
+    "lat": 52.0405448,
+    "lon": 8.5364419
+  },
+  "hermann-körner-straße 52-54|reinbek|21465|deu": {
+    "lat": 53.5227999,
+    "lon": 10.2454353
+  },
+  "ul. dolna 21|łomianki|05-092|pol": {
+    "lat": 52.3285147,
+    "lon": 20.8978188
+  },
+  "calle de amaltea|madrid|9|esp": {
+    "lat": 40.3956103,
+    "lon": -3.6839042
+  },
+  "baohui street|shunyi district|101300|chn": {
+    "lat": 45.7487072,
+    "lon": 126.6782319
+  },
+  "16|rue de l'industrie|l-3895|lux": null,
+  "2202|gukjegeumyung-ro 2-gil|37|kor": {
+    "lat": 37.5231033,
+    "lon": 126.9244922
+  },
+  "fahrettin kerim gökay caddesi|göztepe / istanbul|34724|tur": {
+    "lat": 40.9844947,
+    "lon": 29.0556972
+  },
+  "bond avenue bletchley|milton keynes|mk1 1sw|gbr": {
+    "lat": 52.0102244,
+    "lon": -0.7214954
+  },
+  "industriestrasse 30|egerkingen|4622|che": null,
+  "leopoldstr. 175, 80804|münchen||deu": {
+    "lat": 48.1754234,
+    "lon": 11.5844339
+  }
+}

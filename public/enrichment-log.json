@@ -1,0 +1,47 @@
+[
+  {
+    "at": "2026-05-13T11:34:29.847Z",
+    "companyId": "cerbios-pharma-sa-lugano-che",
+    "applied": [
+      "contacts"
+    ],
+    "source": "chat"
+  },
+  {
+    "at": "2026-05-13T11:37:47.327Z",
+    "companyId": "has-healthcare-advanced-synthesis-sa-biasca-che",
+    "applied": [
+      "contacts"
+    ],
+    "source": "chat"
+  },
+  {
+    "at": "2026-05-13T11:43:16.539Z",
+    "companyId": "cerbios-pharma-sa-lugano-che",
+    "applied": [
+      "contacts"
+    ],
+    "source": "chat"
+  },
+  {
+    "at": "2026-05-13T11:45:48.596Z",
+    "companyId": "cerbios-pharma-sa-lugano-che",
+    "applied": [
+      "contacts"
+    ],
+    "source": "chat"
+  },
+  {
+    "at": "2026-05-13T11:50:00.713Z",
+    "companyId": "cerbios-pharma-sa-lugano-che",
+    "applied": [
+      "description"
+    ],
+    "source": "chat"
+  },
+  {
+    "at": "2026-05-13T11:50:13.301Z",
+    "source": "restore",
+    "filename": "companies-2026-05-13T11-50-00.689Z.json"
+  }
+]

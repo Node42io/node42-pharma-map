@@ -1,0 +1,220 @@
+@import "tailwindcss";
+
+:root, [data-theme="dark"] {
+  --bg-page: #15171a;
+  --bg-panel: #1f2329;
+  --bg-panel-2: #262b32;
+  --bg-elev: #2e343c;
+  --line: #2e343c;
+  --ink: #ffffff;
+  --muted: #a3acb9;
+  --dim: #6b7280;
+  --accent: #fdff98;
+  --prospect: #fdff98;
+  --lead: #7CC4FF;
+  --active: #7CFFAB;
+  --warn: #d56f6f;
+}
+
+[data-theme="light"] {
+  --bg-page: #f5f1e8;
+  --bg-panel: #ffffff;
+  --bg-panel-2: #f0ece4;
+  --bg-elev: #e9e4d8;
+  --line: #d8d2c2;
+  --ink: #15171a;
+  --muted: #5b6470;
+  --dim: #8a909a;
+  --accent: #fdff98;
+  --prospect: #fdff98;
+  --lead: #7CC4FF;
+  --active: #7CFFAB;
+  --warn: #d56f6f;
+}
+
+@theme inline {
+  --color-page: var(--bg-page);
+  --color-panel: var(--bg-panel);
+  --color-panel2: var(--bg-panel-2);
+  --color-elev: var(--bg-elev);
+  --color-line: var(--line);
+  --color-ink: var(--ink);
+  --color-muted: var(--muted);
+  --color-dim: var(--dim);
+  --color-accent: var(--accent);
+  --color-prospect: var(--prospect);
+  --color-lead: var(--lead);
+  --color-active: var(--active);
+  --color-warn: var(--warn);
+  --font-sans: var(--font-sans-app);
+  --font-mono: var(--font-mono-app);
+}
+
+html, body {
+  background: var(--bg-page);
+  color: var(--ink);
+  font-family: var(--font-sans-app), Inter, "Helvetica Neue", system-ui, sans-serif;
+  font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+  letter-spacing: -0.005em;
+}
+.font-mono { font-family: var(--font-mono-app), ui-monospace, "SF Mono", monospace; }
+
+* { border-color: var(--line); }
+
+/* Leaflet tile gutter — Dark Matter palette */
+.leaflet-container { background: #0d0f12; }
+[data-theme="light"] .leaflet-container { background: #f5f1e8; }
+/* Greyscale tile pane: desaturate basemap (navy water, accent borders)
+   to neutral grey while keeping markers / clusters / labels fully colored. */
+[data-theme="dark"] .leaflet-tile-pane { filter: grayscale(100%) contrast(1.05) brightness(0.95); }
+.leaflet-marker-icon.n42-pin { cursor: pointer; }
+.leaflet-tooltip {
+  background: #1f2329 !important;
+  color: #fff !important;
+  border: 1px solid #2e343c !important;
+  border-radius: 8px !important;
+  padding: 6px 10px !important;
+  box-shadow: 0 6px 16px rgba(0,0,0,.55) !important;
+  font-family: var(--font-sans-app), Inter, system-ui, sans-serif !important;
+}
+.leaflet-tooltip-top:before { border-top-color: #2e343c !important; }
+.leaflet-tooltip-bottom:before { border-bottom-color: #2e343c !important; }
+.n42-tooltip-name { font-size: 12px; font-weight: 600; }
+.n42-tooltip-meta { font-size: 11px; opacity: .65; margin-top: 1px; }
+
+/* Permanent pin label (zoom >= 8) — dark default, yellow when selected */
+.leaflet-tooltip.n42-pin-label {
+  background: #1f2329 !important;
+  color: #ffffff !important;
+  border: 1px solid #2e343c !important;
+  border-radius: 8px !important;
+  padding: 3px 8px !important;
+  font-size: 11px !important;
+  font-weight: 500 !important;
+  line-height: 1.3 !important;
+  box-shadow: 0 2px 6px rgba(0,0,0,.45) !important;
+  white-space: nowrap;
+}
+.leaflet-tooltip.n42-pin-label:before { display: none !important; }
+.leaflet-tooltip.n42-pin-label.n42-pin-label-selected {
+  background: #fdff98 !important;
+  color: #15171a !important;
+  border: 2px solid #15171a !important;
+  z-index: 700 !important;
+}
+[data-theme="light"] .leaflet-tooltip.n42-pin-label {
+  background: #ffffff !important;
+  color: #15171a !important;
+  border: 1px solid #15171a !important;
+  box-shadow: 0 2px 6px rgba(0,0,0,.18) !important;
+}
+[data-theme="light"] .leaflet-tooltip.n42-pin-label.n42-pin-label-selected {
+  background: #fdff98 !important;
+  color: #15171a !important;
+  border: 2px solid #15171a !important;
+  z-index: 700 !important;
+}
+.leaflet-control-attribution {
+  background: rgba(15, 17, 20, 0.7) !important;
+  color: #a3acb9 !important;
+}
+.leaflet-control-attribution a { color: #cbd2dc !important; }
+
+/* Leaflet zoom control — match the MapControls glass cluster vocabulary.
+   Goal: rounded-lg stack, theme tokens, soft shadow, backdrop-blur. */
+.leaflet-control-zoom {
+  border: none !important;
+  border-radius: 8px !important;
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1),
+              0 4px 6px -4px rgba(0, 0, 0, 0.1) !important;
+  overflow: hidden;
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+}
+.leaflet-control-zoom a.leaflet-control-zoom-in,
+.leaflet-control-zoom a.leaflet-control-zoom-out {
+  background: var(--bg-panel) !important;
+  color: var(--ink) !important;
+  border: 1px solid var(--line) !important;
+  font-weight: 500 !important;
+  font-size: 18px !important;
+  line-height: 28px !important;
+  width: 30px !important;
+  height: 30px !important;
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  transition: background 0.15s ease;
+}
+.leaflet-control-zoom a.leaflet-control-zoom-in {
+  border-radius: 8px 8px 0 0 !important;
+  border-bottom: none !important;
+}
+.leaflet-control-zoom a.leaflet-control-zoom-out {
+  border-radius: 0 0 8px 8px !important;
+}
+.leaflet-control-zoom a.leaflet-control-zoom-in:hover,
+.leaflet-control-zoom a.leaflet-control-zoom-out:hover {
+  background: var(--bg-panel-2) !important;
+  color: var(--ink) !important;
+}
+.leaflet-control-zoom a.leaflet-disabled {
+  opacity: 0.4;
+  cursor: default;
+}
+
+/* Custom marker cluster styling — dark navy bubble, yellow border + pin glyph */
+.n42-cluster-wrapper { background: transparent !important; border: none !important; }
+.n42-cluster {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 4px 8px;
+  border-radius: 14px;
+  background: #1f2329;
+  color: #d4d680;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 1;
+  border: 1.5px solid #d4d680;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+  white-space: nowrap;
+}
+.n42-cluster-pin { display: block; flex-shrink: 0; }
+.n42-cluster-pin path { fill: #d4d680; }
+[data-theme="light"] .n42-cluster {
+  background: #ffffff;
+  color: #15171a;
+  border: 1.5px solid #d4d680;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.18);
+}
+/* Hide default leaflet.markercluster styling */
+.marker-cluster { background: transparent !important; }
+.marker-cluster div { background: transparent !important; }
+
+/* Custom div-icon marker */
+.pin {
+  width: 22px; height: 22px; border-radius: 999px;
+  background: var(--prospect); border: 2px solid #15171a;
+  box-shadow: 0 2px 6px rgba(0,0,0,.5);
+}
+.pin.lead { background: var(--lead); }
+.pin.active { background: var(--active); }
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 10px; height: 10px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: #2e343c; border-radius: 6px; }
+::-webkit-scrollbar-thumb:hover { background: #3a414b; }
+
+/* Filter panel — thin internal scrollbar */
+.filter-scroll::-webkit-scrollbar { width: 4px; }
+.filter-scroll::-webkit-scrollbar-thumb { background: var(--line); border-radius: 4px; }
+.filter-scroll::-webkit-scrollbar-thumb:hover { background: var(--muted); }
+
+/* Number input — strip spinners inside filter panel */
+.filter-panel input[type="number"]::-webkit-outer-spin-button,
+.filter-panel input[type="number"]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+.filter-panel input[type="number"] { -moz-appearance: textfield; }
