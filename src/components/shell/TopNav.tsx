@@ -2,6 +2,7 @@
 import Image from "next/image";
 import { Question, ChatCircle } from "@phosphor-icons/react";
 import { ThemeToggle, useTheme } from "./ThemeToggle";
+import { assetPath } from "@/lib/asset-path";
 
 export type View = "map" | "list";
 
@@ -18,7 +19,9 @@ export interface TopNavProps {
  */
 export function TopNav({ chatOpen, onToggleChat }: TopNavProps) {
   const theme = useTheme();
-  const logoSrc = theme === "light" ? "/node42-logo-dark.png" : "/node42-logo.png";
+  const logoSrc = assetPath(
+    theme === "light" ? "/node42-logo-dark.png" : "/node42-logo.png",
+  );
   return (
     <header className="h-11 px-6 flex items-center justify-between bg-[var(--bg-page)] border-b border-[var(--line)] shrink-0 z-30">
       <Image
