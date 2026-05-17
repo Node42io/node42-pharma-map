@@ -14,6 +14,7 @@ import { downloadCsv } from "@/lib/csv";
 import { revenueOrder } from "@/lib/revenue";
 import type { Company, Filters, Status, Tier } from "@/lib/types";
 import { EMPTY_FILTERS } from "@/lib/types";
+import { assetPath } from "@/lib/asset-path";
 
 type SortKey = "employees" | "revenue" | null;
 type SortDir = "asc" | "desc";
@@ -43,7 +44,7 @@ export default function Home() {
 
   useEffect(() => {
     let cancelled = false;
-    fetch("/companies.json")
+    fetch(assetPath("/companies.json"))
       .then((r) => (r.ok ? r.json() : []))
       .then((data: Company[]) => {
         if (cancelled) return;
