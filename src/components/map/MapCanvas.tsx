@@ -5,9 +5,15 @@ import "leaflet/dist/leaflet.css";
 import "leaflet.markercluster/dist/MarkerCluster.css";
 import "leaflet.markercluster/dist/MarkerCluster.Default.css";
 import "leaflet.markercluster";
-import { MapContainer, TileLayer, useMap, ZoomControl } from "react-leaflet";
+import "maplibre-gl/dist/maplibre-gl.css";
+import type { StyleSpecification } from "maplibre-gl";
+import { maplibreGL } from "@maplibre/maplibre-gl-leaflet";
+import { MapContainer, useMap, ZoomControl } from "react-leaflet";
 import type { Company, Status, Tier } from "@/lib/types";
 import { useTheme } from "@/components/shell/ThemeToggle";
+import { assetPath } from "@/lib/asset-path";
+import voyagerStyle from "./basemap/voyager.json";
+import darkMatterStyle from "./basemap/dark-matter.json";
 
 // Fix default marker URLs (Next.js bundler quirk)
 delete (L.Icon.Default.prototype as unknown as { _getIconUrl?: unknown })._getIconUrl;
@@ -587,6 +593,35 @@ function FlyToHint({ hint }: { hint: MapHint | null }) {
   return null;
 }
 
+// Basemap: CARTO's open Voyager / Dark Matter GL styles, drawn by MapLibre from
+// OpenFreeMap vector tiles (no API key). CARTO's own tile servers now require a
+// key. Fonts + sprites are vendored under public/basemap/ (glyph PBFs fetched
+// once from CARTO's font server; Latin, Greek, Cyrillic, Hebrew, Arabic ranges).
+const BASEMAP_ATTRIBUTION =
+  '<a href="https://openfreemap.org" target="_blank">OpenFreeMap</a> &copy; <a href="https://www.openmaptiles.org/" target="_blank">OpenMapTiles</a> &copy; <a href="https://www.openstreetmap.org/copyright" target="_blank">OpenStreetMap</a> &copy; <a href="https://carto.com/attributions" target="_blank">CARTO</a>';
+
+function basemapStyle(light: boolean): StyleSpecification {
+  const base = new URL(assetPath("/basemap/"), window.location.origin).href;
+  const name = light ? "voyager" : "dark-matter";
+  return {
+    ...((light ? voyagerStyle : darkMatterStyle) as unknown as StyleSpecification),
+    glyphs: `${base}fonts/{fontstack}/{range}.pbf`,
+    sprite: `${base}sprites/${name}/sprite`,
+  };
+}
+
+function Basemap({ light }: { light: boolean }) {
+  const map = useMap();
+  useEffect(() => {
+    const layer = maplibreGL({ style: basemapStyle(light), attribution: BASEMAP_ATTRIBUTION } as Parameters<typeof maplibreGL>[0]);
+    layer.addTo(map);
+    return () => {
+      map.removeLayer(layer);
+    };
+  }, [map, light]);
+  return null;
+}
+
 export default function MapCanvas({
   rows,
   selectedId,
@@ -609,33 +644,13 @@ export default function MapCanvas({
       <MapContainer
         center={center}
         zoom={5}
+        maxZoom={18}
         style={{ width: "100%", height: "100%" }}
         scrollWheelZoom
         zoomControl={false}
         attributionControl
       >
-        {isLight ? (
-          <TileLayer
-            key="light-voyager"
-            attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/attributions">CARTO</a>'
-            url="https://{s}.basemaps.cartocdn.com/rastertiles/voyager_labels_under/{z}/{x}/{y}.png"
-            subdomains="abcd"
-          />
-        ) : (
-          <>
-            <TileLayer
-              key="dark-base"
-              attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/attributions">CARTO</a>'
-              url="https://{s}.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}.png"
-              subdomains="abcd"
-            />
-            <TileLayer
-              key="dark-labels"
-              url="https://{s}.basemaps.cartocdn.com/dark_only_labels/{z}/{x}/{y}.png"
-              subdomains="abcd"
-            />
-          </>
-        )}
+        <Basemap light={isLight} />
         <ZoomControl position="bottomright" />
         <FitToBounds rows={points} selectedId={selectedId} />
         <ZoomWatcher onChange={setShowLabels} />
